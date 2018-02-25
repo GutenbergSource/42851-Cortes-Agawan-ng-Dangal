@@ -1,0 +1,2455 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
+
+<!ENTITY gtilde CDATA "g" -- g with tilde -->
+<!ENTITY Gtilde CDATA "G" -- G with tilde -->
+<!ENTITY ngtilde CDATA "ng" -- ng with tilde -->
+<!ENTITY Peso CDATA "P" -- peso sign -->
+
+]><TEI.2 lang=tl>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Agawan ñg Dañgal</title>
+<author key="Cortes, Fausta">Fausta Cortes</author>
+<respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Project Gutenberg</publisher>
+<pubPlace>Urbana, Illinois, USA.</pubPlace>
+<idno type=epub-id>urn:uuid:e0488509-6715-44c7-954c-b7daffe854ae</idno>
+<idno type=PGclearance>20040811213630cortes</idno>
+<idno type=PGDPProjectId>projectID4126f519eb0a5</idno>
+<idno type=PGSrc>42851-Cortes-Agawan-ng-Dangal</idno>
+<idno type=PGnum>42851</idno>
+<date>2013-05-31</date>
+<availability lang=en>
+<p>&availability.en;
+
+<p>This eBook is produced by the Online Distributed Proofreading Team at <xref url="http://www.pgdp.net/">www.pgdp.net</xref>.
+
+<p><hi lang=tl>Agawan ng Dangal</hi> is a Tagalog romance novel published by a socio-civic youth organization called Kami Naman. Aside from the novel, this book contains a section on the history of Kami Naman.
+
+<p>In the novel, Beteng, a rich young man, is a suitor of a beautiful maiden named Dolores (Loleng). Artemyo acts as Beteng&apos;s &ldquo;bridge,&rdquo; serenading Loleng to win Beteng her affection. Unfortunately for Beteng, Loleng falls for Artemyo instead. Beteng is hurt by Loleng&apos;s rejection and sets out to tarnish Artemyo&apos;s reputation, or rob him of honor (<hi lang=tl>agawan siya ng dangal</hi>).
+
+
+</availability>
+</publicationStmt>
+<notesStmt>
+    <note type="Description">Agawan ng Dangal is a Tagalog romance novel published by a socio-civic youth organization called Kami Naman. Aside from the novel, this book contains a section on the history of Kami Naman.</note>
+</notesStmt>
+<sourceDesc>
+<bibl>
+<author>Fausta Cortes</author>
+<title>Agawan ñg Dañgal</title>
+<date>1914</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<p>Scans of this work are available from the Internet Archive (copy <xref url="https://archive.org/details/atl1018.0001.001.umich.edu">1</xref>).
+
+</encodingDesc>
+<profileDesc>
+    <langUsage>
+        <language id=en>English</language>
+        <language id=tl>Tagalog</language>
+    </langUsage>
+    <textClass>
+        <keywords>
+            <list>
+                <item>#####</item>
+            </list>
+        </keywords>
+    </textClass>
+</profileDesc>
+<revisionDesc>
+    <list>
+        <item>2011-02-01 Started.
+    </list>
+</revisionDesc>
+</teiHeader>
+<text rend="stylesheet(style/classic.css)">
+<front id=frontmatter>
+<div1 id=cover type=Cover>
+
+
+<p><figure id=cover-image rend="image(images/new-cover.jpg)">
+<figDesc>Newly Designed Front Cover.</figDesc>
+</figure>
+
+
+<div1 id=titlepage type=TitlePage>
+
+
+<p><figure id=titlepage-image rend="image(images/titlepage.png)">
+<figDesc>Original Title Page.</figDesc>
+</figure>
+
+
+
+<titlePage>
+<docTitle><titlePart type=sub>Aklatan ñg &ldquo;Kami Naman&rdquo;</titlePart>
+
+<titlePart>Agawan ñg Dañgal</titlePart>
+
+<titlePart type=sub>Kasaysayang Tagalog</titlePart></docTitle>
+
+<byline>Katha ni
+
+<lb><docAuthor>Fausta Cortes</docAuthor>
+
+<lb><hi>Nagíng Pa&ngtilde;alawáng Pang-ulo &ngtilde; &ldquo;Liga de Mujeres Filipinas&rdquo;; Kinatawán sa Unang Kapulu&ngtilde;ang Manggagawa at Taga-I&ngtilde;at-yaman &ngtilde; &ldquo;Magdamayán At Nang Matanghál&rdquo;.</hi>
+</byline>
+
+
+
+
+<docImprint>Ikatlong aklat ñg aklatan ñg
+
+<lb>&ldquo;Kami Naman&rdquo;
+
+<lb>Aklatan ng
+
+<lb>&ldquo;Kami Naman&rdquo;
+
+<!-- [Illustration] -->
+
+<lb>1045, Daang Dart, Pako,
+<lb>Maynila, K. P.
+
+<lb><docDate>1914</docDate>
+</titlePage>
+
+
+<pb>
+<div1 type=Introduction id=tutunghay>
+<head>SA TUTUNGHAY</head>
+
+
+<p><hi rend=sc>Kapatid</hi>: ¡Kay laking pagkabigó mo! Oo, nabigo ka; sapagka&apos;t kaya mo binili at babasahin itong <hi rend=sc>Agawan n&gtilde; Dan&gtilde;al</hi>, ay sa paniniwala mong ito ay kagaya n&gtilde; m&gtilde;a nabasa mo nang akda, na pawang mahahalaga at matatamis. Samantalang ang <hi rend=sc>Agawan n&gtilde; Dan&gtilde;al</hi> ay dahóp na dahóp sa palamuti ó hiyas na iyán. Salat sa matatamis na pananagalog. Dukha sa matatayog na isipan. Kapós sa mararan&gtilde;al na turo. Paano&apos;y ako sa Lupon n&gtilde; m&gtilde;a Manunulat n&gtilde; &ldquo;<hi rend=sc>Kami Naman</hi>&rdquo;, ay isang baguhan sa laran&gtilde;an n&gtilde; panulat. Lakas-loob lamang ang umakay at nagbunsod sa akin. Gayón ma&apos;y naniniwala akóng pakikinaban&gtilde;an mo upang gawing aliwan. At huwag nawang kumupas ang kapuripuri mong pagmamahal sa wikang tagalog.
+
+
+<p rend="class(signed)"><hi rend=sc>Ang Kumatha.</hi>
+
+
+
+<pb>
+<div1 id=patalastas type=Advertisements>
+<head>PATALASTAS</head>
+
+
+<p>Ang AGAWÁN ÑG DAÑGAL ay siyáng ikátlóng aklat ñg Aklatan ñg &ldquo;Kamí Namán&rdquo; na pinalabás ñg Lupon ñg mga Manunulat. Una ang &ldquo;<hi>Tagumpay ñg Apí</hi>&rdquo; ni Bb. Pascuala Pintor at ikalawá ang &ldquo;<hi>Tuntunin ñg Pulong</hi>&rdquo; ni G. Rosendo S. Cruz.
+
+<p>Ang AGAWÁN ÑG DAÑGÁL ay ipinagbibilí sa lahát ñg bilihan ñg aklat dito sa Maynila, sa halagáng dalawang piseta (&Peso;0.40) ang bawa&apos;t salin.
+
+<p>Ang AGAWÁN ÑG DAÑGÁL ay mababasa rin ñg mga na sa lalawigan, kung magpapadalá ñg halagáng isáng salapi (&Peso;0.50) kay <hi>Bb. Carmen de la Rosa</hi> sa Aklatan ñg &ldquo;<hi rend=bold>Kamí Namán</hi>&rdquo;, 1045, daang Dart, Pako, Maynila, K. P.
+
+<p>Ang AGAWÁN ÑG DAÑGÁL ay mapapakyáw sa Aklatan ñg &ldquo;<hi rend=bold>Kamí Namán</hi>&rdquo; at nagbabawas ñg malakí sa halagá.
+
+<p>Ang AGAWÁN ÑG DAÑGÁL ay aring tunay ñg kumatha.
+
+<p>Ang AGAWÁN ÑG DAÑGÁL ay gaya rín ñg lahát ñg sinulat ñg mga tagá &ldquo;<hi rend=bold>Kamí Namán</hi>&rdquo;, na maaaring bilhín sa pamamagitan ñg liham. Sumulat at ilakip ang halaga ñg aklat at gugol sa selyo sa nasabi ñg Aklatan ñg &ldquo;<hi rend=bold>Kamí Namán</hi>&rdquo;, at walang salang di nila tatanggapín sa pagbalík ñg korreo. Dapat ipadalá ang kalatas kay Bb. Carmen de la Rosa, ang Pañgulo ñg Lupon ñg mga Manunulat ñg &ldquo;<hi rend=bold>Kamí Namán</hi>&rdquo;.
+
+
+
+<pb>
+<div1 id=ads1 type=Advertisements>
+
+
+<p rend="align(center) font-size(large)"><hi rend=bold>AKLATAN ÑG</hi>
+
+<p rend="align(center) font-size(xx-large)">&ldquo;<hi rend=bold>KAMI NAMAN</hi>&rdquo;
+
+<p rend="align(center)"><hi rend=bold>1045, DAANG DART, PAKO, MAYNILA, K. P.</hi>
+
+<milestone unit=tb rend=space>
+
+<p rend="align(center) font-size(large)"><hi rend=bold>LUPON NG MGA MANUNULAT</hi>
+
+<milestone unit=tb>
+
+<p rend="align(center) font-size(large)"><hi rend=bold>MGA KATHANG LUMABAS NA</hi>
+
+
+<p rend="align(center)"><hi rend=bold>UNANG AKLAT</hi>
+
+<p rend="align(center) font-size(large)"><hi rend=bold>TAGUMPAY NG API</hi>
+
+<p>Katha ni Bb. Pascuala Pintor, Pan&gtilde;ulo n&gtilde; Lupon n&gtilde; m&gtilde;a Bituin n&gtilde; &ldquo;Kami Naman&rdquo; at pan&gtilde;atlo sa m&gtilde;a babaing pilipina na sumulat n&gtilde; nobela. Ang kathang ito ay larawan n&gtilde; m&gtilde;a pusong kulang n&gtilde; pagtatapat.
+
+
+<p rend="align(center)"><hi rend=bold>IKALAWANG AKLAT</hi>
+
+<p rend="align(center) font-size(large)"><hi rend=bold>TUNTUNIN NG PULONG</hi>
+
+<p>Sinulat ni G. Rosendo S. Cruz, Pan&gtilde;ulo n&gtilde; Pamahalaan n&gtilde; &ldquo;Kami Naman.&rdquo; Isang ganap na patakaran n&gtilde; maayos na pagpupulong. Halaw sa bantog na &ldquo;Robert&apos;s Rules of Orders&rdquo;.
+
+
+<p rend="align(center)"><hi rend=bold>IKATLONG AKDA</hi>
+
+<p rend="align(center) font-size(large)"><hi rend=bold>AGAWAN NG DANGAL</hi>
+
+<p>Akda ni Bb. Fausta Cortes, isa sa m&gtilde;a Bituin n&gtilde; &ldquo;Kami Naman&rdquo; at pangapat sa m&gtilde;a babaing pilipina na lumikha n&gtilde; kasaysayang tagalog. Ang akda ay matatarok sa pabasa n&gtilde; aklat na itó.
+
+
+
+
+<pb n=V>
+<div1 id=pangunang type=Introduction>
+<head>PANGUNANG HAKA
+<lb>NI
+<lb>G. Rosendo S. Cruz</head>
+
+
+<p>Hiniling n&gtilde; pinagpipitaganang kong Bb. Fausta Cortés, kumatha n&gtilde; aklat na ito, na ako ang siyang magbigay n&gtilde; pang-unang salita dito sa kaniyang akdang AGAWAN N&Gtilde; DAN&Gtilde;AL. Pagkapalibhasa&apos;y naging ugali ko na ang di marunong sumuay sa m&gtilde;a ganitong pithaya, lubha pa&apos;t ang humihiling ay isang gaya ni Bb. Fausta Cortés na di marapat pagkaitan, kaya mahirap man sakali sa akin ang tumungkol sa ganitong bagay ay tutupad ako at tahasang ilalahad ang aking m&gtilde;a kuro-kuro.
+
+<p>May ilan nang taong lumipas n&gtilde;ayon na ang suliranin n&gtilde; <hi>feminismo</hi> dito sa ating bayan ay napagtalunan hanggang sa m&gtilde;a pahayagan. Pinagkuro kong matamán ang m&gtilde;a katwirang pinanghawakan n&gtilde; m&gtilde;a sangayon at di sangayon, hanggang sa ang naging wakás ay napanig ang aking paniniwala sa salun&gtilde;at.
+
+<pb n=VI><p>Parang pagsurot sa aking pagpanig sa m&gtilde;a di sangayon sa <hi>feminismo</hi> ay walang kaabogabog ay sumipot naman ang m&gtilde;a kilalang kapisanan n&gtilde; m&gtilde;a babae na ang m&gtilde;a pamagat ay &ldquo;Liga de Mujeres Filipinas&rdquo; at &ldquo;Ang Babae Ngayon&rdquo;. Ang m&gtilde;a kapisanang ito, na pawang itinataguyod n&gtilde; m&gtilde;a babae ay nagpakita n&gtilde; kanikanilang kasiglahan at kapuripuring kabayanihan. Nang mapagmalas ko ang ganitong kilusan n&gtilde; m&gtilde;a babae ay unti-unting nahahapay ang aking pananalig sa di pagsangayon sa kababaihan. Unti-unting nawala ang aking pag-aakalang ang m&gtilde;a babae ay dapat lamang maging reina n&gtilde; m&gtilde;a tahanan, bulaklak na humahalimuyak sa isang halamanan.
+
+<p>Hindi n&gtilde;a lamang ito ang siyang nakapaghawi sa tabing n&gtilde; mali kong akala, kundi n&gtilde; matunghayan ko ang m&gtilde;a ilang aklat na katha n&gtilde; m&gtilde;a babae na ang m&gtilde;a ito ay ang &ldquo;Sawing Pagasa&rdquo; ni Bb. Francisca Laurel, ang &ldquo;Nang Bata pa Kami&rdquo; <corr sic="n&gtilde;">ni</corr> Bb. Pura L. Medrano, at ang &ldquo;Tagumpay n&gtilde; Api&rdquo; ni Bb. Pascuala Pintor. Ang pagsipot n&gtilde; m&gtilde;a nasabing aklat ay siyang lubusan na nagpagupo sa aking pananampalataya na ang m&gtilde;a babae ay batbat lamang n&gtilde; hiwaga, palamuti n&gtilde; isang tahanan, at aliwan sa magusot na buhay na ito. N&gtilde;ayon ako nanalig na ang m&gtilde;a babae ay hindi n&gtilde;a lamang pala isang kasangkapan <pb n=VII>sa loob n&gtilde; ating m&gtilde;a tahanan, ni bulaklak na samyuan n&gtilde; ban&gtilde;o, kun di ang m&gtilde;a babae n&gtilde;a pala ay isang tunay ding lakás, isang bahagi n&gtilde; lahi na may karapatan at kakayahang makatulong n&gtilde; pagpapaanyo n&gtilde; isang bayan, n&gtilde; isang lahi, at n&gtilde; sangkatauhan.
+
+<p>Dapat alisin ang piring n&gtilde; ating m&gtilde;a mata at ititig diyan, sa m&gtilde;a babaeng may m&gtilde;a ginintuang pagkukuro. Dapat han&gtilde;aan ang kanilang katalinuhan at kailan man ay di nararapat ipalagay n&gtilde; kahi&apos;t sino na ang babae ay alan&gtilde;an sa pagkukuro n&gtilde; isang lalaki.
+
+<p>¿May alinlan&gtilde;an pa kayo?
+
+<p>Naririto ang isa pang matibay na saksi n&gtilde; aking m&gtilde;a pan&gtilde;un&gtilde;usap. Basahin ninyo ang kathang AGAWAN NG DANGAL na bun&gtilde;a n&gtilde; isipan n&gtilde; isa ding babae na si Bb. Fausta Cortés at pagkatapus ay dilidilihin ninyo ang m&gtilde;a nasasaysay, tutupin ang inyong dibdib at sabay na tanun&gtilde;in ang inyong <corr sic=sarile>sarili</corr> kung tunay n&gtilde;ang ang ganitong panulat ay dapat han&gtilde;aan at sampalatayanan.
+
+<p>Ang aklat na ito ay isang matibay pa n&gtilde;ang saksi (aking inuulit) n&gtilde; katalinuhan n&gtilde; m&gtilde;a babae, lalo&apos;t higit ang sa kaniya&apos;y kumatha. Dumadaliri ang aklat na ito sa maling kinahimalin&gtilde;an n&gtilde; ilan na pagmamaimbot n&gtilde; sandat at imbing karan&gtilde;alan, pagwawalang bahala na sa lahat, mangyari na ang ano mang mangyayari makaagaw lamang at magtagumpay <pb n=VIII>ang pagiimbot n&gtilde; dan&gtilde;al. Anopa&apos;t ang aklat na ito ay nararapat maging salaming malinaw n&gtilde; m&gtilde;a masasama at mabubuting kalooban. Ang <corr sic=suliranin>suliraning</corr> idinudulot n&gtilde; aklat na ito ay nasa babasa ang kaibigan, alalaon <corr sic=bagay>baga&apos;y</corr>, kung ang mangbabasa ay walang takot na maging ganid at matapang ang loob na maging asal Kain ay pupulutin niya ang m&gtilde;a pakana n&gtilde; may masamang asal na nalalarawan sa aklat na ito. N&gtilde;uni&apos;t kung ikaw na mangbabasa ay kapatid ni Mabuting asal at anak ni Malinis na budhi ay pupulutin mo naman ang m&gtilde;a bagay na kapuripuring tinungkol n&gtilde; ulirán n&gtilde; magagandang asal.
+
+<p>Dapat n&gtilde;ang han&gtilde;aan ang panulat at pagkukuro n&gtilde; babaing may katha n&gtilde; aklat na ito. Ang isang kabaro ni Eva na may ganitong katalinuhan ay katan&gtilde;i-tan&gtilde;i. Ito&apos;y talagang taglay n&gtilde; kabihasnan.
+
+<p>¡Sulong kayo kababaihan! N&gtilde;ayon ay panahon n&gtilde; pagkilos. Pagbibigti ang pagwawalang kibo at pagpapakaimbi ang paghahalukipkip.
+
+
+<p rend="class(signed)"><hi rend=sc>Rosendo S. Cruz.</hi>
+<lb>Agosto 2, 1914.
+
+
+
+
+<pb n=IX>
+<div1 id=bituin>
+<head>SA MGA BITUIN NG &ldquo;KAMI NAMAN&rdquo;</head>
+
+
+<p>Makikislap na Bituin:
+
+<p>Lahat n&gtilde; búhay ay nagtatapos sa mapanglaw na kamatayan. Lahat naman n&gtilde; Samahan ay nagwawakas sa masaklap na paghihiwalay. Ang lakad na ito n&gtilde; kalikasan ay talagang di na mababago n&gtilde;ayon at sa haharapin. N&gtilde;uni&apos;t ang sanla ng pagaalaala, sagisag n&gtilde; pagmamahal, ay di kumukupas kailan man. Bagkus lalong nagiibayo habang tumatagal, ang tingkad at uri n&gtilde; katuturan. Paano&apos;y walang pagmamahal na napariwara.
+
+<p>Ang kalakhan n&gtilde; aking pananalig, na walang pagaalaalang nasawi, ay siyang nagutos sa akin, n&gtilde; paghahandog ko n&gtilde; maralitang akdang ito, sa inyong kapitapitagang m&gtilde;a bakás; saksi n&gtilde; aking pagmamahal. Inihahandog ko sa inyong m&gtilde;a yapak, hindi upang kayo ay aralan, kung hindi upang aliwin ang inyong m&gtilde;a pusong laging nan&gtilde;an&gtilde;arap n&gtilde; biyayang dulot n&gtilde; pagibig.
+
+<p>At ¿sino ako sa harap n&gtilde; makikislap na «Bituin»?
+
+<p>¡Ako!
+
+<p>¿Ako ang man&gtilde;an&gtilde;aral?
+
+<pb n=X><p>¡Ni sa panaginip ay hindi mangyayari!
+
+<p>Kailan&gtilde;ang masaulo ko ang dunong n&gtilde; sangkatauhan; kailan&gtilde;ang matarok ko ang lihim n&gtilde; sangkalan&gtilde;itan; kailan&gtilde;ang ako ay maging araw muna, bago ako lumuklok sa matayog na karan&gtilde;alang guro n&gtilde; m&gtilde;a «Bituin».... At sapagka&apos;t hindi mangyayari ang ginto kong guniguni, ay manulos na lamang tayo, sa ang <corr sic=AGAWANG>AGAWAN</corr> N&Gtilde; DAN&Gtilde;AL ay inihahandog ko sa inyo, tanda pang minsan n&gtilde; aking pagmamahal.
+
+<p>Inihahandog ko rin namán sa inyo, upang kung kayo ay umaawit na n&gtilde; bagong búhay, ay magunita man lamang, na kayo ay naging «Bituin» n&gtilde; «Kami Naman», suló na tumanglaw sa landás na binagtasan n&gtilde; masisikap na kawal n&gtilde; kilusan n&gtilde; mararalita. At mapagukulan nawa ninyo n&gtilde; dukha mang alaala ang m&gtilde;a nasawi sa pagsisigasig na itanghal ang bayang mahirap. Sa gayon ay mabibilang tayo sa boong sangsinukob na humahan&gtilde;a at nagdadan&gtilde;al sa m&gtilde;a pinagpala dahil lamang sa pagsisikap na buhayin ang naghihingn&gtilde;along pagkakapatiran....
+
+<p>¡Maging dapat nawa sa inyong kadakilaan!...
+
+<p>Nakikipagkapatiran,
+
+
+<p rend="class(signed)"><hi rend=sc>Fausta Cortes.</hi>
+<lb>Pako, 5 n&gtilde; Mayo n&gtilde; 1914.
+
+
+<pb n=XI>
+<div1 id=french type=FrenchTitle>
+
+
+<p rend="align(center) font-size(xx-large)">AGAWÁN ÑG DAN&Gtilde;ÁL
+
+
+<pb n=XII>
+<div1 id=epigraph type=Epigraph>
+
+
+                <p>&ldquo;Pagpipilitan naming bakahin ang lalong masamang sakít n&gtilde; tao: ang AGAWÁN N&Gtilde; DAN&Gtilde;ÁL, sakít na nagbabagsak n&gtilde; m&gtilde;a banal na layon at dakilang pan&gtilde;arap; sakít na lalong mabisa sa pagpatay sa naghihingn&gtilde;along pagkakapatiran at pipilitin naming sa ibabaw n&gtilde; sakit na iyán, ay magluningníng ang tagumpay n&gtilde; wastong ugali, ang paggalang at pagibig n&gtilde; tao sa tao....&rdquo;
+
+                <p>&mdash;Mga pan&gtilde;un&gtilde;usap ni G. Angel de los Reyes, Pan&gtilde;ulo n&gtilde; &ldquo;Kami Naman,&rdquo; sa talumpating binigkás nitó sa pagtatanghál n&gtilde; Samahán, noóng iká 26 n&gtilde; Oktubre, 1912.
+
+
+
+
+
+<pb id=pb13 n=13>
+</front>
+<body>
+<div1 id=ch1 n=I type=Chapter>
+<head type=label>I</head>
+
+<head>MGA PUSONG NAMANDAW NG KAPWA PUSO</head>
+
+
+<p>Ang kapanglawang naghari n&gtilde; gabing yaon sa isang nayon n&gtilde; Pako ay binulahaw n&gtilde; pagtapat n&gtilde; ilang pusong namamandaw n&gtilde; kapwa puso. Noon ay isa sa m&gtilde;a gabi n&gtilde; Enero; gabing napakalungkot, palibhasa&apos;y man&gtilde;ilangn&gtilde;ilang bituin lamang na nagbabansag n&gtilde; kadakilaan n&gtilde; Diyos, ang nagaantilaw sa nagtatampong lan&gtilde;it. Ang buwan noon ay nagmaramot n&gtilde; kanyang liwanag, at aywan kung saang sulok n&gtilde; kalawakan nagkubli ang kaibigan n&gtilde; gabi. Samantalang ang m&gtilde;a kuliglig at panggabing ibon ay umaawit n&gtilde; tagumpay, ang m&gtilde;a bulaklak naman ay ipinagpapalalo ang <pb id=pb14 n=14>kanilang ban&gtilde;o, alindog, at halimuyak. N&gtilde;uni&apos;t, sa lahat n&gtilde; ito ay namamaibabaw ang tinig n&gtilde; m&gtilde;a kalulwang idinadaing ang pagirog, gayong ang bahay na tinatapatan ay waring libin&gtilde;ang lahat ay natatahimik.
+
+<p>Natapos ang pangbun&gtilde;ad na tugtog. Isinunod naman ang isang <hi>magandang gabi pong</hi> kundiman. At dito&apos;y tinawagan na ang dalagang pinipintuho. Sa pamamagitan n&gtilde; malalambing na tinig, ay naunawa n&gtilde; lahat n&gtilde; doroon, na si Dolores pala ang dinadain&gtilde;an.
+
+<p>Pagkatapos n&gtilde; kundimang yaon, ay siya nang pagbubukas n&gtilde; lan&gtilde;it. Ang lapat na durun&gtilde;awan n&gtilde; bahay na tahimik ay nabuklat. Isang diwata n&gtilde; bagong panahon, isang bituing mayaman sa ganda, ay siyang tumanglaw sa m&gtilde;a pusong mapagpuyat; nagsabog n&gtilde; liwanag at tuwa.
+
+<p>&mdash;Magandang gabi po!&mdash;ang magalang na bati n&gtilde; lahat n&gtilde; na sa lupa.
+
+<p>&mdash;Magandang gabi po naman!&mdash;ang magiliw na tumbas n&gtilde; binibini&mdash;Tuloy kayo!... ¡tuloy!...
+
+<p>Ang bahay na may kaliitan ay nagsikip sa labing tatlong kalulwang umakyat sa lan&gtilde;it.
+
+<pb id=pb15 n=15><p>Ilang sandali lamang ang nakaraan at namayani na naman ang bigwela, biyolin, bandurya at plauta. Ang kaniláng tunog na tagapagtaboy n&gtilde; hapis, ay minsan pang nagtanghal n&gtilde; gilas.
+
+<p>Sa isang dako naman n&gtilde; harapang yaon, ang magandang si Dolores, ay nagsasabog n&gtilde; kanyang yaman: n&gtilde; dilag at hinhin. Ang maayos na tabas n&gtilde; mukha ay napapatun&gtilde;an n&gtilde; maiitim na buhok. Ang mapupulang pisn&gtilde;i ay tumatapat sa matingkad na itim n&gtilde; kilay. Malalagong pilik-mata ang nagaalaga sa maamong malas. Isang katatagang tan&gtilde;os n&gtilde; ilong ang nagmamalaki sa madugong m&gtilde;a labi. At nagiinamang mga n&gtilde;ipin ang bakod n&gtilde; katamtamang bibig na binubukalan n&gtilde; magigiliw na pananalita.
+
+<p>Samantalang <corr sic="an&gtilde;">ang</corr> m&gtilde;a kaharap ay isinasaloob ang pagpapasarap sa kanilang tugtugin, si Dolores naman ay isinasabog ang kanyang m&gtilde;a sulyap at titig. Inisaisang lihim na minasdan ang m&gtilde;a binatang yaon. Ang puso niya&apos;y sisikdosikdo; parang giniginaw na nilalagnat. Alan&gtilde;ang magmalaki at alan&gtilde;ang man&gtilde;imi.
+
+<p>Sa isang dako naman, ay payapang <pb id=pb16 n=16>nakikinig ang isang ginoo. Matabang sa mukha ay nababasa ang kagulan&gtilde;an na. Siya ay si kapitang Andoy na ama ni Dolores; ang kilala sa pan&gtilde;alang Alehandro Balderrama. Siya ay isa sa m&gtilde;a kinaaalangalan&gtilde;anan sa daang yaon n&gtilde; Sagat. Baga man lipas na ay kapitan pa rin ang tawag sa kanya. Sa tabi nito ay mukhang napopoot, nakasiman&gtilde;ot, at maasim na maasim ang mukha, n&gtilde; kapitana Martina, ang ali ni Dolores. Marahil ay dahil sa pagkabulahaw sa kanyang tulog. Liban sa tatlong ito, kay Dolores, sa kanyang ama, at sa kanyang ali, lahat na n&gtilde; <corr sic=dooron>doroon</corr> ay kabilang na n&gtilde; m&gtilde;a namamandaw n&gtilde; puso.
+
+<p>«Loleng nalulungkot ako!...» ang manay siyang bun&gtilde;ad na kundiman noong binatang tagaawit. Isang malumbay na tugtog ang isinaliw naman n&gtilde; bigwela. Si Dolores ay napalin&gtilde;on sa di kinukusa at naabala tuloy na magpasigarilyo. Ang puso niya&apos;y lalong nilagnat, at pinawisan siya n&gtilde; malamig. Irap naman ang itinugon ni kapitana Martina. At matapos ang magiliw na awit sa «...ay, Loleng n&gtilde; buhay ko!...»
+
+<p>&mdash;Aling Loleng&mdash;ang saad n&gtilde; isang makisig <pb id=pb17 n=17>na binatang kanina pa, ay mapupupuna na, na siya ang may patapat&mdash;ipinakikilala ko sa inyo ang aking kaibigan&mdash;at iniharap ang binatang umawit.
+
+<p>&mdash;Bagong lingkod mo po;&mdash;ang sambot n&gtilde; ipinakilala.&mdash;Artemyo de la Pas.
+
+<p>&mdash;Salamat po;&mdash;ang magiliw na tugon n&gtilde; dalaga&mdash;gayon din po naman: Dolores Balderrama.
+
+<p>At sila&apos;y nagkamayan, hanggang sa naipakilala ang lahat. Habang si kapitana Martina, ay lalong nagninin&gtilde;as ang poot, si Beteng naman, ang binatang may paharana, ay parang nagmamalaki sa kanyang m&gtilde;a kaibigan. Bawa&apos;t makasiping ay binulun&gtilde;an n&gtilde; «¿Bagay na ba sa akin?» Lihim na tatawa at panakaw na tititig sa masayang mukha ni Dolores. Hindi mapalagáy ang binata. Sa lahat ay masasayáng n&gtilde;iti ang iniuukol. Palipatlipat n&gtilde; upo, at sa labing-dalawáng kasama ay siyá ang lalong masigla at nagtatalík sa galák.
+
+<p>Ang katahimikan ay ginambala na naman n&gtilde; tugtugan. Parang sinasadyang binibiro ang pagkaasim n&gtilde; mukha n&gtilde; kapitana Martina. N&gtilde;uni&apos;t ¡himala yata at biglang nagbago ang kunot na noo, noong <pb id=pb18 n=18>madinig na muli ang panambitan ni Artemyo! Masayang nakiumpok at sinipin&gtilde;an ang kanyang ipinagmamalaking si Dolores.
+
+<lg type=Group>
+        <l>&ldquo;Ay Loleng! ay Loleng!...
+    <l>ako&apos;y mamamatay...
+    <l>kung hahabagin mo
+    <l>ang daing n&gtilde; buhay...&rdquo;
+</lg>
+
+<p>Iyan ang simula n&gtilde; mapanglaw na pagdaing, balot n&gtilde; taos na hinagpis, at sa tinig na waring nalulunod sa hirap.
+
+<p>Sa kalagitnaan, ay nagpahalata n&gtilde; panibugho; panibugho na bun&gtilde;a n&gtilde; pagmamahal; at pagmamahal na likha n&gtilde; pagirog. Anya&apos;y:
+
+<lg>
+        <l rend="indent(2)">Kung tumititig ka
+    <l>sa ibang binata,
+    <l>ang buhay ko Loleng
+    <l>ay papanaw yata...
+</lg>
+
+<p>Lalong sinasal n&gtilde; pagtibok ang puso ni Dolores. Waring kinikiliti naman si kapitana Martina. Gayong nakan&gtilde;iti n&gtilde; galak ang inaantok na kapitang Andoy. Patuloy naman sa pagsasaloob n&gtilde; tugtog yaong labing tatlong panauhin.
+
+<pb id=pb19 n=19><p>Napalaot n&gtilde; napalaot yaong si Artemyo sa pagawit. Halos tinig na lamang niya ang nagdidiwang sa loob n&gtilde; bahay. Dahil sa sarap n&gtilde; kundiman, kung minsan ay itirik ang mata sa ilaw na nakabitin. N&gtilde;uni&apos;t lalong marami ang lihim na sulyap niya kay Dolores, ang nahuhuli ni matandang Martina.
+
+<lg>
+        <l rend="indent(2)">&ldquo;Sa paglalaro mo
+    <l>n&gtilde; m&gtilde;a bulaklak
+    <l>gunitain lamang
+    <l>ang aba kong palad...&rdquo;
+</lg>
+
+<p>Iyan ang patuloy n&gtilde; binatang Artemyo sa kanyang pamamaibabaw. Sinasamantala naman itó ni Beteng upang kaulayawin ang kanyang pinopoon.
+
+<p>&mdash;Aling Loleng,&mdash;ang wika&mdash;talaga pong sa kaibigan kong iyan ay ipinagkakatiwala ko ang aking boong buhay...
+
+<p>&mdash;Gayon pala!&mdash;ang sambot ni Dolores&mdash;na ipinagkatiwala na ninyo sa kanya ang boong buhay ninyo, ay ¿bakit pa kayo sumama rito?
+
+<p>&mdash;Ba!&mdash;ang tutol ni Beteng<corr sic=" ">&mdash;</corr>ang ibig kong sabihin ay ipinagkakatiwala kong siya na ang dumaing n&gtilde; hirap ko...
+
+<pb id=pb20 n=20><p>&mdash;Sapagka&apos;t ang damdamin n&gtilde; puso ni Pedro ay maidadaing n&gtilde; bibíg ni Huwan....
+
+<p>&mdash;Napopoot ba kayo?&mdash;ang maamong tanong ni Beteng na nakahalatang totoong mailap si Dolores. Napuna niyang ang m&gtilde;a tugon sa kanya ay nasasaputan n&gtilde; suliranin.
+
+<p>&mdash;Bakit ako mapopoot?&mdash;ang pakli n&gtilde; dalaga&mdash;sa ang katotohana&apos;y ariin mang biro; ay ipinagtatapat kong walang itatagal ang aking puso sa kanyang panambitan....
+
+<lg>
+        <l>&ldquo;Di ka na naawa
+    <l>sa aking pagdaing:
+    <l>buhay n&gtilde; buhay ko
+    <l>ligaya at aliw...&rdquo;
+</lg>
+
+<p>Ang waring pakikihalobilo n&gtilde; kundiman na ikinauntol n&gtilde; pagsasalaysay ni Dolores. Sandali silang nanahimik, bago nagsalita si Beteng n&gtilde;:
+
+<p>&mdash;Diyata&apos;t ¿wala kayong itatagal sa kanyang panambitan?
+
+<p>&mdash;Kung wariin ko&mdash;ang salo n&gtilde; dalaga.
+
+<p>&mdash;Sa gayo&apos;y namamanaag na ang aking tagumpay!
+
+<p>&mdash;At bakit po?
+
+<pb id=pb21 n=21><p>&mdash;Di ba sinabi ninyong nahahabag ang puso ninyo sa kanyang panambitan?
+
+<p>&mdash;Opo.
+
+<p>&mdash;Di nababagbag na ang loob ninyo sa akin? Sapagka&apos;t ang daing ni Artemyo ay siyang daing ko....
+
+<p>&mdash;Gayon po ba?
+
+<p>&mdash;Sinabi ko na pong ipinagkakatiwala ko sa kanya ang boong buhay ko.
+
+<p>&mdash;Ah, ¡mali kayo! ¡Iba si Artemyo kay Beteng! Ang daing ni Artemyo ay buhat sa kanyang puso kaya ang pagkahabag doon, ay pagkahabag sa kanyang pagkatao.....
+
+<p>&mdash;Nagbibiro yata kayo!
+
+<p>&mdash;Hindi. At ¿bakit ko kayo bibiruin?
+
+<p>&mdash;Aling Loleng!
+
+<p>&mdash;Talagang totoo: ang puso ko&apos;y nababagbag sa kanyang panambitan. ¡Kay tamis niyang umawit! ¡Kay sarap dumaing!
+
+<p>&mdash;Aling Loleng! <corr>¡</corr>Nilulunod ninyo ako!...
+
+<p>Hindi sumagot ang dalaga n&gtilde;uni&apos;t ang malas ang pinapagsalita. Tinitigan si Beteng n&gtilde; titig na makahulugan. Aywan kung bakit kinuha nito ang kanyang sombrero at matuling umalis. Nilisan ang kanyang m&gtilde;a kaibigan at kasama n&gtilde; walang pasintabi. Sa katamisan <pb id=pb22 n=22>n&gtilde; kundiman ni Artemyo ay di naman siya napuna. Liban kay Dolores, ang <corr sic=mahinhin>mahinhing</corr> si Loleng, ay walang nakaino. Ito lamang ang nakatatarok na si Beteng ay yumaong may taglay na poot at banta. May poot sapagka&apos;t nabigla siya sa m&gtilde;a tugon ni Dolores. At may banta sapagka&apos;t nalalaman&gtilde;an siya ni Artemyo. Anaki&apos;y isáng bayang nilubugán n&gtilde; araw ang dibdib niyáng binabayó n&gtilde; pagn&gtilde;in&gtilde;itn&gtilde;it.
+
+<lg>
+        <l rend="indent(2)">&ldquo;Titigil na naman
+    <l>ako sa pagdaing,
+    <l>na nagaantabay
+    <l>n&gtilde; awa mo Loleng...&rdquo;
+</lg>
+
+<p>Diyan natapos ang malungkot n&gtilde;uni&apos;t magiliw na kundiman, na dinaluhan n&gtilde; nakakikiliting taginting n&gtilde; bigwela at biyolin.
+
+<p>Hindi napigilan ni kapitana Martina ang kanyang palakpak; datapwa&apos;t si kapitang Andoy ay tinalo na tuloy n&gtilde; antok.
+
+<p>&mdash;Salamat po&mdash;ang magiliw na sabi n&gtilde; ating dalaga, bago pinagukulan si Artemyo n&gtilde;&mdash;¡Kay buti pala ninyong umawit!...
+
+<pb id=pb23 n=23><p>&mdash;Baka kung ano na po iyan?&mdash;ang may hiyang pakli n&gtilde; binatang pinuri.
+
+<p>Ang usisaang &ldquo;¿nahan si Beteng?&rdquo; ay siyang pumigil sa dalaga upang tugunin ang binata. Isa&apos;t isa&apos;y nagtanun&gtilde;an. Sa tanóng ay tanong din ang itinutumbas. Kaya&apos;t nagdiwang ang alin&gtilde;asn&gtilde;as at lahat, liban kay Dolores at sa nakakatulog na kapitang Andoy, ay pinagharian n&gtilde; pagtataka.
+
+<p>&mdash;Marahil ay may sumundo&mdash;ang saad ni kapitana Martina.
+
+<p>&mdash;Magpaalam na tayo&mdash;ang lihim namang anyaya n&gtilde; may hawak n&gtilde; bigwela sa kanyang katabi.
+
+<p>&mdash;Siya n&gtilde;a&mdash;ang <corr sic="áyon">ayon</corr> naman nito.
+
+<p>&mdash;Tayo na&mdash;ang ulit n&gtilde; isa.
+
+<p>&mdash;Gabi na tayo&mdash;ang patuloy n&gtilde; iba.
+
+<p>At lahat ay pinatahimik na naman n&gtilde; tagingting n&gtilde; tuwa. Tumugtog sila n&gtilde; isang pangwakas. Si Artemyo noon ay napatabi.
+
+<p>&mdash;Aalis na ba kayo?&mdash;ang tanong ni Dolores sa mapalad na binata.
+
+<p>&mdash;Opo,&mdash;ang tugon nito&mdash;sapagka&apos;t totoong mababagabag kayo.
+
+<p>&mdash;Wala po kayong aalalahanin.
+
+<p>&mdash;Salamat po.
+
+<pb id=pb24 n=24><p>&mdash;Kayo pala&apos;y kinatawan ni mang Beteng&mdash;ang may n&gtilde;iting salaysay n&gtilde; dalaga.
+
+<p>&mdash;Siya pong totoo.
+
+<p>&mdash;Di ang inawit ninyo&apos;y parang inawit nila?
+
+<p>&mdash;Gayon n&gtilde;a po.
+
+<p>&mdash;At ang panambitan ninyo ay panambitan nila?
+
+<p>&mdash;Yaon po ang dapat.
+
+<p>&mdash;Nagkasala ako!&mdash;ang waring hinampo n&gtilde; dakilang babai&mdash;boong akala ko&apos;y lahat n&gtilde; inyong inawit ay bukal sa inyong puso, mula sa ubod n&gtilde; inyong buhay!...
+
+<p>Kinabahan si Artemyo n&gtilde; marinig ito. Ang puso niya&apos;y di mapalagay. Parang binabayo ang kanyang dibdib. Sampung paghin&gtilde;a ay nan&gtilde;an&gtilde;apos. ¡Kaawaawang kalulwá sa <corr sic=gina>gitna</corr> n&gtilde; kagipitan! At ang boóng pagkatao niya&apos;y dagling sumuko sa gayóng dilág. Subali&apos;t ang kapalaran ay itinapat siya sa landas na dapat tuntunin. At anya&apos;y:
+
+<p>&mdash;Ikaw po ang masusunod: maiyuukol mo saan man ibigin, at di malilihis ang iyong akala...
+
+<p>Hindi tumugon ang dalaga at sinamantala ni Artemyo:
+
+<pb id=pb25 n=25><p>&mdash;Aling Loleng, kung batid mo lamang ang itinitibok n&gtilde; aking loob, ang iniluluha n&gtilde; aking puso, ay sasabihin mong ako&apos;y sinun&gtilde;aling....
+
+<p>&mdash;At hindi ba kayo sinun&gtilde;aling?&mdash;ang dugtong n&gtilde; dalaga&mdash;¿Di ba kasinun&gtilde;alin&gtilde;an ang maglahad n&gtilde; wala sa loob?
+
+<p>&mdash;Wala sa loób!
+
+<p>&mdash;Kayo na rin po ang nagsabi.
+
+<p>&mdash;Yaon po&apos;y lambing lamang n&gtilde; pusong nagtataglay n&gtilde; hiya.... Isang pakunwari n&gtilde; pagibig na nagaalan&gtilde;an sa dakila mong ganda....
+
+<p>&mdash;Nagaalan&gtilde;an?
+
+<p>&mdash;Opo, aling Loleng, at baka di maging dapat na maglingkod sa inyo....
+
+<p>Tinotoo na ni Artemyo ang pan&gtilde;un&gtilde;umpisal. Nilimot na niya ang kanyang tungkulin. Hindi na naaalaalang siya ay kasangkapan ni Beteng. Wala na sa gunitang siya ay bibig lamang n&gtilde; kanyang kaibigan.
+
+<p>Si Dolores, ang mabining dalaga na sumuko ang puso sa m&gtilde;a pagawit ni Artemyo, ay parang nagayuma. Sa kanyang mukha at pan&gtilde;un&gtilde;usap ay nalalarawan ang paggiliw na nabihag n&gtilde; mapalad na binata.
+
+<pb id=pb26 n=26><p>Sa pagtititigan n&gtilde; dalawang kalulwa ay natapos ang pangwakas na tugtog. Ang m&gtilde;a namamandaw n&gtilde; puso ay nagtayuan na. Isa&apos;t isang nagpaalam at nakipagkamay sa bunying binibini. Ang pagkakataon ay di sinayang ni Artemyo. Siya ang nagpahuli sa lahat. Kinamayan niya n&gtilde; boong higpit si Dolores at dinamdam naman nito ang katuturan noon. M&gtilde;a titig nila ang nagpalitan n&gtilde; damdamin n&gtilde; kanilang dibdib.
+
+<p>Doon natapos ang masayang gabi.
+
+
+
+
+<pb id=pb27 n=27>
+<div1 n=II id=ch2>
+<head type=label>II</head>
+
+<head>HINDI NAPAWASTONG PAGTITIYAP</head>
+
+
+<p>Doon sa kabilang dulo n&gtilde; daang Sagat, sa hanay din n&gtilde; inuuwian n&gtilde; mapanghalinang si Dolores, ay dalawang lalaki yaong ipinagtatanong si Beteng. Sa isáng magandang tahanan, doón silá pumanhík, sapagka&apos;t yaón ang itinuro sa kanilá n&gtilde; napagsanggunian.
+
+<p>&mdash;M&gtilde;a kaibigan&mdash;ang buhat sa itaas ay kanilang narinig&mdash;tulóy kayo, tulóy kayo....
+
+<p>&mdash;Magandang araw po mang Beteng&mdash;ang bati namán n&gtilde; dalawá.
+
+<p>Silá&apos;y pumanhík at ginanáp ang karaniwang kumustahan. Matapos ilapat ni Beteng ang pinto ay nagsaád n&gtilde; ganito:
+
+<p>&mdash;Malakíng suliranin ang gumuguló sa isip ko, kaya inabala ko kayong ipinatawag. <pb id=pb28 n=28>Sa inyong pan&gtilde;an&gtilde;ailan&gtilde;an ay nalalaan namán ako.
+
+<p>&mdash;Salamat po&mdash;ang salo ni Pastor na isá sa m&gtilde;a panauhin.
+
+<p>&mdash;Sapagka&apos;t kayo&apos;y inaári kong m&gtilde;a kapatid ay sa inyo ko dapat ipagtapat.
+
+<p>&mdash;Ipatuloy mo po&mdash;ang pakli ni Simón, na kasama ni Pastor.
+
+<p>&mdash;Malaon nang ang puso ko&apos;y pinapagdudusa ni Dolores&mdash;ang patuloy ni Beteng&mdash;n&gtilde;uni&apos;t ¡kay pait n&gtilde; nasasapit ko!... ¡Pawang tiwali! At kagabi lamang ay hinarana namin, n&gtilde;uni&apos;t gaya rin n&gtilde; dati, ay pawang paglibak sa akin ang aking napala....
+
+<p>&mdash;Bakit po?&mdash;ang tanong ni Pastor.
+
+<p>&mdash;Di ba kayo pinaakyat?&mdash;ang usisa ni Simón.
+
+<p>&mdash;Pinatuloy kami, dili ang hindi&mdash;ang patlang ni Beteng&mdash;n&gtilde;uni&apos;t ang pagkapatuloy sa amin, ay siyang lalong nagbansag n&gtilde; kaapihan ko. Opo, kaapihan, pagka&apos;t sukat bang itanóng sa akin ni Dolores na kung bakit pa raw ako sumama roon....
+
+<p>&mdash;Yaon po&apos;y ugali na n&gtilde; dalaga: lahat n&gtilde; nais nilang sabihin ay dinadaan sa hinampo&mdash;ang putol ni Simón.
+
+<pb id=pb29 n=29><p>&mdash;Hindi kaibigan,&mdash;ang tutol ni Beteng&mdash;pagka&apos;t malaon n&gtilde; kumukulili sa tain&gtilde;a ko, na si Artemyong aking pinakikiusapang siyang umawit sa aming pagtapat doon, ay siya daw ang napupusuan n&gtilde; babaing yaon, gayong ito ay wala namang pagibig sa kanya.
+
+<p>&mdash;Ganyan din po ang balita ko&mdash;ang pagayon ni Pastor&mdash;n&gtilde;uni&apos;t, kailan ma&apos;y di ako naniwala.
+
+<p>&mdash;Sino po bang Artemyo yaon?&mdash;ang pagsisiyasat ni Simón.
+
+<p>&mdash;Ang kalihim sa Samahang &ldquo;Kumilos Tayo&rdquo;&mdash;ang tugon ni Pastor&mdash;yaon bang nagtalumpati sa inyong nayon noong ipagdiwang si Rizal. May magandang pan&gtilde;an&gtilde;atawan at....
+
+<p>&mdash;Yaon pala&mdash;ang salo ni Simón&mdash;Kakilala ko po yaon at ako man ay kasapi rin sa &ldquo;Kumilos Tayo.&rdquo; ¿Diyata&apos;t siya ang naiibigan? ¿Si Artemyo? ¿Ang artista? Aywan ko rin...&mdash;at tinapos sa iling at n&gtilde;iti ang kanyang pagkamangha; iling na nagpapahayag n&gtilde; pagpapawalang saysay kay Artemyo, at n&gtilde;iti na nagtatanghal n&gtilde; paglibak sa pagkatao noon.
+
+<p>Ang dalawang kaharap ay napatigil. Nabasa nila sa mukha ni Simón na siya <pb id=pb30 n=30>ay may natatarok na lilim ni Artemyo. At di pinalagpas ni Beteng. Sinamantalá ang pagkakataón.
+
+<p>&mdash;Bakit po?&mdash;ang simula&mdash;¿may nalalaman ba kayong alimuom ni Artemyo?
+
+<p>&mdash;Sus!&mdash;ang buntong hinin&gtilde;a ni Simón&mdash;¡Si Artemyo! ¿At bakit hindi ko malalaman ang kanyang lihim? Siya ay isang konduktor sa trambiya noong araw na dahil sa nahuli sa pagumit ay pinalayas tuloy n&gtilde; empresa. Isang taong nagpagalagala sa pagbibilang n&gtilde; bato, na kung kanikanino nan&gtilde;un&gtilde;utang n&gtilde; makakain. Napasok na artista, at ang manakanakang pagtayo sa entablado ay siyang ipinagmamalaki n&gtilde;ayon. Gayong ang tinig ay tinig kanduli at kung umawit ay parang bumabasa n&gtilde; Pasyon....
+
+<p>&mdash;Ha! <corr>¡</corr>ha! <corr>¡</corr>ha!&mdash;ang tawa ni Beteng.
+
+<p>&mdash;Aywan ko&mdash;ang tanggi ni Pastor&mdash;sa akin ay mabuting kaibigan si Artemyo.
+
+<p>&mdash;Mabuti kung mayroon&mdash;ang salo ni Simón&mdash;n&gtilde;uni&apos;t kung wala ay masama.
+
+<p>&mdash;Marahil n&gtilde;a&mdash;ang katig ni Beteng&mdash;sapagka&apos;t kung makailan ko nang makasama, ni minsan man ay di pa gumasta. Maging sa pagsakay namin sa trambiya, maging sa pagkain namin n&gtilde; sorbetes, <pb id=pb31 n=31>ay ¿maanong pabalat-bun&gtilde;a man lamang na magkunwaring dumukot sa bulsa?
+
+<p>&mdash;Ano ang hahanapin ninyo sa taong nagsasamantala?&mdash;ang masayang ikinabit ni Simón.
+
+<p>&mdash;Hindi gayon&mdash;ang tutol ni Pastor at hinarap si Beteng&mdash;Kayo ang nagaanyaya sa kanya ay talagang kayo ang dapat gumasta. Salamat at di kayo sinisin&gtilde;il sa kanyang abala at pagod....
+
+<p>&mdash;Mang Pastor!&mdash;ang tugon ni Simón&mdash;¿pinagtatanggol ba ninyo si Artemyo?
+
+<p>&mdash;Hindi po. Ipinaaalaala ko lamang ang ipinaguutos n&gtilde; dakilang asal.
+
+<p>&mdash;At ¿kami pa pala ang lumalabas sa magandang ugali?&mdash;ang usisa ni Beteng.
+
+<p>&mdash;Hindi ko po sinasabi ang gayon&mdash;ang salag ni Pastor&mdash;n&gtilde;uni&apos;t ipinagugunita kong sa bibig n&gtilde; m&gtilde;a lalaki ay alan&gtilde;ang maglaro ang buhay n&gtilde; kapuwa. M&gtilde;a babai lamang ang naguututang dila. M&gtilde;a musmos lamang ang nagn&gtilde;un&gtilde;usuan.
+
+<p>&mdash;How! ¡pshe!&mdash;ang putol ni Simón&mdash;Talaga pong si Artemyo ay lahi n&gtilde; taksil: siya&apos;y kapangpan&gtilde;an.
+
+<p>&mdash;Tama. Iyan ang totoo&mdash;ang dugtong <pb id=pb32 n=32>ni Beteng&mdash;pinapaghahari ang kanyang pagkakapangpan&gtilde;an.
+
+<p>&mdash;M&gtilde;a kaibigan&mdash;ang mainit n&gtilde; saad ni Pastor&mdash;¡Huwag ninyong hamakin ang kanyang lahi! Kapangpan&gtilde;an man at Tagalog ay iisa n&gtilde; uri, at ang sumira n&gtilde; pagiisang iyan, ay yaon ang taksil na dapat pan&gtilde;ilagan. Ang taong pumapatay n&gtilde; pagdadamayan n&gtilde; Pilipino ay yaon ang kalaban n&gtilde; bayan. Ang kalulwang nagtatanim n&gtilde; pagiirin&gtilde;an ay siyang uod na sumisira n&gtilde; laya at pagasa n&gtilde; lahat....
+
+<p>&mdash;Matutulis pong salita iyan!&mdash;ang pakli ni Simón.
+
+<p>&mdash;Nakasusugat ka po!&mdash;ang dugtong ni Beteng.
+
+<p>&mdash;Hindi, m&gtilde;a kaibigan&mdash;ang ganti ni Pastor&mdash;kailan ma&apos;y di ko magagawa ang sumugat sa kapatid. N&gtilde;uni&apos;t, oo; makikipaglaban ako sa kanino mang nagbibinhi n&gtilde; pagiirin&gtilde;an. Ang buhay ko&apos;y aking itinataya lubha pa&apos;t ang pagiirin&gtilde;an ay ipupunla dahil lamang sa inggit sa isang lalaking kinakandong n&gtilde; palad....
+
+<p>&mdash;Na sa ibang bahay ka po!&mdash;ang paalaala ni Beteng&mdash;huwag ninyong lubusin ang pagalipusta sa m&gtilde;a kaharap.
+
+<pb id=pb33 n=33><p>&mdash;Sa bahay na pinaghaharian n&gtilde; dilim ay doon ko dinadala ang ilaw!&mdash;ang matapang na sagot ni Pastor.
+
+<p>&mdash;Pawang kaululan ang sinabi ninyo!&mdash;ang tumbas ni Simón.
+
+<p>&mdash;Utang na loob ay manaog na kayo&mdash;ang taboy naman ni Beteng.
+
+<p>Tumayo si Pastor n&gtilde; boong pagn&gtilde;in&gtilde;itn&gtilde;it. Ang malas niya&apos;y naglalagablab. Maliksing kinuha ang kanyang sombrero at anya&apos;y:
+
+<p>&mdash;Dapat ninyo akong itáboy; dapat ninyo akong turang ulol; sapagka&apos;t ang gurong nagtuturo ay talagang kalaban n&gtilde; m&gtilde;a musmos na tinuturuan.... Nakilala ko na kayó ay dapat namán ninyó akóng makilala.... Paalam sa inyo n&gtilde;uni&apos;t alalahaning ako&apos;y natatalaga sa ano mang mangyayari....
+
+<p>Titig lamang ang isinagot n&gtilde; dalawa. Kaya&apos;t pumanaw na nagpuputok ang dibdib ni Pastor. Samantalang nawawala ang kanyang yabag ay patuloy sa pagwalang imik ang dalawang nilisan.
+
+<p>&mdash;Mang Simón&mdash;ang mana&apos;y saad ni Beteng&mdash;yumaong galit na galit ang abogado ni Artemyo.
+
+<pb id=pb34 n=34><p>&mdash;Walang kailan&gtilde;an&mdash;ang tugon nito&mdash;¡Ibabagsak natin sila!...
+
+<p>&mdash;Iyan ang kanina pa&apos;y inaantay kong pumilas sa inyong labi....
+
+<p>Kumuha n&gtilde; kahon n&gtilde; tabako si Beteng at inalok ang kaharap. Kapwa sila nagsuso at minsang pinagbuti ang upo. Bago naganasang marahil ay yumari n&gtilde; paghihiganti. Panahon lamang ang makapagbubungkal n&gtilde; lihim.
+
+<p>Isang mahigpit na kamayan ang tumapos n&gtilde; salitaan. At taglay ang galak n&gtilde; pagasa na naghiwalay ang dalawang nagtiyap.
+
+
+
+
+<pb id=pb35 n=35>
+<div1 n=III id=ch3>
+<head type=label>III</head>
+
+<head>MGA HALIK NG PAGIROG</head>
+
+
+<p>Nagbaban&gtilde;uhang sampagita, bulaklak na nagpuputían, yaong tinutuhog ni Dolores, sa halamanan nila. Nagiisa siyang noon ay nagaaliw at pinalilipas ang mapanglaw na hapon. Sa isang upuang kawayan ay doon pinagbubuti ang pagyari n&gtilde; isang kuwintas. Ang samyo na idinudulot n&gtilde; m&gtilde;a ilang-ilang, ay sumusuob sa mabining dalaga. Marahan namang humahalik sa kanyang m&gtilde;a pisn&gtilde;i ang simoy n&gtilde; han&gtilde;ing nagmumula sa bukid. Samantalang sa kanyang ulunan, ay namamaypay ang masingsing dahon n&gtilde; kamuning.
+
+<pb id=pb36 n=36><p>Ang dilag ni Loleng noon ay lalong tumingkad kay sa dati. Bagay na bagay ang bagong gayak sa mayamang ganda n&gtilde; kanyang pagka binibini. Sa biglang malas lamang ay mahuhulaan nang siya&apos;y bago pa lamang dumudun&gtilde;aw sa pinto n&gtilde; pagibig. At upang patotohanang naninibago ang kanyang puso sa pagtibok n&gtilde; buhay sa pagkadalaga, ay masayang umaawit at sinasamyo ang mapapalad na sampagita.
+
+<p>&mdash;Kay ban&gtilde;o ninyo!&mdash;ang di napigilang wika at nilan&gtilde;ap ang samyo <corr sic=ng>n&gtilde;</corr> kanyang tinutuhog&mdash;¡Kay puti ninyo! ¡Kay dunong n&gtilde; Diyos!...
+
+<p>Siya rin ang sumagot:
+
+<p>&mdash;Talagang kayo ay pinagyaman n&gtilde; kalikasan! ¡Walang haring makapagsusuot n&gtilde; inyong gayak! ¡Sutla na di nilikha n&gtilde; kamay! At ¡puti, puting parang busilak!...
+
+<p>Dinugtun&gtilde;an pa rin:
+
+<p>&mdash;Hindi lamang iyan ang inyong yaman. Sa samyo, ban&gtilde;o, halimuyak, ay kahanay kayo n&gtilde; m&gtilde;a pan&gtilde;unahing bulaklak na ipinagmamalaki n&gtilde; katalagahan....
+
+<p>Tinapos sa:
+
+<pb id=pb37 n=37><p>&mdash;Sa ulo, batok, at dibdib n&gtilde; m&gtilde;a dalaga sa Silan&gtilde;anan, ay ginagamit kayong palamuti, katimbang n&gtilde; rubi, perlas, at brilyante n&gtilde; m&gtilde;a dalaga sa Kalunuran. Yaon ay binibili n&gtilde; daan, libo, o yutang salapi, n&gtilde;uni&apos;t kayo ay ipinagpapalit sa isa o dalawang sentimos lamang. ¡Kay taas n&gtilde; agwat n&gtilde; halaga! Gayon ma&apos;y lalong matayog ang inyong uri. Sila&apos;y nagagamit lamang n&gtilde; nakaririwasa, samantalang kayo ay <corr sic="pinakikiban&gtilde;an">pinakikinaban&gtilde;an</corr> n&gtilde; lalong dukha at n&gtilde; lalong mayaman. Ikinahihiya silang igayak n&gtilde; m&gtilde;a dahop sa salapi, datapwa&apos;t kayo ay ikinararan&gtilde;al n&gtilde; lahat....
+
+<p>At malaong nilan&gtilde;ap na naman ang mapapalad na sampagita. Mana&apos;y pinanood at kinausap:
+
+<p>&mdash;Gaano man ang inyong yaman, gaano man ang inyong dilag, ay di ko rin ipagpapalit sa inyo ang aking pinakamamahal sa buhay, ang giliw n&gtilde; puso ko, si Artemyo n&gtilde; aking pagibig....
+
+<p>Isang halik ang biglang lumagot sa kanyang pan&gtilde;un&gtilde;usap; halik na tumunog sa kanyang pisn&gtilde;i; halik na kaunaunahang idinulot n&gtilde; pagibig. Nagulat at napalin&gtilde;on ang ating dalaga. Subali&apos;t <pb id=pb38 n=38>napatun&gtilde;ó na lamang at pumatak ang luha, noong mapagtanto niyang si Artemyo pala ang nagbigay n&gtilde; ligalig.
+
+<p>&mdash;Loleng!&mdash;ang bati nito&mdash;napoot ka yata....
+
+<p>&mdash;Di ko akalain...!&mdash;ang tugon naman n&gtilde; binibini.
+
+<p>&mdash;Huwag; huwag kang magalit. Tinugon ko lamang ang utos n&gtilde; aking pagsintá. Kanina pa ako rito na nagsusubók sa iyo. Napanood ko ang lahat n&gtilde; iyong ikinilos. Ang puso ko&apos;y nilan&gtilde;o n&gtilde; tamis. At nakagawa tuloy n&gtilde; kalapastan&gtilde;anan....
+
+<p>Patuloy sa pagkatun&gtilde;o ang binibini. Nahihiya o napopoot mandin sa nangyari. Talagang gayon ang dalagang Tagalog. Malambin&gtilde;in n&gtilde;uni&apos;t matampuhin. Magiliw datapwa&apos;t maselan. Sa di pagimik ay sarisaring katuturan ang maipalalagay.
+
+<p>&mdash;Loleng&mdash;ang muling saad ni Artemyo&mdash;kahapon lamang binihis mo ang aking puso, n&gtilde;ayon ay muli na namang pagdudusahin. ¡Kay sawing palad ko!...
+
+<p>Hinawakan ang kamay ni Loleng na may hawak na sampagita. Naupo sa piling nito at sinapupo sa likod ang <pb id=pb39 n=39>dalaga n&gtilde; kaliwang kamay. Bago nagpatuloy:
+
+<p>&mdash;Napakawalang awa ka! Parang tinakaw mo lamang ako sa galak. Mabuti pang di hamak ang di ako pinan&gtilde;akuan n&gtilde; pagibig, kay sa naturang giliw ay nilulunod sa kapighatian....
+
+<p>&mdash;Ikaw ang may sala&mdash;ang marahang patlang ni Dolores&mdash;¿hindi ba kahapo&apos;y isinumpa mong ako&apos;y iyong igagalang?
+
+<p>&mdash;Tunay. At siya ko namang ginaganap...
+
+<p>&mdash;Paggalang pala ang iyong inasal!
+
+<p>&mdash;Hindi ba?
+
+<p>&mdash;Paglapastan&gtilde;an!
+
+<p>&mdash;Na naman!
+
+<p>&mdash;At di ba pagapi sa dan&gtilde;al?
+
+<p>&mdash;Loleng, huwag mong isaloob ang gayon. Ang paggalang ay kapatid n&gtilde; pagibig. May halik ang paggalang at may halik ang pagibig. Ang halik n&gtilde; paggalang ay idinadampi sa damit, sa paa, ó sa kamay. Ang halik n&gtilde; pagibig ay sa noó, sa pisn&gtilde;i, ó sa kapuwa labi inilalagak. Pumili ka n&gtilde;ayon; ¿alin ang ibig n&gtilde; Loleng ko?
+
+<p>&mdash;Ang halik n&gtilde; paggalang&mdash;ang masaya nang tumbas n&gtilde; binibini.
+
+<pb id=pb40 n=40><p>&mdash;Loleng, ¡lalong napopoot ka! Hagkan ko ang iyong damit ay tuturan mong kita&apos;y nilalaro. Hagkan ko ang iyong paa, ay sasabihin mong kita&apos;y inuuyam. Hagkan ko ang iyong kamay ay <corr sic=isasad>isasaad</corr> mong kita&apos;y binibiro....
+
+<p>Isang n&gtilde;iti at isang titig ang iginanti n&gtilde; pusong nagtampo. Nagpalaot naman si Artemyo.
+
+<p>&mdash;Sapilitan, irog ko, na ang pipiliin mo ay ang halik n&gtilde; pagibig. Siya kong ginanap, tanda n&gtilde; aking pagmamahal. Doon ay kalakip na rin ang paggalang na aking ipinan&gtilde;ako kahapon.
+
+<p>&mdash;Lahat n&gtilde; matwid ay na sa iyo!
+
+<p>&mdash;Sapagka&apos;t ako ay taong may katwiran....
+
+<p>&mdash;Sinun&gtilde;aling!...
+
+<p>Isang malakas na tawag na &ldquo;Loleng&rdquo; ang gumambala sa paguulayaw n&gtilde; dalawa. Yaon ang makapangyarihang tinig ni kapitana Martina. <corr sic="Lumin&gtilde;os">Lumin&gtilde;on</corr> ang tinawagan, bago nagpaalam sa kasi:
+
+<p>&mdash;Artemyo, tinatawag na ako n&gtilde; Tiyang.
+
+<p>&mdash;Lilisanin mo ba ako?&mdash;ang lambing naman n&gtilde; binata.
+
+<p>&mdash;Pumanhik tayong dalawa.
+
+<p>&mdash;Baka di maganda ang gayon?
+
+<pb id=pb41 n=41><p>&mdash;Mauuna ako&apos;t sumunod ka mamiya.
+
+<p>&mdash;Mabuti pa.
+
+<p>&mdash;Aantabayanan kita?
+
+<p>&mdash;Asahan mo.
+
+<p>At tumalikod ang binibini matapos ihandog sa giliw ang isang kumpol n&gtilde; sampagita. Handog na waring walang katuturan, n&gtilde;uni&apos;t minahal ni Artemyo. Sapagka&apos;t yaon ay nilagakan muna n&gtilde; isang halik n&gtilde; kanyang pinopoon. At sinasamyo n&gtilde; binata samantalang pinanonood niya ang pagyaon ni Dolores.
+
+<p>Noon nama&apos;y naglilikom na n&gtilde; liwanag ang ilaw n&gtilde; sangdaigdig. Ang dilim ay marahang nagbubuka n&gtilde; pakpak. Nagsisimula na n&gtilde; pagawit ang panglaw at lungkot n&gtilde; gabi. Mana&apos;y marahang namumukadkad sa kaitaasan ang m&gtilde;a sampagita sa bukid n&gtilde; Diyos, iyang m&gtilde;a bituing nagpapagunita n&gtilde; luwalhati sa kabilang buhay.
+
+<p>Malaong sandali pa ang lumipas, bago narinig ang:
+
+<p>&mdash;Magandang gabi po&mdash;na patao ni Artemyo upang tumupad sa pan&gtilde;ako.
+
+<p>&mdash;Magandang gabi po naman&mdash;ang pakunwaring <pb id=pb42 n=42>salubong ni Dolores&mdash;Tuloy kayo....
+
+<p>Pumanhik ang panauhin at nagtuloy sa salas. Doon ay inabot niya si kapitana Martina. Nagbigay n&gtilde; galang at payapang naupo. Si Dolores naman ay naupo na rin. Ito ang nagbukas n&gtilde; salitaan:
+
+<p>&mdash;Saan po kayo nanggaling?
+
+<p>&mdash;Doon po sa bahay.
+
+<p>&mdash;N&gtilde;ayon lamang kayo naligaw dito ah&mdash;ang pan&gtilde;atlo ni kapitana Martina.
+
+<p>&mdash;Bakit naman po?&mdash;ang tutol n&gtilde; binata.&mdash;Noong lamang isang linggo ay narito kami.
+
+<p>&mdash;Siya n&gtilde;a pala&mdash;ang patalo na n&gtilde; kapitana&mdash;at noon n&gtilde;a pala kayo nagharana. Hanggang n&gtilde;ayon ay di ko pa nalilimot yaong inawit ni mang Huwan na <hi>ayaw ko sa intsik</hi>....
+
+<p>At tinapos sa halakhak. Tawa rin ang itinugon n&gtilde; dalawang kapulong.
+
+<p>&mdash;Bakit po ba hindi ninyo kasama noon si mang Beteng?&mdash;ang usisa n&gtilde; binibini.
+
+<p>&mdash;Ayaw na pong makibarkada sa amin&mdash;ang tugon ni Artemyo.
+
+<pb id=pb43 n=43><p>&mdash;Kung ilan nang haranahan iyan na di nakakasama yaon eh....&mdash;ang katig n&gtilde; kapitana.
+
+<p>&mdash;Napupuna ko n&gtilde;a rin&mdash;ang dugtong n&gtilde; dalaga.
+
+<p>&mdash;At ¿bakit di mo mapupuna?&mdash;ang biro n&gtilde; ali&mdash;sa iyon lamang ang itinatan&gtilde;i mo....
+
+<p>&mdash;Ang Tiyang naman!&mdash;ang tanggi ni Loleng.
+
+<p>&mdash;Ehem!&mdash;ang salo ni Artemyo.
+
+<p>&mdash;Siya; kung ayaw ka n&gtilde; itinatan&gtilde;i ay minamahal...&mdash;ang dugtong n&gtilde; kapitana.
+
+<p>&mdash;Nagkatabas tuloy!&mdash;ang tawa n&gtilde; binata natin.
+
+<p>Isang makahulugang irap ang inihagis n&gtilde; dalaga kay Artemyo. Ginanti naman nito n&gtilde; isang titig. Ano pa&apos;t m&gtilde;a mata ang pinapagusap. At sa mukha nila ay nababasa ang pagkainip sa matandang kaharap. Salamat at ito ay mapagbigay at nataunang nanalo noon sa pangginge; kaya malamig ang ulo at binigyang panahon ang dalawang puso upang magulayaw. Lumabas ang kapitana at nilisan ang m&gtilde;a kausap. Lumaya ang dalawang pusong nagtatalik sa galak.
+
+<p>&mdash;Waring hindi batid n&gtilde; ali mo ang ating lihim?&mdash;ang saad ni Artemyo.
+
+<pb id=pb44 n=44><p>&mdash;Hindi, at magin&gtilde;at ka&mdash;ang tugon ni Dolores.
+
+<p>&mdash;Naparito na ba si Beteng?
+
+<p>&mdash;Oo. Di ko pa pala naibabalita sa iyo na sila ay nagharana rito.
+
+<p>&mdash;Kailan?
+
+<p>&mdash;Noong Huwebes n&gtilde; gabi.
+
+<p>&mdash;Sino sino sila?
+
+<p>&mdash;Wala akong nakilala; n&gtilde;uni&apos;t sa inyong magkakasama noong araw, ay si Beteng lamang ang kasama.
+
+<p>&mdash;Nagsarili na!
+
+<p>&mdash;Hindi lamang iyon. Sumulat pa sa Tatay na ikaw daw ay alipin lamang. Nagsisilbing-kanin ka raw sa kanya, kaya di ka dapat tanggapin dito.
+
+<p>Napipi at namutla sa galit ang nabiglang binata. Ang binigkas na yaon n&gtilde; kanyang kasi ay naging matunog na kulog sa kanyang pangdinig. Siya ay nangliit. Aywan kung inapi n&gtilde; kahihiyan ó sinupil n&gtilde; poot. Datapwa&apos;t sa pagyaon n&gtilde; ilang sandali ang mukha niya&apos;y naging maamo. Tulad sa nagkasalang humihin&gtilde;i n&gtilde; tawad.
+
+<p>&mdash;Salamat na lamang&mdash;ang patuloy n&gtilde; dalaga&mdash;at ako ang nakatanggap. Kaya, <pb id=pb45 n=45>ni ang Tatay, ni ang Tiyang, ni sino pa man dito, ay walang nakabatid.
+
+<p>&mdash;Nahan ang liham?&mdash;ang mana&apos;y usisa ni Artemyo.
+
+<p>&mdash;Sinunog ko.
+
+<p>&mdash;Bakit mo sinunog?
+
+<p>&mdash;Sapagka&apos;t gawa n&gtilde; taksil.
+
+<p>&mdash;Di mo na ipinabasa sa akin?
+
+<p>&mdash;Baka pa matunghayan n&gtilde; iba.
+
+<p>&mdash;Bakit mo nalamang sulat niya?
+
+<p>&mdash;Dahil sa may lagda.
+
+<p>&mdash;Nilagdaan!
+
+<p>&mdash;Maniwala ka.
+
+<p>&mdash;N&gtilde; pan&gtilde;alan niya!
+
+<p>&mdash;Tunay.
+
+<p>&mdash;Kay tapang!
+
+<p>&mdash;Duwag, ang sabihin mo.
+
+<p>&mdash;Sayang at di ko nakita!
+
+<p>&mdash;Huwag na.
+
+<p>&mdash;Nananalig ka naman?
+
+<p>&mdash;Hindi! ¡Hinding hindi!
+
+<p>&mdash;Bakit?
+
+<p>&mdash;Sapagka&apos;t walang katotohanan.
+
+<p>&mdash;Totoo yaon!
+
+<p>&mdash;Ano sa akin?
+
+<p>&mdash;Tapat ang sumbong niya.
+
+<p>&mdash;Walang ano man.
+
+<p>&mdash;Paniwalaan mo!
+
+<pb id=pb46 n=46><p>&mdash;Ipalagay mong ako&apos;y naniniwala. Maging totoo nang busabos ka niya, ¿ano n&gtilde;ayon? ¿Ang pagibig ba&apos;y nahahadlan&gtilde;an n&gtilde; m&gtilde;a bagay na iyan?
+
+<p>&mdash;Dolores!
+
+<p>&mdash;Kung ang pagirog mo ay naigigiba n&gtilde; inggit at imbot, ang pagibig ko ay hindi. Matibay. Kasingtibay n&gtilde; moog. Kamatayan lamang ang makapagwawalat.
+
+<p>&mdash;Bulaan!
+
+<p>&mdash;Masusubok mo rin.
+
+<p>&mdash;Nasubok ko na. Sa isang halik lamang ay pinatulo mo na ang iyong luha....
+
+<p>&mdash;Sapagka&apos;t nalunos ako sa aking pagkadalaga.
+
+<p>&mdash;Di lalong malulunos ka sa palad mong tatamuhin n&gtilde; isang busabos?
+
+<p>&mdash;Kabila man n&gtilde; busabos, kung iniirog ko at minamahal, sa akin ay daig pa ang haring na sa trono n&gtilde; luwalhati.
+
+<p>&mdash;Diyata?
+
+<p>&mdash;Tunay.
+
+<p>&mdash;Ang katunayan?
+
+<p>&mdash;Kinamit mo na.
+
+<p>&mdash;Yaon bang tinamo sa lakas-loob; halik na itinan&gtilde;is n&gtilde; hinagkan, ay siya mong patunay?
+
+<p>&mdash;Sapat na yaon.
+
+<pb id=pb47 n=47><p>&mdash;Ang pagibig ay walang kabusugan!
+
+<p>&mdash;Hindi pa panahon.
+
+<p>&mdash;Lahat n&gtilde; sandali ay dapat pakinaban&gtilde;an.
+
+<p>&mdash;Sa iba nang pagkakataon.
+
+<p>&mdash;Naipagpapaliban pala ang sanla n&gtilde; pagibig....
+
+<p>At tinapos sa pagpisil n&gtilde; kamay n&gtilde; binibini. Tumayo ang binata at naglin&gtilde;on-likod. Ang dalaga ay kinabahan at umiwas na:
+
+<p>&mdash;Hayun ang Tiyang!
+
+<p>&mdash;Mamatay na tayo!
+
+<p>At boong tapang na inilagda ni Artemyo ang pan&gtilde;alawang halik n&gtilde; pagirog sa mapulang pisn&gtilde;i ni Dolores. Ito ay nagitla, subali&apos;t nang matiyak na di sila napuna n&gtilde; kapitana Martina ay magiliw na nagsabing:
+
+<p>&mdash;Pan&gtilde;ahas ka rin!
+
+<p>&mdash;Kay palad ko n&gtilde;ayon!&mdash;ang galak ni Artemyo&mdash;Sa gabing ito nahawi ang dilim n&gtilde; aking pagasa. Nababanaag ko na ang liwayway n&gtilde; aking kapalaran. Datapwa&apos;t, Loleng, Loleng, huwag ka sanang padadala sa dila n&gtilde; m&gtilde;a umaagaw n&gtilde; aking dan&gtilde;al....
+
+<p>&mdash;Hindi, at isinasamo ko sa iyong <pb id=pb48 n=48>huwag mo nang mababanggit kay mang Beteng ang liham niya sa Tatay.
+
+<p>&mdash;Asahan mo.
+
+<p>&mdash;Ilagan mo sana ang sigalot.
+
+<p>&mdash;Huwag kang magalaala.
+
+<p>&mdash;Talagang gayon ang kalulwang sawi sa pagibig. Parang ulol na di nalalaman ang ginagawa. Awa ang dapat ihandog sa kanila.
+
+<p>&mdash;Siyang totoo.
+
+<p>&mdash;Naku, sukat bang siraan ka! At sira pa namang kahahalataan n&gtilde; pagkaimbi....
+
+<p>&mdash;Kay pan&gtilde;it!
+
+<p>&mdash;Sawing palad na lalaki!
+
+<p>Ang orasang nakasabit sa dakong itaas n&gtilde; pinto, ay nakisagot din. Walong pantig n&gtilde; kanyang batingting ang pinaltik. Ang oras n&gtilde; pagaalaala sa m&gtilde;a kalulwa sa purgatoryo&apos;y siyang ibinansag.
+
+<p>&mdash;Ika walo na pala!&mdash;ang saad ni Artemyo na dinukot at minasdan ang kanyang orasan.
+
+<p>&mdash;Ay ¿ano kung ika walo na?&mdash;ang putol ng dalaga&mdash;¿naiinip ka ba?
+
+<p>&mdash;Naiinip? ¿Mainip ako sa piling mo? Loleng, kung makukuha ko lamang ang aking puso, at ihaharap ko sa iyo, ay makikita mong sabik na sabik sa iyong <pb id=pb49 n=49>dilag at pagmamahal. Nais ay matali na sa puso mo kung mangyayari...
+
+<p>&mdash;Bulaan!
+
+<p>&mdash;Hindi. Talagang wala akong pinapan&gtilde;arap, kung di ang pagbabagong buhay natin. Maging malaya tayo sa pagduduyan sa tuwa... N&gtilde;uni&apos;t samantalang di pa namimitak ang ating araw, ay sumunod na muna tayo sa palakad n&gtilde; panahon.
+
+<p>Hindi tumugon ang dalaga sapagka&apos;t noon ay sa susun&gtilde;aw sa pinto si kapitana Martina.
+
+<p>&mdash;Maalaala ko pala&mdash;ang wika nito&mdash;huwag kayong mawawala sa isang linggo, at ating ipagdidiwan&gtilde; ang kaarawan ni Loleng.
+
+<p>&mdash;Sa isang Linggo po?&mdash;ang tanong ni Artemyo.
+
+<p>&mdash;Sa ika 21 n&gtilde; kasalukuyan&mdash;ang salo naman n&gtilde; dalaga.
+
+<p>&mdash;Bulaklak n&gtilde;a pala kayo n&gtilde; Mayo&mdash;ang pagpuri n&gtilde; binata.
+
+<p>&mdash;Kaya po kasingganda n&gtilde; kamya&mdash;ang dugtong n&gtilde; kapitana.
+
+<p>&mdash;Ang Tiyang naman!&mdash;ang hinampo ni Loleng&mdash;para pa tayong taga Palanyag.
+
+<p>&mdash;Kung ayaw ka n&gtilde; kamya ay asusena. Kung ayaw ka <corr sic=ng>n&gtilde;</corr> asusena ay sampagita. <pb id=pb50 n=50>Kung ayaw ka n&gtilde; sampagita ay rosal. Alin man ang iyong piliin ay bagay sa iyong kagandahan&mdash;ang pagtatanggol n&gtilde; kapitana na lubhang nawiwiling biruin ang kanyang alaga.
+
+<p>&mdash;Siya n&gtilde;a&mdash;ang ayon ni Artemyo.
+
+<p>&mdash;Siya na kayo&mdash;ang salag ni Dolores.
+
+<p>Napatigil ang salitaan sapagka&apos;t noon ay may narinig silang yabag. Ilang sandali lamang na nagdiwang ang pananahimik at napagsino na n&gtilde; tatlo. Tinig ni kapitang Andoy ang kanilang napansin. Hindi nagkabula ang palagay. Sumipot sa pinto ang matanda. Sinalubong naman ni Artemyo n&gtilde; bati n&gtilde; paggalang.
+
+<p>&mdash;Nakasabay ko po n&gtilde;ayon si mang Beteng&mdash;ang balita nito.
+
+<p>&mdash;Saan?&mdash;ang usisa n&gtilde; kapitana.
+
+<p>&mdash;Sa trambiya&mdash;ang patuloy n&gtilde; matandang Andoy&mdash;at sinabi sa aking magdadala siya rito n&gtilde; komparsa sa araw mo Loleng.
+
+<p>&mdash;Ehem! ¡ehem! ¡ehem!&mdash;ang tikim n&gtilde; kapitana.
+
+<p>Nagtitigan naman ang dalawang pusong naglilihim. Bago nagn&gtilde;itian n&gtilde; n&gtilde;iti n&gtilde; kasyahang loob.
+
+<p>&mdash;Hindi raw ikahihiya sa m&gtilde;a panauhin ang kanyang dadalhin dito&mdash;ang dugtong <pb id=pb51 n=51>pa n&gtilde; nagbalita&mdash;marahil daw ay m&gtilde;a labing anim katao.
+
+<p>&mdash;Kay dami! ¡Talagang pan&gtilde;atawanan!&mdash;ang tuwa n&gtilde; kapitana&mdash;Kayo mang Artemyo, magdala rin kayo.
+
+<p>&mdash;Na naman ang Tiyang...&mdash;ang hadlang n&gtilde; dalaga.
+
+<p>&mdash;Ito n&gtilde;a naman&mdash;ang habol n&gtilde; kapitang Andoy na hinarap ang mapagsisteng asawa.
+
+<p>&mdash;Susubukin ko po&mdash;ang tugon naman n&gtilde; binata.
+
+<p>&mdash;Baka matuloy!&mdash;ang pakli n&gtilde; kapitana&mdash;Biro ko lamang iyon.
+
+<p>&mdash;Titingnan ko rin po&mdash;ang saad ni Artemyo na napapasubo.
+
+<p>&mdash;Huwag na&mdash;ang pigil naman ni kapitang Andoy&mdash;sapagka&apos;t sapat na ang dadalhin ni mang Beteng. Bakit nababalitaan kong waring may bigat <corr sic=ng>n&gtilde;</corr> loob sa inyo, ay baka kung ano pa ang ipakahulugan noon.
+
+<p>&mdash;Siya n&gtilde;a&mdash;ang ayon ni Dolores.
+
+<p>Hindi nakasagot si Artemyo. Namutla at napipi. Sumikdo ang loob. Marahang sumusubo ang pagn&gtilde;in&gtilde;itn&gtilde;it. Titig na lamang ang ipinukol kay Dolores. Ito naman na nakaramdam n&gtilde; kagipitan noon <pb id=pb52 n=52>ay sinamantala ang pagtatanggol sa giliw. Anya&apos;y:
+
+<p>&mdash;Dumalo na lamang kayo at isama ninyo ang inyong mga kaibigan.
+
+<p>&mdash;Maaasahan po&mdash;ang pakli n&gtilde; binata.
+
+<p>&mdash;Baka di kayo sumipot?&mdash;ang habol n&gtilde; kapitana Martina.
+
+<p>&mdash;Baka pan&gtilde;akong napako iyan&mdash;ang salo naman n&gtilde; kapitang Andoy&mdash;bakit na sa Pako pa naman tayo.
+
+<p>&mdash;Hindi po&mdash;ang sagot ni Artemyo&mdash;maaasahan po ninyo.
+
+<p>At tumayong kinuha ang kanyang sombrero bago nagpaalam.
+
+<p>&mdash;Aalis na ba kayo?&mdash;ang saad n&gtilde; kapitana.
+
+<p>&mdash;Maaga pa naman&mdash;ang dugtong n&gtilde; kapitang Andoy.
+
+<p>&mdash;Mayroon pa po kaming paroroonan&mdash;ang pakunwari n&gtilde; binata.
+
+<p>Kinamayan ang tatlong lilisanin. Nanaog na nalulunod ang puso. Sumisinghap sa tuwa at sumisinghap sa galit. Naluluoy sa tuwa dahil sa pagtatamo <corr sic=ng>n&gtilde;</corr> halik n&gtilde; pagirog. Nilalagnat sa galit dahil sa paninira ni Beteng. Gayon ma&apos;y tahimik na yumaon ang kalulwang itinaguyod n&gtilde; mapalad na pagkakataon.
+
+
+
+
+<pb id=pb53 n=53>
+<div1 n=IV id=ch4>
+<head type=label>IV</head>
+
+<head>MASIGASIG NA KILOS NI PASTOR</head>
+
+
+<p><corr>&mdash;</corr>Mga kaibigan&mdash;ang bati ni Pastor sa m&gtilde;a kasamang <corr sic="kanyan&gtilde;">kanyang</corr> inabot sa isang kamalig sa daang Penyapransiya, doon din sa Pako, na nagsasanay n&gtilde; pagtugtog&mdash;¿kayo yata ang dadalhin ni Beteng sa bahay nila kapitang Andoy?
+
+<p>&mdash;Oo&mdash;ang tugon n&gtilde; may bigwela.
+
+<p>&mdash;Utang na loob ay huwag kayong sumama&mdash;ang patuloy ni Pastor&mdash;at ibitin ninyo sa kahihiyan ang taong yaon...
+
+<p>&mdash;Bakit?&mdash;ang sambot n&gtilde; may gitarra.
+
+<p>&mdash;Mangyari ay kung ano anong paninira ang ginagawa kay Artemyo&mdash;ang tugon n&gtilde; Pastor&mdash;at kayo ay dadalhin doon upang patunayang lalong malakas siya kay Artemyo. ¿Yaon ba ay gawa n&gtilde; kasama?
+
+<pb id=pb54 n=54><p>&mdash;Ang lagay pala ay nagkagalit sila ni Artemyo?&mdash;ang usisa n&gtilde; nakasalamin.
+
+<p>&mdash;Oo&mdash;ang paliwanag ni Pastor&mdash;at ang pinagmulan ay dahil kay Dolores.
+
+<p>&mdash;Ano ang nangyari?&mdash;ang pagkamangha n&gtilde; lahat.
+
+<p>Lumin&gtilde;on muna si Pastor, bago sumagot:
+
+<p>&mdash;Lubhang katawatawa.
+
+<p>&mdash;Bakit?&mdash;ang pagkasabik n&gtilde; ilan.
+
+<p>&mdash;Makinig kayo&mdash;ang patlang ni Pastor<corr>.</corr>
+
+<p>&mdash;Si Artemyo ay palaging niyayaya ni Beteng upang haranahin si Dolores, dahil sa ito ay artista at may mayamang tinig. Siya, si Artemyo, ang palaging pinaaawit sa kanilang pagtapat. N&gtilde;uni&apos;t si Dolores ay di rin mahabag sa kaawaawang Beteng. Ang pista pa nito ay si Artemyo ang napusuan. Ano pa&apos;t ang tulay ay siyang naibigan.
+
+<p>&mdash;Aha!&mdash;ang pagtataka n&gtilde; may dalang biyolin.
+
+<p>&mdash;Siya n&gtilde;a&mdash;ang ayon naman n&gtilde; may hawak na gitarra&mdash;at noong magharana kami noon araw doon, ay umalis iyang si Beteng nang hindi man lamang nagpaalam sa amin.
+
+<p>&mdash;Nakahalata marahil!&mdash;ang hatol n&gtilde; may katandaan na.
+
+<pb id=pb55 n=55><p>&mdash;Nakita na ninyo?&mdash;ang habol naman ni Pastor&mdash;Pati kayo ay hinahamak gayong nan&gtilde;un&gtilde;utang lamang n&gtilde; loob.
+
+<p>&mdash;Ano ang magagawa natin sa taong walang turing?&mdash;ang tanong n&gtilde; may hawak n&gtilde; bigwela na malaon na yatang may poot kay Beteng.
+
+<p>&mdash;Gayon pala! ¿Bakit pa kayo sasama sa kanya?&mdash;ang ulos ni Pastor.&mdash;Ipagmamalaki lamang kayo at pagkatapos ay diyan na kayo...
+
+<p>&mdash;Bakit <corr sic=namang>naman</corr> pumatol si Artemyo?&mdash;ang usisa n&gtilde; isa.
+
+<p>&mdash;Tao namang ito!&mdash;ang agaw n&gtilde; kasamahan din&mdash;¿May manok bang tumanggi sa palay?
+
+<p>&mdash;At ¿ano naman ang dapat itawag sa lalaking iniibig n&gtilde; babai ay nagwawalang bahala?&mdash;ang tanong ni Pastor.
+
+<p>&mdash;Binubai!&mdash;ang maagap na salo n&gtilde; may katandaan.
+
+<p>Isang matunog na halakhakan ang pumutok.
+
+<p>&mdash;Samakatwid&mdash;ang hadlang ni Pastor&mdash;ay tumupad lamang si Artemyo sa kanyang tungkulin upang huwag matawag na binabai...
+
+<p>&mdash;Katwiran&mdash;ang hatol n&gtilde; marami.
+
+<pb id=pb56 n=56><p>&mdash;Bakit nagagalit si Beteng at sinisiraang mabuti si Artemyo?&mdash;ang tanong pa rin ni Pastor.
+
+<p>&mdash;Paano&apos;y naagawan n&gtilde; tuson!&mdash;ang salo na naman n&gtilde; mapagsiste.
+
+<p>Panibagong halakhakan na naman.
+
+<p>&mdash;Isang sagot n&gtilde;ayon m&gtilde;a kasama&mdash;ang saad ni Pastor&mdash;¿sino n&gtilde;ayon ang dapat samahan, si Artemyo ó si Beteng?
+
+<p>&mdash;Bakit ba? ¿Magdadala rin ba n&gtilde; komparsa si Artemyo?&mdash;ang usisa n&gtilde; isa.
+
+<p>&mdash;Binabalak ko sana&mdash;ang tugon ni Pastor&mdash;pagka&apos;t totoo akong nasakitan noong sabihing si Artemyo raw ay taksil dahil sa kapangpan&gtilde;an...
+
+<p>&mdash;Sinabi ni Beteng ang gayon?&mdash;ang pandidilat n&gtilde; isang kapangpan&gtilde;ang bandurista.
+
+<p>&mdash;Maniwala ka kasama&mdash;ang patigas n&gtilde; tinanong&mdash;at kaya sinabi ang gayon ay dahil sa nabigo sila sa akin. Ako&apos;y inamuki nila ni Simon, upang agawan n&gtilde; dan&gtilde;al si Artemyo, datapwa&apos;t nagkagalit lamang kami sapagka&apos;t di ako pumayag...
+
+<p>&mdash;Sa inyo ako sasama&mdash;ang pagkukusa na n&gtilde; banduristang kapangpan&gtilde;an.
+
+<pb id=pb57 n=57><p>&mdash;Ako man&mdash;ang habol n&gtilde; may hawak na biyolin.
+
+<p>&mdash;Ibilang na rin ninyo ako&mdash;ang sunod n&gtilde; may plauta.
+
+<p>&mdash;Welga na tayong lahat&mdash;ang sabi naman n&gtilde; isa.
+
+<p>&mdash;Welga! ¡Welga! ¡Welga!&mdash;ang sagutan na n&gtilde; lahat.
+
+<p>&mdash;Mabuhay si Artemyo!&mdash;ang sabi naman ni Pastor.
+
+<p>&mdash;Mabuhay! ¡Mabuhay! ¡Mabuhay!
+
+<p>At tumugtog sila n&gtilde; isang masarap na tugtugin, tanda n&gtilde; tagumpay ni Artemyo. Galak na galak naman si Pastor. Samantala&apos;y nagpapaindayog na mabuti ang tinig n&gtilde; biyolin.
+
+<p>Natapos ang pamamayani n&gtilde; bigwela at ang bibig na naman ni Pastor ang narinig.
+
+<p>&mdash;Upang malubos ang ating galak ay huwag ninyong sasabihin kay Beteng na hindi na kayo sasama sa kanya.
+
+<p>&mdash;Siya n&gtilde;a&mdash;ang ayon n&gtilde; iba.
+
+<p>&mdash;Ang sarap niyan ay magaantay siya n&gtilde; wala!&mdash;ang salo n&gtilde; isa.
+
+<p>&mdash;Gayon ang dapat sa taong umaagaw n&gtilde; dan&gtilde;al&mdash;ang katig ni Pastor&mdash;Ibitin sa kahihiyan. Isubo sa kagipitan.
+
+<pb id=pb58 n=58><p>&mdash;May balita pa akong nilalakad daw ni Simon na si Artemyo ay alisan n&gtilde; tungkulin sa &ldquo;Kumilos Tayo&rdquo;&mdash;ang saad n&gtilde; isang kanina pa&apos;y ibig maglahad.
+
+<p>&mdash;Iyan ay pakana ni Beteng&mdash;ang sagot ni Pastor&mdash;¿Ano raw ang dahilan?
+
+<p>&mdash;Sarisari&mdash;ang salo n&gtilde; tinanong&mdash;Hindi raw dapat bigyan n&gtilde; tungkulin dito ang isang dapo lamang. Kabagongbago raw dito, ay nais nang lagpasan ang m&gtilde;a kanayon. Isang bata raw lamang ay ibig nang maghari. Kung minsan ay sinasabing mapagsamantala raw. Ang salapi raw n&gtilde; Samahan ay kinukupit. Marami at napakarami pa ang dun&gtilde;is na ipinupukol sa mukha ni Artemyo.
+
+<p>&mdash;Narinig na ninyo!&mdash;ang saad ni Pastor&mdash;Linawin natin: hindi raw dapat bigyan n&gtilde; tungkulin ang isang dapo. Katwiran, n&gtilde;uni&apos;t ¿bakit nila natitiis ang m&gtilde;a dapong naghahari sa ating bayan? At ¿dapo ba si Artemyo? ¿Ano kung kapangpan&gtilde;an siya? ¿Hindi ba pilipino rin? ¿Maaari bang magsarili ang Tagalog nang ang Kapangpan&gtilde;an ay hindi? ¡Napakarupok na pagkukuro! Ang masasabi ko&apos;y nakikilala nila ang dapong kapatid din nila, datapwa&apos;t hindi nila <pb id=pb59 n=59>nakikilala ang tunay na dapong dito ay tumawid. Kung nakikilala man ay kinatatakutan. Ngayon at kalahi ay halos sakmalin. N&gtilde;uni&apos;t kung maputi, kahi&apos;t na lumapastan&gtilde;an, ay n&gtilde;inin&gtilde;itian din. Sinusurot, dinuduro at pinamumukhaan ang kabalat, subali&apos;t ang dayo ay saka lamang mamura kung nakatalikod....
+
+<p>&mdash;Siyang totoo&mdash;ang tan&gtilde;o n&gtilde; ilan.
+
+<p>&mdash;Kabagongbago&apos;y nais nang lagpasan ang m&gtilde;a kanayon?&mdash;ang dugtong ni Pastor<corr>.</corr>
+
+<p>&mdash;Pasalamat tayo at hindi pa man ay nagpapakita na n&gtilde; lakas at magagawa. Kung kaya siya lalagpas sa taga rito, ay sapagka&apos;t dapat siyang lumagpas. Ano man ang gawin ni Artemyo, kung talagang magaling sila, ay sila rin ang mamaibabaw. Ang iba pang dahilan ay pawa nang paninira na m&gtilde;a isip-lamok lamang ang mananampalataya....
+
+<p>&mdash;Ang inggit ay talagang nakalilikha n&gtilde; sarisaring paninira&mdash;ang payo n&gtilde; may katandaan.
+
+<p>&mdash;Kaya matakot at man&gtilde;ilag tayo&mdash;ang ayon n&gtilde; iba.
+
+<p>&mdash;Walang sasama kay Beteng&mdash;ang paalaalang muli n&gtilde; banduristang kapangpan&gtilde;an....
+
+<pb id=pb60 n=60><p>&mdash;Wala! ¡Wala! ¡Wala!&mdash;ang ayon n&gtilde; lahat at pinamayani na naman ang kanilang m&gtilde;a hawak na kilabot n&gtilde; panglaw, taga taboy n&gtilde; lungkot at lumilikha n&gtilde; tuwa: ang biyolin, bigwela at bandurya.
+
+
+
+
+<pb id=pb61 n=61>
+<div1 n=V id=ch5>
+<head type=label>V</head>
+
+<head>¡WALANG SALA! ¡ANG TAGUMPAY AY ATIN!</head>
+
+
+<p>Maligayang umaga noon. Sa Looban, daang tumutumbok sa malaking pagawaan n&gtilde; tabako, ay maraming kawal n&gtilde; pawis ang nagmamadalían. Sa una&apos;y langkay n&gtilde; m&gtilde;a babai; sa dako roon ay nagsusumugod na m&gtilde;a lalaki; sa dako rito ay sunodsunod na may m&gtilde;a kagulan&gtilde;an na; at sa huli ay m&gtilde;a dalaga at binatang pawang nagtatalik sa galak. Walang alinlan&gtilde;ang sarisaring bagay ang napaguusapan. Minsan ay may nagtatalumpati sa pagtatanggol sa kanyang ipinaglalaban. Minsan ay pumutok ang halakhakan. Ganyan ang mapupuna sa alin mang pangkatin.
+
+<pb id=pb62 n=62><p>Sa karamihan ay may namumukod na dalawang lalaki. Ang isa ay may magarang gayak; pulus na puti ang suot at korbatang sutlang granate ang nakatali sa liig. Isang sombrerong kalasyaw ang nakatakip sa ulo, na lalong nagbibigay ganda sa mayamang tabas n&gtilde; mukha. ¡Kay kintab n&gtilde; sapatos na abelyana! At ¡kay lapad n&gtilde; liston! Sa bikas at pananamit ay nagbabansag n&gtilde; kalwagan sa buhay. Samantalang ang isa ay nakabarong intsik lamang. Lumang luma na ang pahang sunong. At isang tsinelas na kupas na ang kulay ang nagtatanggol sa paa. Naglalarawan n&gtilde; karalitaan. Yaon, ang makisig, ay ang binatang Beteng. At ito ang anak-dalita, ay si Simon. Sa agos n&gtilde; m&gtilde;a manggagawa sa Tabakalera ay napaanod sila.
+
+<p>&mdash;Sa linggo na ang araw ni Loleng&mdash;ang sabi ni Beteng kay Simón.
+
+<p>&mdash;Oh, ¿handa na po ba ang komparsa natin?&mdash;ang tanong naman nito.
+
+<p>&mdash;Hindi ko n&gtilde;a po matiyak kaya ko po kayo inaban&gtilde;an.
+
+<p>&mdash;Bakit po?
+
+<p>&mdash;Mangyari&apos;y naparoon ako kagabi kina Dolores ay ibinalita sa akin ni kapitana <pb id=pb63 n=63>Martina, na si Artemyo raw ay nan&gtilde;ako rin n&gtilde; komparsa.
+
+<p>&mdash;Lalong magaling. N&gtilde;ayon tayo magsusubukan n&gtilde; gilas. Upang makilala ang inyong katayugan kay Artemyo ay dapat kayong iyagapay sa kanya. Walang salang magbibigti siya sa kahihiyaan....
+
+<p>&mdash;Huwag tayong umasa.
+
+<p>&mdash;Bakit po?
+
+<p>&mdash;Hindi ko pa natitiyak na mabuti ang ating komparsa. Malaon ko nang kinausap sila at hindi ko na hinarap uli.
+
+<p>&mdash;Tiyakin mo po; at nang mapatabi ang gigirigiring iyan....
+
+<p>&mdash;Bah! Kung lumabas na magaling ang kanyang dala, ay ¿di naagawan tayo n&gtilde; dan&gtilde;al?
+
+<p>&mdash;Hindi po! ¡Magagaling tumugtog ang tao natin! Tiyakin mo po lamang ay di na kayo dapat magalaala pa.
+
+<p>&mdash;Baka tayo mabitin ah!...
+
+<p>&mdash;Sa ano pong dahilan?
+
+<p>&mdash;Kung di tayo siputin.
+
+<p>&mdash;Bakit po? ¿Nauulol ba sila? ¿Binayaran at dí sisipot? ¿Magkano po ba ang ibinayad ninyo?
+
+<pb id=pb64 n=64><p>&mdash;Wala pa akong ibinibigay kung hindi limang piso lamang na ibibili raw n&gtilde; kuwerdas.
+
+<p>&mdash;Sa tao po, ¿magkano ang isa?
+
+<p>&mdash;Huwag ko raw pong alalahanin.
+
+<p>&mdash;Iyan ang masama. Ang mabuti ay bayaran natin; upang kung hindi sila sumipot ay magkaroon tayo n&gtilde; bibig.
+
+<p>&mdash;Gayon din po ang naisip ko kagabi kaya ninais kong makausap kayo....
+
+<p>Isang malakas na sigaw na <hi>¡tabi!</hi> ang lumagot sa salitaan. Noon ay humahagibis ang dalawang karitela na naguunahan. Ang una&apos;y pawang dalaga ang lulan, at ang huli&apos;y pawang binata naman.
+
+<p>Lumin&gtilde;on at tumabi ang dalawang naguusap, bago nagpatuloy si Beteng:
+
+<p>&mdash;Kasama rin lamang ninyo riyan sa Kompanya ang pinaka maestro nila, ay kausapin lamang ninyong mabuti kung mangyayari.
+
+<p>&mdash;Opo, at titiyakin ko.
+
+<p>&mdash;Ibigay mo po lamang ito&mdash;at dumukut sa bulsa n&gtilde; isang papel na sasampuin&mdash;sabihin ninyong para sigarilyo lamang iyan.
+
+<p>&mdash;Kay dami naman!
+
+<pb id=pb65 n=65><p>&mdash;Daragdagan ko pa po iyan, mapuri lamang tayo ni kapitang Andoy.
+
+<p>&mdash;Walang sala! ¡Ang tagumpay ay atin! ¿Alin daw po bang komparsa ang kinuha naman ni Artemyo?
+
+<p>&mdash;Hindi ko po masabi.
+
+<p>&mdash;Tiyak daw po bang sisipot?
+
+<p>&mdash;Marahil. ¿Man&gtilde;an&gtilde;ako ba iyon n&gtilde; papaano? Mawawalan ba n&gtilde; kakilalang komparsa iyon, ay sa siya ay isang artista.
+
+<p>&mdash;Hindi rin siya dapat humara sa ating dadalhin.
+
+<p>&mdash;At mabuti namang magdala siya, upang mapalapat ang kanyang kapan&gtilde;ahasang bumanggá sa tapayan.
+
+<p>Na sa tapat na sila n&gtilde; Tabakalera.
+
+<p>Kapwa sila tumigil at tumayo sa tabing daan. Noon ay dating at dating ang kawal n&gtilde; paggawa. Babai at lalaki, dalaga at bagongtao, matanda at bata, ang nagsisisipot. ¡Kay daming anak n&gtilde; pawis!
+
+<p>&mdash;Ano pong oras ang sasabihin kong ipagkikita natin sa linggo?&mdash;ang mana&apos;y tanong ni Simon.
+
+<p>&mdash;Ika siyam n&gtilde; umaga. Doon na tayo magtagpo sa bahay nila Loleng&mdash;ang tugon n&gtilde; kausap.
+
+<pb id=pb66 n=66><p>&mdash;Sasabihin ko po.
+
+<p>&mdash;Baka malimutan ninyo?
+
+<p>&mdash;Hindi po.
+
+<p>&mdash;Baka tayo mabitin?
+
+<p>&mdash;Huwag mo pong alalahanin. Ako ang bahala.
+
+<p>&mdash;Walang sala! ¡Ang tagumpay ay atin!
+
+<p>Nagtuloy n&gtilde; pumasok si Simón sa malaking pagawaan. Si Beteng ay yumaon naman. Hanggang doon natapos ang usap n&gtilde; dalawang magkatiyap.
+
+
+
+
+<pb id=pb67 n=67>
+<div1 id=ch6 n=VI>
+<head type=label>VI</head>
+
+<head>ANG ARAW NI LOLENG</head>
+
+
+<p>Madaling-araw <corr sic=ng>n&gtilde;</corr> linggo. Noon ang ganap na ika labing walong Mayo ni Dolores. Mula sa pinto n&gtilde; Simbahan sa Pako ay dalawang babai yaong lumabas. ¡M&gtilde;a pusong banal yata! At lumakad silang patun&gtilde;o sa daang Pas. Ang maliwanag na tanglaw sa daan, ay siyang nagsabing yaon ay si Dolores kasama ni kapitana Martina. Galing silang nagsimba na pinasalamatan sa Diyos, ang masayang pagsapit n&gtilde; kaarawan ni Loleng. Ang malamig na simoy n&gtilde; han&gtilde;in, ang m&gtilde;a patak n&gtilde; hamog sa damo, at ang liwanag n&gtilde; ilaw sa daan, ay siyang unang naghandog n&gtilde; maligayang bati sa mapalad na dalaga.
+
+<pb id=pb68 n=68><p>Dumatal sila sa bahay na ang lahat ay nagsisikilos na. Ang tunog <corr sic=ng>n&gtilde;</corr> pinggan, taginting n&gtilde; kubyertos, at sagitsit n&gtilde; mantika ay siyang unang maririnig. Bago mapupuna ang ban&gtilde;o na isinasabog n&gtilde; han&gtilde;in: ang amoy n&gtilde; ginisa. Kung minsan ay namamaibabaw din ang iyukan n&gtilde; m&gtilde;a inahin, tandang at kapon na manok. Ito ang m&gtilde;a martir n&gtilde; pista. Ang lalong main&gtilde;ay at di maipagkakaila ay ang iyak n&gtilde; baboy. Tatlo ang pinatay noon.
+
+<p>Sa kabahayan naman ay iba ang kilusan. Ang tinig ni kapitang Andoy ay siyang naghahari. Utos dito, utos doon ang ginagawa. Lagatok naman n&gtilde; m&gtilde;a upuan, at lagaslas n&gtilde; dahong saging na ikinukuskos sa sahig, ay siyang sumasagot. Gayon na lamang ang paghahanda.
+
+<p>Sa siwang n&gtilde; m&gtilde;a bundok sa silan&gtilde;an ay masayang dumudun&gtilde;aw ang bukang liwayway. Marahang tumatakas ang dilim at panglaw. Ang galak at liwanag naman ang bumaban&gtilde;on. Mana&apos;y boong ningning na sumikat ang ilaw n&gtilde; sangkatauhan, upang batiin marahil ang dalagang sapupo n&gtilde; tuwa sa araw na yaon.
+
+<p>Ang m&gtilde;a taong naglalakad sa daang Sagat, ay napapatigil sa tapat n&gtilde; bahay <pb id=pb69 n=69>ni kapitang Andoy. Pawang humahan&gtilde;a sa napakakisig na pagkagayak. Mahahalagang enkahe ang naglawit sa itaas n&gtilde; m&gtilde;a durun&gtilde;awan. Sa gitna nito&apos;y malapad na lasong rosas ang pinagbuhol n&gtilde; bikas paroparo. Sa m&gtilde;a haligi n&gtilde; kabahayan ay tungkos n&gtilde; sarisaring bulaklak ang naglawit. Magagarang san pransisko ang halamang nagtanod sa m&gtilde;a pinto.
+
+<p>&mdash;Dapat n&gtilde;ang pagubusan n&gtilde; kaya si Loleng<corr sic=" ">&mdash;</corr>ang wika n&gtilde; isang napatigil&mdash;sapagka&apos;t siya ay bugtong na anak ni kapitang Andoy.
+
+<p>Ilang sandali pa ang nakaraan, bago sumipot si Beteng. Makisig na makisig ang binata at masayangmasaya na pumanhik.
+
+<p>&mdash;Kay aga n&gtilde; buwisit na ito!&mdash;ang nasabi sa sarili ni Loleng n&gtilde;uni&apos;t masayang sumalubong&mdash;Tuloy kayo.
+
+<p>&mdash;Maligayang bati po&mdash;ang bun&gtilde;ad na wika ni Beteng at kinamayan ang dalaga.
+
+<p>&mdash;Salamat po.
+
+<p>&mdash;Magandang araw po mang Andoy&mdash;ang paggalang nito sa kapitan.
+
+<p>&mdash;Tuloy kayo&mdash;ang tugon naman n&gtilde; tinukoy.
+
+<pb id=pb70 n=70><p>Nagtuloy ang makisig na binata. At kung gaano ang bikas niya noong masalubong natin sa daan Looban ay lalo at higit n&gtilde;ayon. Ang buhok ay hating hati at ang mukha ay pinahiran n&gtilde; pulbos. Bagong korbata na naman ang nakabitin sa liig, datapwa&apos;t walang alinlan&gtilde;ang buhat sa almasen <corr sic=ni>n&gtilde;</corr> Siyap sa Eskolta. Ang ternong lana n&gtilde; pusong gumilas, ay siyang nagbabansag ng kabusugan niya sa pananalapi. N&gtilde;uni&apos;t ang lalong kapunapuna, ay ang malalaking brilyante na nagniningning sa dibdib at m&gtilde;a daliri. «Inubos ang peseta!», ang sabi n&gtilde;a ni Dolores sa sarili. Subali&apos;t lalo siyang namangha noong buksan ang balutang dala, na anya&apos;y:
+
+<p>&mdash;Aling Loleng kung kayo man ay nagagalak sa pagsapit n&gtilde; inyong araw, ay lalo at higit ako. Ang katunayang di magkasya sa puso ko ang tuwa, ay di na matutuhan kung alin sa likha n&gtilde; tao o likha n&gtilde; katalagahan ang pipiliin kong ihandog sa inyong m&gtilde;a yapak. Pagyamanin mo po ang nakaya n&gtilde; inyong lingkod.
+
+<p>Pandidilat n&gtilde; mata ni kapitang Andoy; <pb id=pb71 n=71>matulin na paglabas ni kapitana Martina; at isang «salamat po» lamang ni Dolores, ang tumugon sa mahabang talumpati n&gtilde; binata. Samantalang mula sa pinto ay maraming mukha ang nakasun&gtilde;aw na sabik makakita n&gtilde; handog ni Beteng. Yaon ang m&gtilde;a katulong sa paghahanda, at m&gtilde;a kapit-bahay na katapatang loob. Ang matandang kapitana na inip sa matagal na pagkalas n&gtilde; tali, ay tumulong kay Beteng bago bumulalas:
+
+<p>&mdash;Kay ganda nito!
+
+<p>At itinaas n&gtilde; kanyang kamay, ang isang alpiler na may malaking bató, saka tinitigan n&gtilde; papikitpikit pa. Ang m&gtilde;a nanonood, maging si kapitang Andoy, ay napipilan. Si Dolores naman ay pinapagpapawis n&gtilde; pan&gtilde;in&gtilde;imi. Nahihiya na di maintindihan. Lalo namang sumisigla si Beteng n&gtilde; pagtatanghal n&gtilde; kanyang handog. Sa ibabaw n&gtilde; mesang marmol ay inihanay na lahat upang han&gtilde;aan n&gtilde; nagsisitin&gtilde;in.
+
+<p>&mdash;Kay dami naman!&mdash;ang wika ni kapitang Andoy, nang mamalas niya ang m&gtilde;a botelya n&gtilde; paban&gtilde;o, ang kaha n&gtilde; pulbos, ang magarang pulbera, ang <pb id=pb72 n=72>salaming pangmesa, ang sutlang pamaypay, at ang isang dosenang panyolitong nagpuputian.
+
+<p>&mdash;Inubos na niyong hinakot ang tinda sa Eskolta!&mdash;ang bulalas uli ni kapitana Martina, na idinuro sa alampay ni Dolores ang mahalagang alpiler.
+
+<p>&mdash;Aba!&mdash;ang magkakatulad namang paghan&gtilde;a n&gtilde; ilan. Noon lamang sila nakamalas n&gtilde; gayong m&gtilde;a alay. At isa isang nagsilabas upang ipagpatuloy ang ginagawa.
+
+<p>Gayon man ang paghan&gtilde;a sa m&gtilde;a handog ni Beteng ay lugi rin siya. Oo, lugi siya, sapagka&apos;t bahagya n&gtilde; bayaran n&gtilde; n&gtilde;iti n&gtilde; kanyang iniirog. N&gtilde;uni&apos;t palibhasa&apos;y dalagang Tagalog, ang yumi, hinhin at kadakilaan n&gtilde; asal, ay di rin nasusupil n&gtilde; pagkawalang loob kay Beteng. Si Dolores ay si Dolores din. Siya rin ang dalagang mapanghalina. Ang katotohanan ay ang anyaya niya kay Beteng:
+
+<p>&mdash;Tayo po ay magagahan muna.
+
+<p>&mdash;Salamat po&mdash;ang tugon n&gtilde; binata.
+
+<p>&mdash;Kung di kayo magaagahan dito, ay di ko namang tatanggapin ang m&gtilde;a handog na iyan&mdash;ang tampo n&gtilde; dalaga.
+
+<pb id=pb73 n=73><p>&mdash;Naku naman!&mdash;ang n&gtilde;iti ni Beteng.
+
+<p>&mdash;Siya n&gtilde;a; tayo na muna magagahan&mdash;ang dugtong ni kapitang Andoy.
+
+<p>&mdash;Salamat po&mdash;ang ulit n&gtilde; binata.
+
+<p>&mdash;Anong salamat? Tayo na&mdash;ang salo n&gtilde; kapitana Martina.
+
+<p>&mdash;Nakatapos na po&mdash;ang tanggi rin ni Beteng.
+
+<p>&mdash;Ay ano kung nakatapos?&mdash;ang sambot ni Dolores&mdash;Ang agahan natin ay laan sa nakatapos na.
+
+<p>&mdash;Busog pa po ako&mdash;ang ayaw n&gtilde; binata.
+
+<p>&mdash;Hindi naman handa sa gutom ang agahan dito&mdash;ang pagtatanggol n&gtilde; dalaga.
+
+<p>Natapos ang pakunwari n&gtilde; binata sa ganap na pagsuko. At ilang sandali pa ay napanood nang humihigop n&gtilde; sikulate at nagpapahid n&gtilde; mantikilya sa tinapay.
+
+<p>&mdash;Sinapul na mabuti ang handa!&mdash;ang wika n&gtilde; isang batang utusan na sumisilip mula sa kusina&mdash;¡Pati agahan ay tinodas na!...
+
+<p>&mdash;Hayop! ¡Hayop!&mdash;ang parang tugon naman ni kapitana Martina na nakahuli sa sumisilip at nilapirot ang taynga.
+
+<p>&mdash;Aray!... ¡aray!...&mdash;ang iyak na lamang n&gtilde; nadakip.
+
+<pb id=pb74 n=74><p>Salamat sa pagdatal n&gtilde; ilang panauhin, at binitiwan din n&gtilde; kapitana ang nahuli. Pumasok at sumalubong n&gtilde; boong galak. Ang dumating ay dalawang dalaga at isang binata. Tumayo si Dolores sa mesa at pinakapilit na makisalo ang m&gtilde;a bagong panhik. Ilang sandali pa ay anim katao na yaong magkakasalo.
+
+<p>Sarisaring m&gtilde;a biro, sarisaring m&gtilde;a pagpuri ang naghari sa boong pagkakainan. Minsan ay mamayani si kapitang Andoy, at kung minsan ay mamaibabaw si Beteng. Datapwa&apos;t si Dolores ay n&gtilde;iti lamang ang inilalaban. Matagal-tagal din bago sila nagkatapos.
+
+<p>Noon nama&apos;y matindi na ang sikat n&gtilde; araw. Dating at dating na ang panauhin. Kanina ay m&gtilde;a dalaga. N&gtilde;ayon ay m&gtilde;a binata. Mamiya&apos;y dalaga na naman. At marahil ay binata ang susunod. Dapat magkagayon: sapagka&apos;t araw n&gtilde; bulaklak ay bulaklak din ang dapat magdiwang. At kung saan natitipon ang m&gtilde;a bulaklak ay doon nagkakagulo ang m&gtilde;a bubuyog at paroparo.
+
+<p>Halos sikip na ang bahay ni kapitang Andoy. Bawa&apos;t dumatal ay «maligayang bati» ang namumulas sa m&gtilde;a labi. Datapwa&apos;t <pb id=pb75 n=75>si Artemyo, ang binatang giliw n&gtilde; ipinagdidiwang, ang pusong lalong mapalad, ay di pa sumisipot. Gayon man ay di kapunapuna ang pagkawala nito sapagka&apos;t si Dolores lamang marahil ang di nakalilimot. Ang kapunapuna ay ang di pagsipot pa n&gtilde; komparsa.
+
+<p>&mdash;Kapitang Andoy, wala ba tayong tugtugan?&mdash;ang usisa ni Labadre, ang kanina pa&apos;y kantiyaw n&gtilde; kantiyaw.
+
+<p>&mdash;Mayroon&mdash;ang tugon n&gtilde; tinanong&mdash;Dalawa ang nan&gtilde;ako sa akin.
+
+<p>&mdash;Saan po naroon?
+
+<p>&mdash;Hindi pa dumarating.
+
+<p>&mdash;Ika sampu na po ah?
+
+<p>&mdash;Maaga pa.
+
+<p>&mdash;Baka lawit ang púsod n&gtilde; m&gtilde;a nan&gtilde;akong iyan!...
+
+<p>&mdash;Hindi po naman!&mdash;ang pagdaramdam na halo ni Beteng.
+
+<p>&mdash;Biro ko po lamang iyon. Patawarin ninyo ako&mdash;at tinapos sa halakhak.
+
+<p>Di na sumagot si Beteng at dumun&gtilde;aw upang tanawin marahil ang kanyang komparsa. Datapwa&apos;t wala siyang namalas at ni si Simon ay di sumisipot. &ldquo;¿Bakit kaya?&rdquo; ang naitanong sa sarili. Siya rin ang sumagot &ldquo;Maaga pa naman.&rdquo; At <pb id=pb76 n=76>naupong muli na ipinako ang malas kay Dolores.
+
+<p>&mdash;Kay ganda n&gtilde; lan&gtilde;it ko!&mdash;ang inipit na sigaw n&gtilde; kalulwa. At mula sa ulo hanggang paa ay pinanooran niya, ang gumugulo sa kanyang buhay at pagkatao.
+
+<p>Si Dolores, kung talaga mang may katutubong ganda, ay higit at lalo pa noon. Batid niyang siya lamang ang magiging panoorin sa kasayahan, kaya bumikas n&gtilde; dapat maging bikas. Ang damit na isinoot ay yaong talagang bagay sa kanyang ganda: kulay bughaw.
+
+<p>&mdash;Loleng&mdash;ang saad ni Labadre&mdash;kay dami mong kandidato ay wala na bang nagalay sa iyo n&gtilde; tutugtog?
+
+<p>&mdash;Ayaw ko n&gtilde;a niyan!&mdash;ang yamot n&gtilde; pinagukulan.
+
+<p>&mdash;Hindi ba?&mdash;ang patigas ni Labadre&mdash;may artista ka, may estudyante ka, may pintor ka, may....
+
+<p>&mdash;Mayroon n&gtilde; lahat!&mdash;ang patalo ni Dolores.
+
+<p>Tawanan at titigan ang itinugon n&gtilde; lahat. Siyang pagsipot n&gtilde; anim na dalagang nagpapan&gtilde;agaw sa dilag. Ang gayak ay paraparang ternong bughaw. Yaon ay m&gtilde;a <hi>bituin</hi> n&gtilde; &ldquo;Kami Naman.&rdquo; <pb id=pb77 n=77>Batian at kamayan ang nangyari. At naupo na naman ang lahat.
+
+<p>&mdash;Wala pa hanggang n&gtilde;ayon ang komparsa!&mdash;ang kantiyaw na naman ni Labadre, matapos magpausok n&gtilde; tabako at makapagpaindayog sa kulumpiyó.
+
+<p>&mdash;Tanghali na n&gtilde;a<corr sic=" ">&mdash;</corr>ang dugtong ni kapitang Andoy.
+
+<p>&mdash;Sayang ang m&gtilde;a sandaling nakararaan!&mdash;ang patuloy pa ni Labadre.
+
+<p>Si Beteng ay parang iniinis. Nabakla tuloy na baka di na n&gtilde;a sumipot ang komparsa. Hindi na mapalagay ang binata. Dudun&gtilde;aw; uupo; tatayo; at lalabas na lamang ang gawa.
+
+<p>Ang m&gtilde;a bubuyog ay patuloy sa pakikipagbulun&gtilde;an sa m&gtilde;a bulaklak. Ganap na kaligayahan ang inaawit nila. Bawa&apos;t isa&apos;y kinalalarawanan n&gtilde; galak, tuwa, aliw.
+
+<p>May m&gtilde;a binatang palipatlipat n&gtilde; upo. At may m&gtilde;a dalagang nagbabanalbanalan. May m&gtilde;a bagong taong bibig at matá lamang ang kumikilos. At may m&gtilde;a dalagang kamay lamang ang pinagagalaw sa pamamaypay. Ano pa&apos;t halohalo na: ang mabait at ang malikot.
+
+<p>Si Dolores man ay masayang masaya <pb id=pb78 n=78> rin. Samantalang si kapitana Martina ay lakad dito, lakad doon. Pumasok, lumabas, ang ginanap na tungkulin.
+
+<p>&mdash;Ano bang komparsa iyan?&mdash;ang di mapakaling bulas na naman n&gtilde; bibig ni Labadre&mdash;<corr>¿</corr>hanggang n&gtilde;ayon ay wala pa?...
+
+<p>&mdash;Antabayanan natin&mdash;ang alalay naman ni kapitang Andoy.
+
+<p>&mdash;Sus!&mdash;ang payamot na ni Labadre&mdash;sinasabi ko&apos;t lawit yata ang púsod n&gtilde; m&gtilde;a nangako....
+
+<p>&mdash;Mang Beteng, ¿anong oras po ba darating?&mdash;ang usisa na ni kapitang Andoy.
+
+<p>Pinawisan n&gtilde; malamig ang binata at matagal din bago nakasagot:
+
+<p>&mdash;Ang sabi ko po ay ika walo.
+
+<p>&mdash;Bakit wala pa hanggang n&gtilde;ayon?&mdash;ang lahók ni Labadre.
+
+<p>&mdash;Talagang gayon po tayong pilipino: pag sinabing ika walo ay antayin mo sa ika labing dalawa....&mdash;ang katwiran ni Beteng.
+
+<p><corr>&mdash;</corr>Samakatwid ay mamiya pa sila darating&mdash;ang pandidilat na ni Labadre.
+
+<p>&mdash;Malaking sisté!&mdash;ang yamot na ni kapitang Andoy&mdash;¡Pati si Artemyo ay nawala na ah!...
+
+<p>Nagbin&gtilde;ibin&gtilde;ihan si Beteng n&gtilde;uni&apos;t <pb id=pb79 n=79>naglalagablab ang loob. Ang poot niya ay kay Labadre nabubuhos. «¿Sino bang hayop ito?» ang tanong sa sarili. ¡Kay luwag n&gtilde; kuwelyo! ¡Kay iksi n&gtilde; amerikana! ¡Tambakan yata n&gtilde; basura ang bibig sa walang sawang pagn&gtilde;an&gtilde;a! Pausok n&gtilde; pausok n&gtilde; tabako at bibig na lamang niya ang naririnig. Sulot n&gtilde; sulot sa kapitang Andoy na parang binubaeng gumigiri. Dapat n&gtilde;ang kainisan ni Beteng. Kung hindi sa kanya, kay Labadre, ay di pa lubhang maiinip ang ama n&gtilde; kanyang Dolores.
+
+<p>&mdash;Kapitang Andoy,&mdash;ang pagitna na naman ni Labadre&mdash;kung batid ko lamang na walang tugtugan ay ako sana ang nagdala...
+
+<p>&mdash;Bakit po? ¿Wala po bang tugtugan?&mdash;ang usisa n&gtilde; ilang kaharap.
+
+<p>&mdash;Mayroon&mdash;ang tugon n&gtilde; kapitang Andoy&mdash;darating na.
+
+<p>&mdash;Sunduin ko yata?&mdash;ang putol ni Beteng.
+
+<p>&mdash;Huwag na po&mdash;ang pakunwari ni Dolores.
+
+<p>Ang sagot na ito n&gtilde; binibini ay nakapagbawas din n&gtilde; kaba n&gtilde; dibdib ni Beteng. Paano&apos;t paano ma&apos;y nakabuhay din <pb id=pb80 n=80>n&gtilde; kanyang loob. Lubha pa noong pumasok si kapitana Martina na nagsabing:
+
+<p>&mdash;Loleng, samantalang wala pa ang m&gtilde;a komparsa, ay ilabas mo ang iyong alpá at aliwin mo ang iyong m&gtilde;a kaibigan.
+
+<p>&mdash;Siya n&gtilde;a po.
+
+<p>&mdash;Yaon ang magaling.
+
+<p>&mdash;Ang inaantay namin.
+
+<p>&mdash;Halana.
+
+<p>Gayon ang naging tugunan n&gtilde; lahat na pawang nagpako n&gtilde; malas sa dalagang ipinagbubunyi. Sa likod nito ay namaibabaw din si Labadre. Anya&apos;y:
+
+<p>&mdash;Ilabas mo&apos;t marami tayong paaawitin dito. Hayan si Nitang, ang tiple sa Mandaluyon, si Berang, ang dan&gtilde;al n&gtilde; Tangke, si Siyon ang buhay n&gtilde; &ldquo;Kumilos Tayo,&rdquo; at....
+
+<p>&mdash;Silang lahat na!&mdash;ang dugtong ni kapitang Andoy.
+
+<p>&mdash;Siya n&gtilde;a po, siya n&gtilde;a po&mdash;ang ayon n&gtilde; m&gtilde;a binata.
+
+<p>&mdash;Bah! ¡bah! ¡bah!&mdash;ang pagtanggi n&gtilde; m&gtilde;a dalaga.
+
+<p>Ayaw pa sana si Dolores na ilabas ang kanyang alpá, dahil sa pagkatig sa kanyang m&gtilde;a kabaro, n&gtilde;uni&apos;t napilitan din. <pb id=pb81 n=81>Ilang sandali pa ang lumipas at nagdiwang na ang m&gtilde;a daliri ni Dolores. Mahabang palakpakan ang tumapos.
+
+<p>&mdash;Talagang ang dalaga ni kapitang Andoy, ay madadala na sa esposisyon sa Panamá&mdash;ang pagpuri ni Labadre.
+
+<p>&mdash;Naman!&mdash;ang salo ni kapitana Martina at ni Dolores.
+
+<p>&mdash;Walang biro: ang mayaman sa ganda at mayaman sa talino, ay talagang pang-esposisyon&mdash;ang patuloy ni Labadre&mdash;N&gtilde;uni&apos;t.... ¿wala pa ang m&gtilde;a komparsa?
+
+<p>Si Beteng na naman ang natisod. &ldquo;¡Kulog na matanda ito!&rdquo; ang bulong, &ldquo;¡hindi na napagod ang bibig!&rdquo; Salamat at nagbago n&gtilde; salita si Labadre:
+
+<p>&mdash;Nitang, tiple n&gtilde; Mandaluyon, ikaw naman n&gtilde;ayon.
+
+<p>&mdash;Si mang Labadre naman&mdash;ang patumpik n&gtilde; pinagukulan.
+
+<p>&mdash;Halana; isang kundimang makalaglag matsing&mdash;ang pilit ni Labadre&mdash;Loleng, tugtugan mo.
+
+<p>Nagpalakpakan ang m&gtilde;a panauhin, n&gtilde;uni&apos;t si Nitang ay ayaw pa rin. Ang dalagang sibol sa lan&gtilde;it n&gtilde; Pilipinas ay talagang gayon. May talino man ay hindi ipinagpaparanya. Bagkus ikinukubli <corr sic=haban>habang</corr> <pb id=pb82 n=82>napipita. Lalo na&apos;t pagpuri at paghan&gtilde;a ang ipaghahalungkat.
+
+<p>Mana&apos;y isang matining na tinig ang nagpatahimik sa lahat. Umaawit si Nitang at sinasaliwan ni Loleng. Si Labadre ay napatigil din. Sinamantala naman ni Beteng ang pagpanaog upang salubun&gtilde;in marahil ang komparsa.
+
+<p>Sa panulukan n&gtilde; m&gtilde;a daan Sagat at Penyapransiya, ay doon tumanaw si Beteng. Sarisaring guniguni ang lumaro na sa binata noong hindi niya mamalas ang inaantay. ¿Biniro kaya siya n&gtilde; komparsa? ¿Talaga kayang di na sisipot? ¿Ano ang ginawa ni Simon sa salapi? Ganyang m&gtilde;a tanong ang di niya matugon. Nan&gtilde;an&gtilde;awit naman sa pagtanaw sa wala, ang kanyang malas.
+
+<p>Minsan ay magnin&gtilde;as ang poot kay Labadre. Kung wala ang taong yaon ay di gaanong mapupuná ni kapitang Andoy ang di pagsipot n&gtilde; komparsa. Ang kapitan ay nawiwiling makipagusap sa m&gtilde;a panauhin. Datapwa&apos;t laging sinusulot n&gtilde; masalitang matanda. Ito ang nagpapalaki n&gtilde; sunog. Ang kanyang pagkatao ay nabin&gtilde;it tuloy sa pilapil n&gtilde; kahihiyaan.
+
+<pb id=pb83 n=83><p>Si Simón naman ang nahagilap n&gtilde; alaala. ¿Pinagtaksilan kaya siya? Hindi mangyayari. Kagabi lamang ay ika labingisa na n&gtilde; umalis sa bahay ni Beteng. At sinabi nitong naibigay niya ang salapi at tinanggap naman. ¿Saan naroon? Marahil ay tinitipon ang manunugtog. Walang sala; pagka&apos;t pinainum pa niya n&gtilde; herés, bago umalis.
+
+<p><corr sic=Humakban>Humakbang</corr> n&gtilde; ilan ang binata at idinukot sa bulsa ang kamay. Tumanaw na naman sa malayo, n&gtilde;uni&apos;t wala pa rin. &ldquo;M&gtilde;a tao na namang iyon, ¿di kaya inaalala ang kahihiyan ko?&rdquo; ang tanong na magisa. Tinanggap ang salapi at ¿di sisipot? ¡Malaking pagkukulang sa pagsasama! Datapwa&apos;t ¿ano ang magagawa ni Beteng? Siya&apos;y nagaanyaya lamang. ¿Ang salapi? Yaon ay pabuya lamang. Iba ang upa sa pabuya. Kung upa, kahi&apos;t umulan ay sisipot sa takdang oras. Sapagka&apos;t pabuya, ay daratal kung kailan sipagin. ¡Utang na loob pa!
+
+<p>Inip na inip na ang binata. Pumagitna na naman sa daan at muling tumanaw. Wala pa rin. Si Simon man ay <corr sic="walá">wala</corr> rin. ¿Tuluyan na kayang mabibitin ang kaawaawa? Sumisikdo ang loob; sumasasal <pb id=pb84 n=84>ang tibok n&gtilde; puso; nan&gtilde;an&gtilde;apos ang hinin&gtilde;a. ¡Mahirap na talaga ang mabin&gtilde;it sa kahihiyan!
+
+<p>Waring nabuksan ang lan&gtilde;it kay Beteng nang marinig niya ang tunog n&gtilde; bigwela. Walang alinlan&gtilde;ang yaon ay kina kapitang Andoy. Halos ay tumakbo ang binata sa galak. Matulin na pumanhik. Lalong sikip na ang bahay na bago n&gtilde; kapitan. Noon ay nagsasayawan na. Taas ang noo, lantad ang mukha, na dumulog sa harapang yaon. N&gtilde;uni&apos;t ¡kay laking pagkabigo! Ang tumutugtog pala ay hindi ang komparsang kanyang inaantay, kung hindi ang orkesta ni Artemyo at ni Pastor. Napipi at napamangha ang binata. Lalong ibinaon siya n&gtilde; kahihiyaan. Malalamig na patak n&gtilde; pawis ang umaliw sa kanya. Ang mata naman n&gtilde; m&gtilde;a kaharap ay parang umuuyam sa <corr sic=kaawawa>kaawaawa</corr>.
+
+<p>&mdash;Naito na pala si mang Beteng!&mdash;ang bulalas ni Labadre&mdash;¿nahan ang inyong komparsa? ¡Wala! ¡Nilagpasan kayo ni Artemyo!...
+
+<p>Walang naitugon <corr sic=ni>si</corr> Beteng kung hindi sarisaring banta. Poot kay Artemyo, sapagka&apos;t napaibabawan na naman siya. <pb id=pb85 n=85>Galit kay Labadre, dahil sa lagi siyang hinihiya at ibinibilad. N&gtilde;itn&gtilde;it kay Simón at sa komparsa, sanhi sa siya&apos;y isinubo sa kahihiyaan. Gayon ma&apos;y nagbakasakali ring daratal. At pinilit ang n&gtilde;iting nagsaad kay kapitang Andoy:
+
+<p>&mdash;Nahuli ang komparsa natin.
+
+<p>&mdash;Tanghali na n&gtilde;a&mdash;ang tugón naman n&gtilde; pinagukulan.
+
+<p>&mdash;Nahan mang Beteng ang inyong komparsa?&mdash;ang pagitna na naman ni Labadre&mdash;¿mayroon ba o wala?
+
+<p>&mdash;Mayroon&mdash;ang salo ni kapitana Martina na noon ay abalang abala&mdash;Ito namang si Labadre, ¿hindi pa ba kayo nasisiyahan sa orkestang iyan?
+
+<p>&mdash;Bah! Iba po ang komparsa ni mang Beteng sa orkesta ni mang Artemyo&mdash;ang tugon ni Labadre.
+
+<p>Patuloy naman sa pagtugtog ang orkesta, at patuloy din sa pagikot sa sayaw ang m&gtilde;a bubuyog at bulaklak. Si Loleng naman at si Artemyo ang nagsasarili; kaya lalong naglalagablab ang poot ni Beteng. Paano&apos;y dinadarang n&gtilde; panibugho. Gayon ma&apos;y nagtatagumpay din ang dakilang asal. Nagkamayan din <pb id=pb86 n=86>ang dalawang binata. Kay Pastor ma&apos;y parang walang ano mang bigat n&gtilde; loob.
+
+<p>Natapos ang sayawan. Pumutok ang serbesa. Lalong namayani si Labadre. Datapwa&apos;t si Beteng ay parang nauupos na kandila. Lahat ay nakamata sa kanya o kay Artemyo kaya.
+
+<p>&mdash;Malaking pagkabigo!&mdash;ang pagkakalat na naman ni Labadre&mdash;¡Napeste na yata ang komparsa ni mang Beteng!
+
+<p>Halakhakan ang itinugón n&gtilde; lahat. Ang binatang tinukoy ay maputlang maputla. Isang babai lamang yaong nakasagot:
+
+<p>&mdash;Si mang Labadre naman; itinatanghal ninyo ang lalaong dakila sa ating panauhin....
+
+<p>&mdash;Lalong dadakila kung sumipot ang komparsa&mdash;ang patlang ni Labadre.
+
+<p>&mdash;Sisipot din&mdash;ang pagtatanggol ni kapitang Andoy.
+
+<p>Walang imik at nakahalukipkip si Artemyo sa piling ni Pastor. Kapwa sila nagpapausok n&gtilde; tabako.
+
+<p>&mdash;Sayang!&mdash;ang saad na naman ni Labadre&mdash;Mabuti, kapitang Andoy, at nagkaroon kayo n&gtilde; isang Artemyo, disin ay nabitin tayong lahat.... ¡Sa akin ay si <pb id=pb87 n=87>Artemyo ang lalong dakilang panauhin n&gtilde;ayon!...
+
+<p>&mdash;Salamat po&mdash;ang salo n&gtilde; pinuri.
+
+<p>&mdash;Ehem,&mdash;ang tikim naman n&gtilde; ilán na ginanti n&gtilde; kindat n&gtilde; ibang nakababatid n&gtilde; lihim.
+
+<p>Dadaluhin&gtilde;in na sana ni Beteng ang Labadreng kanina pa&apos;y kinaiinisan na niya, kung hindi dumatal na humahan&gtilde;os at may dugo sa damit si Simón.
+
+<p>&mdash;Mang Beteng!&mdash;ang wika&mdash;¡Humawak ka po n&gtilde; patalim at iban&gtilde;on natin ang iyong kahihiyan! ¡Narito ang umaagaw n&gtilde; iyong dangal! ¡Ang isa ay napatay ko na!
+
+<p>&mdash;Ano ang nangyari? ¡Simón!&mdash;ang gulat na tanong ni Beteng.
+
+<p>&mdash;Kailan&gtilde;ang pumatay ka po n&gtilde; tao pagka&apos;t ang dan&gtilde;al mo ay inaagaw n&gtilde; iba!
+
+<p>Boong tapang na isinaad na labis na nakatulig sa lahat n&gtilde; nakikinig. Si Beteng ay lalong naupos. Si Labadre man ay napipilan din. Maging si kapitang Andoy, maging si kapitana Martina, ay napako sa pagkamangha. Ang magandang Dolores ay nangliit sa takot. Sino ma&apos;y <pb id=pb88 n=88>walang nakaimik. Isa isang minalas ni Simon ang panauhin. Hinanap n&gtilde; kanyang mata ang m&gtilde;a kaaway n&gtilde; kanyang katoto.
+
+<p>Sa gayong anyo, na lahat ay natitigilan, ay sumipot ang m&gtilde;a alagad, n&gtilde; pamamayapa, ang kinatawan n&gtilde; pamahalaan. Tinutok n&gtilde; rebolber si Simon na:
+
+<p>&mdash;Bitiwan mo ang iyong patalim!
+
+<p>Binitiwan naman nito. Pinulot n&gtilde; isa sa m&gtilde;a tiktik. Kinawit naman sa kamay n&gtilde; isa si Simon. At magalang silang yumaon. Si Beteng ay sumama naman sa dinakip. At ang alin&gtilde;asn&gtilde;as ay lalong naghari.
+
+<p>Isa&apos;t isa&apos;y lumapit n&gtilde;ayon kay Artemyo at kay Pastor. <corr sic="Bala na&apos;y">Balana&apos;y</corr> nag-usisa kung ano ang nangyari. N&gtilde;uni&apos;t sa lahat n&gtilde; tanong ay pawang «aywan» ang sagot. At yumaon na rin ang magkaibigan, matapos magpasintabi kay Dolores at sa lahat n&gtilde; panauhin.
+
+<p>&mdash;Baka di na kayo bumalik?&mdash;ang huling tanong ni Loleng.
+
+<p>&mdash;Babalik; sandali lamang kami&mdash;ang tugón n&gtilde; dalawáng nagmamadali.
+
+<pb id=pb89 n=89><p>Sarisaring hinagap n&gtilde;ayon ang naghari sa kasayahan. Bulong dito, bulong doon, ang nangyari. Si Labadre nama&apos;y lumikha na n&gtilde; kung ano anong m&gtilde;a hiwaga na sin&gtilde;aw marahil n&gtilde; alak.
+
+
+
+
+<pb id=pb90 n=90>
+<div1 n=VII id=ch7>
+<head type=label>VII</head>
+
+<head>ANG PAGKAKATAONG LALONG MASAKLAP</head>
+
+
+<p>Hapon na noon n&gtilde; araw ni Loleng. Ang panauhin nila ay m&gtilde;a katulong na lamang. Ang pagsasaya ay natapos sa di oras, dahil sa sigalot na nangyari.
+
+<p>&mdash;Bah!&mdash;ang nasabi na lamang ni Artemyo nang siya&apos;y dumating na lahat ay natatahimik. Ang durun&gtilde;awan man n&gtilde; bahay ay nakalapat. Isa mang tao ay wala siyang mamalas. Tunog n&gtilde; pinggan sa labas ang kanyang napupuna. Nagalan&gtilde;anin tuloy na magpatao po. Subali&apos;t noong siya&apos;y tatalikod na lamang ay nakarinig n&gtilde;:
+
+<pb id=pb91 n=91><p>&mdash;Mang Artemyo, tuloy kayo! ¿Ano po ba ang balita?
+
+<p>Ang kapitana Martina pala ang tumawag kaya&apos;t pumanhik ang binata.
+
+<p>&mdash;Bakit n&gtilde;ayon lamang kayo?&mdash;ang bati naman ni Loleng na buhat sa silid.
+
+<p>&mdash;Bakit naman nagkatapos agad?&mdash;ang usisa n&gtilde; binata.
+
+<p>&mdash;Nagkasakit sa nerbiyos si Andoy&mdash;ang salo n&gtilde; kapitana&mdash;Nariyan sa silid na binabantayan ni doktor Borlon&gtilde;an. Malubhang totoo.
+
+<p>&mdash;Diyata!&mdash;ang taka ni Artemyo.
+
+<p>&mdash;Nasindak kay mang Simon&mdash;ang patunay ni Dolores&mdash;Bakit talagang may sakit sa puso.
+
+<p><corr>&mdash;</corr>Ang nangyari po&apos;y ganito&mdash;ang pagbabalita na ni Artemyo&mdash;Nan&gtilde;ako rito, o kay kapitang Andoy, si Beteng n&gtilde; komparsa. Ang komparsa pong yaon ay pinan&gtilde;an&gtilde;asiwaan n&gtilde; isang nagn&gtilde;an&gtilde;alang Tomas. Si Beteng, upang matiyak na sisipot dito ang komparsa, ay nagbigay pa n&gtilde; salapi. Si Simon po naman ang nagdala, sapagka&apos;t ito ang kasama n&gtilde; Tomas sa hanapbuhay. Nagkasundo di umano sila, at tinanggap daw po ang pinakaupa. N&gtilde;uni&apos;t kanina raw po ay <pb id=pb92 n=92>antay n&gtilde; antay si Simon ay walang sumisipot. Hinanap daw po si Tomas at nakita sa bilyar. Inusisa raw po nito kung bakit di tumupad sa salitaan. Sapagka&apos;t si Tomas daw po ay napagtatalo ay di raw hinarap si Simon. Sa gayon ay sumubo na ang poot n&gtilde; sumundo. Isang kung sino naman ang bumulong daw kay Simon na &ldquo;talagang hindi sila sasama sa inyo sapagka&apos;t salitaang ibibitin kayo.&rdquo; Lalong nagdilim daw po ang isip ni Simon. Nagbunot na raw po n&gtilde; kortapluma at nilabnot ang damit sa dibdib ni Tomas. &ldquo;¿Sasama ka o hindi?&rdquo; ang makapangyarihan daw na tanong. &ldquo;¡Huwag ka n&gtilde;ang buwisit!&rdquo; ang tugon daw naman ni Tomás, &ldquo;¡Hayan ang salapi mo!&rdquo; at inihagis daw po ang pabuya. Sapat na yaon upang si Simon ay gumamit n&gtilde; patalim. Tinarakan na raw po sa tapat n&gtilde; puso si Tomas....
+
+<p>&mdash;Hesus!&mdash;ang pahiyaw ni kapitana Martina.
+
+<p>&mdash;Di namatay?&mdash;ang saad naman ni Loleng.
+
+<p>&mdash;Mangyari pa po! ¿Di ba ninyo narinig ang hagibis n&gtilde; ambulansiya?&mdash;ang tanong pa ni Artemyo.
+
+<pb id=pb93 n=93><p>&mdash;Narinig nga namin at siya tuloy nagtaboy n&gtilde; maraming panauhin&mdash;ang saad n&gtilde; kapitana.
+
+<p>&mdash;Bakit sinabi ni mang Simon kay Beteng na narito ang umaagaw n&gtilde; kanyáng dan&gtilde;al?&mdash;ang usisa pa ni Loleng.
+
+<p>&mdash;Ipinalagay po marahil nila na si Pastor o ako ang nagsulsol kay Tomas, na huwag sumipot.
+
+<p>&mdash;Patawarin n&gtilde; Diyos!&mdash;ang saad ni kapitana Martina, at hinarap si Dolores&mdash;ipaghanda mo sila n&gtilde; mirindal.
+
+<p>&mdash;Huwag na po. Marami pong salamat&mdash;ang maagap na pagayaw ni Artemyo.
+
+<p>&mdash;Hindi manyayari; kakain at kakain kayo&mdash;ang pasya n&gtilde; kapitana.
+
+<p>Si Dolores nama&apos;y yumaon na upang ipaghanda ang irog. Ilang sandali lamang ay magiliw na nagsabing:
+
+<p>&mdash;Tayo na.
+
+<p>&mdash;Huwag na po&mdash;ang pasalamat n&gtilde; binata.
+
+<p>&mdash;Hala na&mdash;ang yaya naman n&gtilde; kapitana.
+
+<p>Sa kapipilit ay tumayo rin si Artemyo. Silang tatlo ay nagharap sa lamesa. Sumungkit si Dolores n&gtilde; mantikilya at ipinahid sa tinapay n&gtilde; binata. Nilagyan naman n&gtilde; kapitana Martina n&gtilde; keso ang <pb id=pb94 n=94>pinggan nito. N&gtilde;uni&apos;t noong isusubo na lamang ni Artemyo ang biskuwit na isinahok sa mainit na sikulate ay nabigla sila sa tawag na:
+
+<p>&mdash;Kapitana! ¡Kapitana! ¡Dolores! ¡Dolores! ¡Madali kayo at mamamatay na ang kapitan!...
+
+<p>Madaling gumibik ang tatlo. Unahang pumasok sa silid n&gtilde; kapitan. Isang higit na lamang n&gtilde; balikat ang kanilang namalas, at:
+
+<p>&mdash;Patay na!&mdash;ang saad n&gtilde; doktor.
+
+<p>Malakas na hagulhol n&gtilde; magali ang nagbalita sa boong kabahayan, n&gtilde; masaklap na pagyaon ni kapitang Andoy. Dumagsa sa silid ang tao mula sa labas. Madlang kapitbahay ay nagsidalo rin.
+
+<p>Samantalang nagsisitan&gtilde;is halos ang lahat, si Artemyo ay pagal na pagal namang inaaliw ang kanyang pinopoon. Sa pagkahandusay sa isang upuan ni Loleng, ay boong giliw niyang pinapaypayan. Pinipisilpisil ang m&gtilde;a daliri at hinahaplos ang mukha. Walang malay naman ang dinaklot n&gtilde; pighati.
+
+<p>Isang sandali pa ang lumipas at tinanghal nang bangkay, ang kanikanina lamang ay tinawag na kapitang Andoy.
+
+<pb id=pb95 n=95><p>Sa isáng silid ay nagkulóng na naglapat n&gtilde; pinto ang magali. Mula roon ay umalin&gtilde;awn&gtilde;aw ang malumbay na pagtan&gtilde;is nila sa dagok n&gtilde; palad.
+
+<p>¡Kay saklap na naging kaarawan ni Loleng! ¡Nagsimula sa galak at natapos sa mapait na pagluha! ¡Sawing palad na pagkakataon!
+
+
+
+
+<pb id=pb96 n=96>
+<div1 id=ch8 n=VIII>
+<head type=label>VIII</head>
+
+<head>MGA NALUGMOK SA LIWANAG NG BUWAN</head>
+
+
+<p>Gabing maligaya. Ang buwan noon ay parang nabibitin sa lan&gtilde;it. Nagpapalalo n&gtilde; kanyang yaman. Sa daan Sagat naman noon, ay magulong maguló ang m&gtilde;a bata. May tubigan, may taguan, at kung ano-ano pang laro ang ginaganap. Nakikipaglamay sila sa liwanag na kaayaaya. Noon ang ika pitong gabi n&gtilde; dasal na patungkol kay kapitang Andoy. Kaya&apos;t kung sino-sinong manang at manong ang nagsisidatal. At lalong marami ang dalaga at binatang m&gtilde;a kaibigan ni Dolores.
+
+<p>Ang masamyong halimuyak n&gtilde; m&gtilde;a <hi>dama-de-notse</hi>, sa halamanan ni Loleng, <pb id=pb97 n=97>ay sumusuob noon, at bumabati sa m&gtilde;a alindog na panauhing patun&gtilde;o sa dasal. Ang m&gtilde;a panggabing paroparo, o mga pusong palaboy n&gtilde; pagibig, ay naglisaw naman sa daan at inaaban&gtilde;an ang kanikanilang bulaklak. ¡Sayang n&gtilde;a naman ang pagkakataon!
+
+<p>Mula naman sa lan&gtilde;it ay nagkislapkislap ang m&gtilde;a hiyas n&gtilde; kalawakan. M&gtilde;a bituing waring nagsasaad na <hi>sinusubukan namin kayo</hi>. Han&gtilde;in lamang marahil ang nakababatid n&gtilde; kanilang isinasaloob.
+
+<p>Mana&apos;y tatlong lalaki ang sa daang Erran ay waring nagaaliw na naglalakad. Sila ay si Artemyo, si Pastor at si Labadre. Makikipagdasal ding gaya n&gtilde; m&gtilde;a sinundang gabi.
+
+<p>&mdash;Hiyanghiya siya noon&mdash;ang saad ni Labadre&mdash;wala pa kayo ay talagang iniinis ko na.
+
+<p>&mdash;Bakit naman?&mdash;ang salo ni Artemyo&mdash;baka tuloy isinaloob na tayo ay magkakasapakat.
+
+<p>&mdash;Maano yaon?&mdash;ang sabad ni Pastor.
+
+<p>&mdash;Hindi&mdash;ang matwid ni Labadre&mdash;Batid naman n&gtilde; lahat na tayo ay di pa magkakakilala noon.
+
+<pb id=pb98 n=98><p>&mdash;Kung sakali man ay sa pan&gtilde;alan lamang&mdash;ang lagot ni Pastor.
+
+<p>Lumiko sila sa daang San Tiyago.
+
+<p><corr>&mdash;</corr>Magtapatan n&gtilde;a tayo&mdash;ang hamon ni Labadre&mdash;¿ano ang ikinagalit ninyo kay Beteng?
+
+<p>&mdash;Galit kay Beteng!&mdash;ang pagtataka ni Artemyo&mdash;Ni sa guniguni ay wala akong galit sa kanya. Pilitin ko man yata ang mapoot ay di mangyayari.
+
+<p>&mdash;Sus!&mdash;ang di paniniwala ni Labadre.
+
+<p>&mdash;Talagang totoo kaibigan.
+
+<p>&mdash;Ako ang magtatapat&mdash;ang agaw ni Pastor&mdash;¿Bakit ba ako magbubulaan?
+
+<p>&mdash;Hala n&gtilde;a&mdash;ang sambot ni Labadre.
+
+<p>&mdash;Ang masama ay dapat bungkalin&mdash;ang patuloy ni Pastor&mdash;Ang magtakip sa isang kasamaan ay ginagawa lamang n&gtilde; m&gtilde;a taksil.
+
+<p>&mdash;Siyang totoo&mdash;ang ayon ni Labadre.
+
+<p>&mdash;Sapagka&apos;t kami ay hindi taksil ay sasabihin ko ang katotohanan&mdash;ang dugtong pa ni Pastor&mdash;makasama o makabuti man sa amin.
+
+<p>&mdash;Iyan ang lalaki!&mdash;ang pagpuri ni Labadre.
+
+<p>&mdash;Hatulan mo:&mdash;ang simula na ni Pastor.&mdash;Si Beteng ay dinaig nito sa pan&gtilde;in&gtilde;ibig <pb id=pb99 n=99>kay Loleng. Dahil doon ay sarisaring paninirá ang kanilang inasal. At pati ako ay binantang sapakatin. N&gtilde;uni&apos;t di pumayag ang puso ko. Nabigo ang kanilang amuki. Sila ni Simón ang nagkasundong mabuti. Ako naman, palibhasa&apos;y di maamin n&gtilde; aking sarili ang pagagaw n&gtilde; dan&gtilde;al nito, ay siya ko namang inagapayanan. Hanggang sa loob n&gtilde; Samahang «Kumilos Tayo» ay nagpanagupa kaming mabuti. ¿Doon ba naman ay sukat alisan n&gtilde; tungkol at itiwalag ito?...
+
+<p>&mdash;Hindi lamang yaon&mdash;ang putol ni Artemyo&mdash;inilathala pa sa m&gtilde;a pahayagan na ako raw ay magdaraya, magnanakaw, at....
+
+<p>&mdash;Si Beteng ba o si Simón ang naglathala?&mdash;ang tanong ni Labadre.
+
+<p>&mdash;Si Beteng; nakalagda pa eh&mdash;ang patuloy ni Pastor&mdash;Ang nasapit ay nabagsak ang Samahan. Paano&apos;y maraming nagsitiwalag at dinamdam ang nangyari. ¿Biro ba ninyong kahihiyan, yaon?
+
+<p>&mdash;Siya n&gtilde;a&mdash;ang ayon ni Labadre.
+
+<p>&mdash;Mula na noon&mdash;ang dugtong ni Pastor&mdash;ay inabatan ko na siya. Inabatan <pb id=pb100 n=100>ko, ako lamang, sapagka&apos;t ito ay ayaw makipatol.
+
+<p>&mdash;Bakit makikipatol ay napapabuti na siya?&mdash;ang biro ni Labadre.
+
+<p>&mdash;Hindi naman&mdash;ang n&gtilde;iti ni Artemyo.
+
+<p>&mdash;Nang mabalitaan ko ang araw ni Loleng&mdash;ang giit din ni Pastor&mdash;ay nilakad ko ang komparsa niyang inanyayahan upang huwag sumipot. Sa mabuting salita ay di lamang pumayag na sila ay di sisipot, kung hindi nan&gtilde;ako pang sa amin sasama. Datapwa&apos;t inakala kong pan&gtilde;it ang gayon. Kaya pinaurong ko ang kanilang pagparoon, at humanap na ako n&gtilde; orkesta....
+
+<p>&mdash;Ah! ¡Labis ang pagkaganti ninyo!&mdash;ang hatol ni Labadre&mdash;¡Malakas na sampal ang inyong ginawa! ¡N&gtilde;uni&apos;t ... patas na kayo!
+
+<p>&mdash;Nakalalamang pa kami&mdash;ang habol ni Pastor.
+
+<p>&mdash;Mangyari pa! <corr sic="sa sa">sa</corr> inyo tumining ang pagpuri n&gtilde; lahat&mdash;ang ayon ni Labadre.
+
+<p>Noon ay na sa tapat na sila n&gtilde; tahanan ni Beteng. Madilim ang bahay at wala ni kalatis mang marinig. Tahimik namang lumagpas ang tatlo. At lumiko sila sa daang Sagat.
+
+<pb id=pb101 n=101><p>&mdash;Kumusta naman kayo ni Loleng?&mdash;ang usisa na naman ni Labadre&mdash;Banta ko&apos;y nakasapit na kayo sa lupang pan&gtilde;ako....
+
+<p>&mdash;Malayong malayo&mdash;ang tugon ni Artemyo.
+
+<p>&mdash;Ang turo ko sa kanya&mdash;ang dugtong ni Pastor&mdash;ay pagkaraan n&gtilde; dasal sa nasirang kapitan ay umaklás na sila....
+
+<p>&mdash;Bakit pa aaklas?&mdash;ang tanong ni Labadre&mdash;Magpamanhikan na lamang at ako....
+
+<p>Hindi natapos ang pananalita ni Labadre, at sunodsunod na, bumulagta ang tatlong magkakasama. Isang lalaki ang nanampalasan. Saksak dito, tarak doon ang ginawa. Nan&gtilde;akatimbuwang na&apos;y di pa tinirahan n&gtilde; búhay. Sa isang sandali, ito ay naganap. Bago napakilala yaong mamamatay:
+
+<p>&mdash;Ako&apos;y si Beteng! ¡Si Silbestre Santos! ¡Ang lalaking isinubo ninyo sa kahihiyan! ¡Wala akong ginawa kun di manin&gtilde;il! ¡Ako na rin ang hahanap n&gtilde; katarun&gtilde;an!...
+
+<p>Inihagis ang hawak na balaraw. Yumaon ang lalaking naghiganti. Nilisan sa liwanag n&gtilde; buwan ang tatlong bangkay. <pb id=pb102 n=102>Ang ulo ni Artemyo ay napatong sa dibdib ni Labadre. Si Pastor naman ay nakabulagtá sa may dalawang dipang layo. Ang dugo n&gtilde; m&gtilde;a sawi ay parang idinilig sa pook n&gtilde; sakuna.
+
+<p>&mdash;Tatlong bangkay!
+
+<p>&mdash;Inutás si Artemyo!
+
+<p>&mdash;Sino ang pumatay!
+
+<p>&mdash;Pinatay si Labadre!
+
+<p>&mdash;Hinarang!
+
+<p>&mdash;Tinapos si Pastor!
+
+<p>Ganyang m&gtilde;a alin&gtilde;awn&gtilde;aw ang sa ilang saglit lamang ay gumuló na sa bayan n&gtilde; Pako. Ang tao sa m&gtilde;a sine, ay unahan n&gtilde; paglabas. Maging m&gtilde;a pulis ay gulonggulong. ¿Ang dasal pa kaya kina kapitana Martina ang hindi naligalig? Naligalig din. Naligalig n&gtilde; gayon na lamang. Takbuhan sila sa pagpanaog.
+
+<p>&mdash;Ay!&mdash;ang buntong hinin&gtilde;a ni Loleng, nang mamalas niya ang bangkay n&gtilde; kanyang giliw at nagunahan nang pumulas ang luha....
+
+<p>Ang kahihiyan ay sinupil n&gtilde; pagibig. At ang lakas nito ay namayani na naman noon. Niyakap ni Dolores ang bangkay ni Artemyo. Inihiga sa kanyang <pb id=pb103 n=103>kandun&gtilde;an. Luha naman ang itinulong ni kapitana Martina. At lahat ay nagtaglay n&gtilde; habag sa busabos n&gtilde; pagibig; kay Loleng na nagtanghal n&gtilde; di karaniwan sa mata n&gtilde; madla. Mabilís na umaagos ang kanyáng luha, na nagbabansag n&gtilde; matayog na kadakilaan n&gtilde; kanyang puso, at magtatanghal n&gtilde; taimtim na pagdaramdam n&gtilde; kanyáng kalulwa.
+
+
+
+
+<pb id=pb104 n=104>
+<div1 id=ch9 n=IX>
+<head type=label>IX</head>
+
+<head>BALIW NA NAGSASABI NG KATOTOHANAN</head>
+
+
+<p>Waring m&gtilde;a salarín na hinahakot ang m&gtilde;a manglilimbag sa limbagan n&gtilde; Pamahalaan, at dinadala noon sa pagamutan n&gtilde; San Lásaro. Dahil sa pagkamatay n&gtilde; isang kasama, sa sakit na <hi>dipterya</hi>, ay muntik n&gtilde; ikulong ang lahat n&gtilde; kawani sa boong limbagan. Kuwarentenas diumano ang kailan&gtilde;an, sapagka&apos;t mapan&gtilde;anib na sakit ang <hi>dipterya</hi>. Ang mikrobyo raw noon ay totoong mabisang makahawa. Ganyan ang pasya n&gtilde; matatalinong doktor sa Kagawaran n&gtilde; Karunun&gtilde;an. At naganap ang pasya, baga man kay daming anak n&gtilde; dalita ang napinsalaan.
+
+<pb id=pb105 n=105><p>Lungkot, pighati, hinagpis, pamamanglaw, iyan ang lumalaro sa m&gtilde;a kaawaawa na ikinulong sa isang kamalig <corr sic="na na">na</corr> ni lamok ay di makapasok. May tumatan&gtilde;is at may tumatawa. Datapwa&apos;t ... ¿ano pa? Pagtan&gtilde;is na inililihim at pagtawang pilit lamang. Ang iba&apos;y malungkot na inaalaala ang asawa. Ang iba&apos;y iniluluha ang m&gtilde;a anak. At ang iba nama&apos;y mapanglaw na ginugunita ang kanilang pinopoon sa buhay, ang lan&gtilde;it n&gtilde; kanilang pagibig. Kung minsan sa hinagpis na ¡ay! ay buntong hinin&gtilde;ang ¡ay! din ang tugon....
+
+<p>At ¿bakit di sila mamamanglaw? Tunay; sila&apos;y malalakas pa kay sa humakot sa kanila. Paano&apos;y wala namang sakít. Subali&apos;t ang pagkawalay sa m&gtilde;a pinakamamahal sa buhay, ang masabing sila ay may mikrobyo n&gtilde; <hi>dipterya</hi>, ay labis nang makapanglumó n&gtilde; puso. Isa lamang dito ay sapat nang sumupil sa kanilang lakas.
+
+<p>Noón ay isang hapong mapanglaw.
+
+<p>Salamat sa pagdalaw n&gtilde; ilang m&gtilde;a kasama at kamaganak, ay nababawasan ang kanilang lungkot.
+
+<p>Salamat din naman sa m&gtilde;a alaala n&gtilde; <pb id=pb106 n=106>&ldquo;Kami Naman&rdquo;, na paano&apos;t paano ma&apos;y ikinaaaliw nila. Ang masasarap na biskuwit, welga, at sigarilyo, na abuloy n&gtilde; Samahang yaon sa Pako, ay nakatutugon din kahi&apos;t bahagya sa kanilang hapis. Paano&apos;y tanda yaon n&gtilde; pagmamahal; pagmamahal na ibinuyo n&gtilde; pagibig; at pagibig na likha n&gtilde; banal na pagkakapatiran.
+
+<p>&mdash;Ano ang naisipan n&gtilde; &ldquo;Kami Naman&rdquo; at nagpadala rito n&gtilde; abuloy?&mdash;ang tanong n&gtilde; isa.
+
+<p>&mdash;Wala. Tumupad lamang sila sa kanilang tungkulin. Dumamay sa kapatid&mdash;ang paliwanag n&gtilde; nakasalamin.
+
+<p>&mdash;Tayo ba&apos;y kapatid nila? ¿Hindi naman tayo kasapi?&mdash;ang patlang n&gtilde; iba.
+
+<p>&mdash;Oo. Kapatid nila tayo; kasapi man at hindi sa kanilang Samahan. Sapagka&apos;t ang mahihirap ay magkakapatid na lahat. Kung paanong ang mahirap ay walang bayan, ay gayon din na walang lipi. Bayan niya ang Sangsinukob at lipi niya ang Sangkatauhan....
+
+<p>&mdash;Tama!
+
+<p>&mdash;Mabuhay!
+
+<p>&mdash;Katwiran!
+
+<p>Ganyan ang itinugon n&gtilde; ilan at tinapos sa palakpak na pagpuri n&gtilde; lahat.
+
+<pb id=pb107 n=107><p>&mdash;¡M&gtilde;a kapatid!&mdash;ang malakas na hiyaw na <corr sic="kanilan&gtilde;">kanilang</corr> narinig.
+
+<p>Natahimik ang lahat. Sila&apos;y nagsidulog sa durun&gtilde;awan. At mula roo&apos;y napanood nila kung sino ang sumigaw. Isang baliw sa kulun&gtilde;an n&gtilde; m&gtilde;a sawing palad. Na sa bahay na katapat n&gtilde; kanilang kinapipiitan. Mula sa durun&gtilde;awan noon ay isang talumpati ang binigkas sa kanila:
+
+<p>&mdash;M&gtilde;a kapatid: Itigil ninyo ang pagawit n&gtilde; galak. Ang dapat magalak ay ang nasisiyahan sa buhay. Samantalang tayo ay naghihikahos: gipít sa lahat n&gtilde; kailan&gtilde;an; dahop sa salapi; uhaw sa paglaya; ay pawang pighati ang ating dalitin... Sapagka&apos;t, sapagka&apos;t, sapagka&apos;t siyang bagay sa ating kalagayan....
+
+<p>&mdash;Katwiran!&mdash;ang bulun&gtilde;an n&gtilde; m&gtilde;a nakikinig.
+
+<p>&mdash;Makinig tayo!&mdash;ang saway n&gtilde; ilan.
+
+<p>&mdash;Sa buhay na ito n&gtilde; m&gtilde;a pan&gtilde;arap&mdash;patuloy n&gtilde; nagtatalumpati&mdash;ay talagang pawang katiwalian ang malimit mapanood. Ang mahirap ay nasisiyahan sa kanyang kahirapan, n&gtilde;uni&apos;t ang mayaman ay di nabubusog sa kanyang kayamanan. Gayong ang dapat mangyari ay <pb id=pb108 n=108>masiyahan ang masalapi sa kanyang kasaganaan, at dumaing ang dukha sa kanyang kadahupan. Subuking iwasto ang lakad n&gtilde; buhay: tumahimik ang mayroon; magsigasig ang wala: at ang puso n&gtilde; maralita ay hindi na tatan&gtilde;is....
+
+<p>&mdash;Totoo&mdash;ang turing n&gtilde; ilang nakikinig.
+
+<p>&mdash;Makamahirap pa!&mdash;ang paghan&gtilde;a n&gtilde; iba.
+
+<p>&mdash;Bayan ko&mdash;ang hiyaw na naman n&gtilde; baliw&mdash;¿Kailan pa mapapanatag ang iyong kapalaran? ¿Habang panahon na ba ang iyong pagtitiis? ¿Talaga bang isinumpa ka sa kaapihan? ¿Bakit di ka kumilos? ¿Ano ang kabuluhan n&gtilde; iyong lakas? ¡Walang kalayaang inililimos! ¡Ang ipinamimigay ay ang kalabisan n&gtilde; nagbibigay! Ano pa&apos;t ang layang inaantay mo, ay ¡ang labi n&gtilde; pan&gtilde;inoon! Datapwa&apos;t alalahanin mong may m&gtilde;a labi, na ni hayop ay tumatanggi.... At ang bayang labi n&gtilde; kapwa bayan, ay mahina. ¡Walang kasing hina! Marupok. ¡Walang kasing dupok! ¡Parang salamin lamang! ¡Sayang ang iyong matatalino! ¡Sayang ang iyong matatapang! ¡Masdan mo&apos;t isa isang nagsisitulog sa libin&gtilde;an! ¿Bakit di mo samantalahin ang kanilang lakas? Kung ang <pb id=pb109 n=109>tao ay sumipot upang makipagagawan sa buhay, ang bayan ay nilikha upang makipaglaban sa karapatan....
+
+<p>&mdash;Iyan ang ulol na nagsasabi n&gtilde; katotohanan!&mdash;ang pagtataka n&gtilde; m&gtilde;a nakikinig.
+
+<p>&mdash;Sino kaya iyan?&mdash;ang tanong n&gtilde; iba.
+
+<p>Ang baliw naman ay lalong gumilas sa paglalahad n&gtilde; m&gtilde;a nangyayari. Kumuha n&gtilde; pisi at sa dulo&apos;y itinali ang kanyang panyolitong puti. Inilawit sa rehas. Binayaang iniwagayway n&gtilde; han&gtilde;in. At malakas na sinabing:
+
+<p>&mdash;Hayan ang watawat n&gtilde; pagsuko! ¡Hayan ang sagisag n&gtilde; pananahimik! Batiin ninyo at igalang. Mahalin ninyo at ibigin. Kung iyan ang ating ilaladlad sa gitna n&gtilde; digmaan ay unahan tayo n&gtilde; paghawak. Datapwa&apos;t kung pula, tanda n&gtilde; paglaban, ay nagtuturuan tayo. ¡Magdarayang tapang!...
+
+<p>Sandaling natigilan. Bago nagpatuloy:
+
+<p>&mdash;Bandila n&gtilde; kapayapaan! Ang kapangyarihan mo ay nagdidiwang sa ibabaw n&gtilde; maliit at api. Nagdidiwang, sapagka&apos;t nasisiyahan sila sa kanilang kaliitan at kaapihan. Datapwa&apos;t sa malalakas at manglulupig, ang kapangyarihan <pb id=pb110 n=110>mo&apos;y hindi makapamayani. Hindi makapamayani, sapagka&apos;t di pa sila nabubusog sa kanilang tayog at kadakilaan. Dapat lumaganap sa lahat ang iyong lakas. ¡Masupil mo nawa ang sangkatauhan!...
+
+<p>Noon ay papaalis na ang m&gtilde;a dalaw. Nang mapuna n&gtilde; baliw ang pagyaon n&gtilde; ilang dalaga, ay maliksing hinigit ang kanyang watawat. Nagpugay sa m&gtilde;a paalis, na anya&apos;y:
+
+<p>&mdash;Paalam m&gtilde;a dalaga n&gtilde; lahi, masamyong bulaklak n&gtilde; bayan. Dahil sa inyong dilag ang libo mang buhay ay ipasasawi. Si Plorante&apos;y naging Plorante dahil kay Laura; si Ibarra&apos;y naging Ibarra dahil kay Marya Klara; ako naman ay magiging ako dahil sa kagandahan ninyo. Paalam m&gtilde;a pan&gtilde;arap n&gtilde; aking puso. Taglayin ninyo ang alaala n&gtilde; inyong sawing lingkod....
+
+<p>&mdash;Malambin&gtilde;in pa&mdash;ang saad n&gtilde; isang nakikinig.
+
+<p>&mdash;Parang hindi ulol&mdash;ang pasya n&gtilde; iba.
+
+<p>&mdash;Siya n&gtilde;a&mdash;ang ayon <corr sic=ng>n&gtilde;</corr> ilan.
+
+<p>Nagpatuloy naman ang baliw; n&gtilde;uni&apos;t iba na ang uri n&gtilde; isinasaad. Ang tinig man ay tinig panambitan na:
+
+<pb id=pb111 n=111><p>&mdash;Loleng n&gtilde; buhay ko! ¡Dolores n&gtilde; aking kaluluwa! Halika&apos;t pawiin mo ang lungkot n&gtilde; iyong alipin. Dahil sa kagandahan mo, tampok n&gtilde; pagibig, ako ay naging mamamatay. ¡Limang buhay ang inutang ko!...
+
+<p>At naghinagpis n&gtilde;:
+
+<p>&mdash;Ay, kapalaran! ¡Napakadilim n&gtilde; gabi na aking nilalamay! ¡Nakamatay ako sa di kinukusa! ¡Kaibigang Artemyo, katotong Pastor, kasamang Labadre, m&gtilde;a kulang palad na naparamay sa aking kasawian!... ¡Simón! ¡Simón! ¡Simón! ¡Huwag kang mahapis diyan sa bilibid! ¡Ang pagdurusa mo&apos;y tanda n&gtilde; iyong pagkamatapat na katulong! ¡Sa gaya mo, buhay man ay maipagkakatiwala!... ¡Ang kayamanan ko&apos;y manahin mong lahat!... At magdiwang ka n&gtilde; boong galak....
+
+<p>Nilagot ang salita sa halakhak. Nagpatuloy pa rin:
+
+<p>&mdash;Ako si Beteng! ¡Si Silbestre Santos! ¡Limang buhay ang aking inutang! ¡Apat ang inutas ko n&gtilde; patalim at isa ang namatay sa takot sa aking ginawa! ¡Kay Tomás ay ako ang pumatay! ¡Hindi si Simon! ¡Palayain ninyo siya! Si Simón ay kinasangkapan ko lamang sa pagpatay. <pb id=pb112 n=112>¡Si Tomás ang unang tinampalasan n&gtilde; marahas kong loób! ¡Kay Artemyo, kay Pastor, kay Labadre, ay ako rin ang pumatay! ¡Si kapitang Andoy man ay namatay sa pagkasindak sa sakuna! ¡Ano pa&apos;t dahil din sa akin! ¡Oo; inaamin kong limang buhay ang aking utang, kaya&apos;t ako na rin ang humanap n&gtilde; katarun&gtilde;an!...
+
+<p>At tinapos ang talumpati sa:
+
+<p>&mdash;¡Pagibig! ¡Pagibig! ¡<corr sic=Itangis>Itan&gtilde;is</corr> mo ang m&gtilde;a sinawi n&gtilde; iyong lakas at kapangyarihan!.... ¡Dalaga! ¡Dalaga! ¡Alalahanin mo ang m&gtilde;a nalugmok dahil sa iyong kagandahan!...
+
+
+
+
+<pb id=pb113 n=113>
+<div1 id=ch10 n=X>
+<head type=label>X</head>
+
+<head>SA LAOT NG HAPIS</head>
+
+
+<p>Tumatakas na noon ang tuwa at marahang humahalili ang lungkot. Ang ilaw n&gtilde; sangdaigdig ay sumisibsib na noon sa kalunuran. Iba&apos;t ibang bikas at kulay n&gtilde; ulap ang napapanood sa kaitaasan. Samantalang sa lupa ang tinig n&gtilde; panglaw ay namamayani na. Datapwa&apos;t lumalo pa sa looban nila Dolores, doon sa halamanang kinakitaang natin sa kanya noong siya&apos;y nagaaliw at nagpapalipas n&gtilde; isang mapanglaw na hapon. Oo; doon ay lumalo pa ang lungkot; paano&apos;y naroon si Dolores at dinidilig n&gtilde; patak n&gtilde; luha ang kanyang alagang m&gtilde;a tanim.
+
+<pb id=pb114 n=114><p>&mdash;Ay!&mdash;ang buntong hinin&gtilde;a&mdash;¡Kay saklap n&gtilde; buhay!...
+
+<p>Tinutop n&gtilde; dalawang palad ang kanyang mukha bago nagpatuloy:
+
+<p>&mdash;Halos kahapon lamang ay kasalo at kaulayaw ko ang aking Ama, n&gtilde;ayon ay na sa lan&gtilde;it na.... ¡Kay pait gunigunihin!
+
+<p>Tinapos sa isang masaklap at malalim na <hi>¡ay!</hi>... Ang perlas na luha ay naguunahang bumalong sa m&gtilde;a malas n&gtilde; kaawaawa at sa di kinukusa ay napatanaw sa kaitaasan.
+
+<p>&mdash;Lan&gtilde;it, oh, natun&gtilde;ong lan&gtilde;it.... Kung turan n&gtilde; m&gtilde;a makata, ikaw ay maawain. Kung sabihin n&gtilde; m&gtilde;a maralita, ikaw ay mapagkandili. N&gtilde;uni&apos;t ang katotohanan ay inagaw mo ang boo kong kalwalhatian. Wala kang inalabi sa akin kung hindi isang pusong nalulunod sa hapis at isang pagibig na nabibilibid n&gtilde; m&gtilde;a himutok. Sa ganap na pan&gtilde;un&gtilde;ulila ay tinatawanan mo ako, n&gtilde;ayon....
+
+<p>At tumun&gtilde;o, tun&gtilde;ongtun&gtilde;o, na sa masidhing pananaig n&gtilde; lungkot ay napasandig sa puno n&gtilde; kamuning. Noon ay may isang ibong nagparinig sa kanya n&gtilde; lalong mapapanglaw na dalit. Sa puso ni Dolores ay lalong nagugat ang lumbay. <pb id=pb115 n=115>Paano&apos;y nagunita niya ang m&gtilde;a awit ni Artemyo, si Artemyong artista, ang kanyang kapapanaw na giliw.
+
+<p>Lumakad ang ulilang kalulwa at dumulog sa kanyang m&gtilde;a sampagitang noon ay naghahandog n&gtilde; kawiliwiling ban&gtilde;o. Isa isang hinagkan n&gtilde; nalulungkot na dalaga.
+
+<p>&mdash;Kayo, kayong m&gtilde;a sumaksi sa lihim n&gtilde; buhay, kayong naging aliwan n&gtilde; aking giliw, halana, halana, aliwin ninyo ang ulila sa lahat n&gtilde; kaligayahan.... At tayo&apos;y magsalong magalaala sa kanya....
+
+<p>Marahang pinuti ang mapapalad na bulaklak. Sa lumang luklukan ay malungkot na naupo ang dalaga. Dito naglaro sa kanyang isipan ang lalong maligayang dahon n&gtilde; kasaysayan n&gtilde; kanyang buhay sa pagka binibini. Hinalungkat n&gtilde; kanyang alaala ang hapong pagtatalik niya sa galak. Noon ay araw n&gtilde; Huwebes. Siya at si Artemyo ay kapwa pinalaya n&gtilde; palad. Ang kanyang ali ay nakatulog yata sa pangginge. Doon n&gtilde;a, sa halamanang yaon, at sa luklukan ding yaon, sila ni Artemyo ay lihim na sumumpa, sa harap n&gtilde; kanilang dan&gtilde;al at sa n&gtilde;alan n&gtilde; kanilang pagkatao. Ang <pb id=pb116 n=116>m&gtilde;a puso nila ay kapwa ipinasulat na maging busabos at ipinakilalang pan&gtilde;inoon din naman. Ano pa&apos;t noon niya binitiwan ang «oo» n&gtilde; kanyang pagibig. At noon din siya pinan&gtilde;akuan ni Artemyo n&gtilde; lalong matamis na pagmamahal. Sa ikapagtitibay nito, ay isinanla sa kanya ang isang singsing na hanggang n&gtilde;ayon ay nagniningning pa sa kanyang m&gtilde;a daliri.
+
+<p>&mdash;Singsing n&gtilde; giliw ko! ¡Kaputol na ginto at batong nagniningning! ¡Hiyas, na tan&gtilde;ing pamana sa akin, n&gtilde; aking pan&gtilde;inoon at buhay! ¡Lalong nadudurog ang puso ko, kung mapanood ka n&gtilde; aking malas! ¡Ang nakaraan ay ipinatatanaw mo at ibinabalik mo ako sa aking kahapon! ¡Sa lan&gtilde;it ka na tutubusin n&gtilde; nagsanla sa iyo!...
+
+<p>Tanda n&gtilde; pagkalunos sa hiyas n&gtilde; kanyang kasi, ay magiliw na hinagkan ito. Kaya itinirik ang mata sa kalawakan at waring hibang na kinausap ang bumihag sa kanyang puso:
+
+<p>&mdash;Artemyo, bayaan mong alalahanin ka n&gtilde; nagmamahal sa iyo....
+
+<p>Noon ay nagsipotsipot na sa kaitaasan ang m&gtilde;a hiyas n&gtilde; gabi, ang m&gtilde;a brilyante <pb id=pb117 n=117>n&gtilde; malapad na lambong n&gtilde; dilim. At sa gitna n&gtilde; gayong kalungkutan, sa pamamayani n&gtilde; alin&gtilde;awn&gtilde;aw, ay m&gtilde;a piping hibik na <hi>¡ay!</hi> ang waring nahihigin&gtilde;an. Yaon ang hinagpis n&gtilde; pusong sapupo n&gtilde; sakit, ni Dolores na di na mabata ang pait na ipinalalasap sa kanya n&gtilde; palad....
+
+<p>Kinabukasan, sa libin&gtilde;an sa Singgalong, ay dalawang babai ang pumasok. Pusong busabos n&gtilde; pighati, kalulwang alipin n&gtilde; hapis, ang kanilang dala. Kapwa luksangluksa, nagbabansag n&gtilde; sakit na nilalasap n&gtilde; buhay. Marahang nagsisilakad at nakatun&gtilde;ong tulad sa m&gtilde;a banal. Sila ay si Dolores at si kapitana Martina.
+
+<p>Si Dolores? Oo. ¡Si Dolores! Si Dolores Balderrama; ang tala sa daang Sagat sa Pako, dalagang nakabighani sa maraming pusong palaboy n&gtilde; pagibig. N&gtilde;uni&apos;t hindi na siya si Dolores na larawan n&gtilde; ganda; hindi na siya ang bituing kalaro n&gtilde; kaligayahan. Siya n&gtilde;ayon ay si Dolores na nagpipighati; ang dalagang yapus n&gtilde; matinding biro n&gtilde; kapalaran.
+
+<p>Si kapitana Martina ang kasama? Oo. ¡Ang kapitana Martina! Ang mahal na asawa n&gtilde; nasirang kapitang Andoy. Datapwa&apos;t hindi na siya ang kapitanang <pb id=pb118 n=118>mapagsiste: matandang sa lagi na&apos;y masaya. Siya n&gtilde;ayon ay babaing sapupo n&gtilde; lungkot, matandang ulila sa galak.
+
+<p>Oh, panahon, kay dali mong magbago n&gtilde; anyo!
+
+<p>Noon ay hapong napakalungkot. Sa libin&gtilde;an ay ganap na nagdidiwang ang pananahimik. Pamamanglaw lamang ang doo&apos;y nakapangyayari. Ang m&gtilde;a krus na tanda n&gtilde; patay ang tan&gtilde;ing tanod n&gtilde; m&gtilde;a nagpapahin&gtilde;alay. May man&gtilde;ilang ibong nagsisihuni, n&gtilde;uni&apos;t ¿ano pa? huning nakapagdadagdag n&gtilde; lungkot sa m&gtilde;a ulila n&gtilde; pinakamamahal.
+
+<p>Lumapit sila sa libing ni kapitang Andoy. Inilagak ang ilang bulaklak n&gtilde; biyoleta, na dinilig muna n&gtilde; luha. Doon ay naiwang tumatan&gtilde;is si kapitana Martina na pinagyayaman ang libing n&gtilde; bunying kapitan.
+
+<p>Si Dolores ay doon naman lumuhod sa harap n&gtilde; krus ni Artemyo. Ang bulaklak na dala bago inilagak ay hinagkan muna. Nauna pang pumatak ang m&gtilde;a luha n&gtilde; kaawaawa.
+
+<p>Kay lungkot na panoorin!
+
+<p>&mdash;Artemyo!&mdash;ang wika&mdash;¡Bayaan mong sa iyong pananahimik ay paminsanminsang <pb id=pb119 n=119>alalahanin ka, n&gtilde; pusong di nakalilimot! ¡Naging sawi ka man sa iyong palad, ay dakila ka naman sa alaala n&gtilde; iyong iniwan! ¡Diyan na! ¡Diyan na sa bayang payapa awitin natin ang tamis n&gtilde; pagibig!... ¡Ang kapalaran ay di matutulan!...
+
+<p>At sa pisn&gtilde;i n&gtilde; dalaga ay marahang umaagos ang m&gtilde;a patak n&gtilde; luha; m&gtilde;a luhang pangalaala...
+
+<p>¡Kay tamis n&gtilde; kamatayan kung gayon ang pagmamahal n&gtilde; mauulila!...
+
+
+<trailer rend="align(center)">WAKAS</trailer>
+
+
+
+
+
+<pb id=pb121 n=121>
+</body>
+<back id=backmatter>
+<div1 type=Advertisements id=kurokuro>
+<head>KUROKURO AT PANSIN</head>
+
+<byline>NI G. HONORATO H. DE LARA</byline>
+
+<!-- What follows is a long letter written to the author reviewing the novel -->
+
+<p><hi>Sa matalino at mayuming Bbg. Fausta Cortes.</hi>
+
+
+<p>Maran&gtilde;al na binibini:
+
+<p>Matapos ko pong mabasa at manamnam ang unang supling na ito n&gtilde; inyong makisig na panulat; matapos kong mapagukulan n&gtilde; mahabang pagwawariwari, ay agad ko pong isinakamay ang aking pulpol na panitik upang boong in&gtilde;at na panalaytayin ko sa maputing papel ang napakalaki ninyóng napithaya sa dahop kong kaya na katigan n&gtilde; m&gtilde;a panghuling kurokuro ang napakamahalagang aklat ninyong ito, ang AGAWAN <corr sic=NG>N&Gtilde;</corr> DAN&Gtilde;AL, na handang iyalok sa lalong may pihikang panlasa, palibhasa&apos;y pagkaing luto sa inyong sariwa at mayamang isipan.
+
+<p>Datapwa&apos;t, ¿paano po kaya ang aking gagawin, maran&gtilde;al na binibini, upang makayari n&gtilde; isang tunay na <hi>epílogo</hi>?
+
+<p>¿Purihin ko na lamang po kaya ang pagkaing ito, at sabihin kong masarap, at sagana sa m&gtilde;a kailan&gtilde;ang sangkap, kahi&apos;t na may nalalasahan akong <hi>anghang</hi> at <hi>pait</hi>?
+
+<pb id=pb122 n=122><p>¡Inaakala ko pong hindi wasto ang gayon!
+
+<p>Sapagka&apos;t ayon din po sa pasiya n&gtilde; isang bantog na <hi>polemista</hi>, kilalang man&gtilde;an&gtilde;atha, tanyag na mananagalog at datihang mamamahayag na si <hi>Inocencio Dilat</hi> (humigit kumulang) na, hindi anya kailan&gtilde;an n&gtilde; isang <hi>epiloguista</hi> ang sabihing ang aklat na ito (halimbawa) ay mainam, may dakilang layong mag-alis n&gtilde; piring sa mata n&gtilde; <corr sic=hangal>han&gtilde;al</corr>, may maningning na m&gtilde;a pan&gtilde;un&gtilde;usap, sagana sa m&gtilde;a palaisipang malalim, busog sa m&gtilde;a pantas na pagkukuro at mayamang mayaman sa pananagalog na tabas Balagtas, sapagka&apos;t anya&apos;y isang kalabisan. Ang isang <hi>epiloguista</hi> ay katulad din anya n&gtilde; isang <hi>crítico</hi>, magpasiya at turulin ang isang bagay na kamalian, bago suriin at hatulan, alalaon baga&apos;y punahin ang mali bago itumpak at ilagay sa dapat kalagyan.
+
+<p>N&gtilde;uni&apos;t ... ito n&gtilde;a kaya ang tunay na <hi>epílogo?</hi> ¡Iyan ang hindi ko mataya!
+
+<p>Datapwa&apos;t ... para kay <hi>Inocencio Dilat</hi> ay ganiyan, ganiyang ganiyan.
+
+<p>At ... ipalagay na po nating ganiyan na n&gtilde;a. Punahin ko ang lahat n&gtilde; kamalian; sabihin kong namimilipit ang inyong m&gtilde;a pan&gtilde;un&gtilde;usap; minsang madapilok sa paglalarawan n&gtilde; lalong m&gtilde;a kailan&gtilde;ang ibadha n&gtilde; inyong panitik; may m&gtilde;a pangyayaring madilim, malabo; <pb id=pb123 n=123>may m&gtilde;a bigkasing kayong hawig sa wikang kastila ó ingles, ó ang gayon at ganito ay di mangyayari, anopa&apos;t ang lahat n&gtilde; kamalian ay isa-isahin kong turulin, suriin, punahin, bago itumpak, at... iwan ang dapat suubin ng kamaniyang, ang dapat purihin, ang dapat itampok sa lalong napakatayog na karan&gtilde;alan, alalaon baga&apos;y sabihin kong <hi>mapakla</hi> at <hi>hilaw</hi> ó kaya&apos;y <hi>mapait</hi> at <hi>maasim</hi> ang inyong ipinalasap na ito sa ating m&gtilde;a mambabasa, gayong ang katotohana&apos;y, sa kabila naman n&gtilde; lahat n&gtilde; iyan ay mayroong nalalasahang tamis, sarap, linamnam, ay ... ¿ano po kaya ang wiwikain ninyo sa akin?
+
+<p>¿Hindi po kaya man&gtilde;unot ang inyong noo at sabihin na ako&apos;y masamang <hi>epiloguista</hi>, kung <hi>epiloguista</hi> na n&gtilde;ang matatawag kahi&apos;t birobiro ang abang kaliitan?
+
+<p><corr>¡</corr>Oh!.. kay laki n&gtilde; inyong napita; pagkalakilaki... At sa kalakhan, ay hindi ko po tuloy matutuhan kung paano ang aking gagawin upang mapaunlakan ko kayo sa inyong hiling<corr>.</corr>
+
+<p>Sapagka&apos;t ... ang wika <corr sic=nga>n&gtilde;a</corr> po n&gtilde; isang mangwawagi&apos;t bantog na makata at balitang manlilinang sa napakatamis na wikang ginamit n&gtilde; ating haring si Balagtas, sa kanyang walang kamatayang <hi>Florante at Laura</hi>, na si <hi>Itang Balbarin</hi>, na tubo sa mapalad na libis n&gtilde; bundok n&gtilde; Samat, na siyang kinakitaan <pb id=pb124 n=124>niya n&gtilde; unang liwanag n&gtilde; araw, na: ang isang <hi>epiloguista</hi> raw po ay hindi dapat mamuna ni maglahad n&gtilde; ano mang tutuntunin sa pagsulat, sapagka&apos;t, ang isang <hi>epiloguista</hi> ay kaibangkaiba anya sa isang <hi>crítico</hi>.
+
+<p>¡May matwid!
+
+<p>At, kung ganito n&gtilde;a ay ... ¿paano po kaya ang dapat kong gawin o <corr sic=saan>saang</corr> landás ako tutun&gtilde;o upang makayari n&gtilde; isang wastong panghuling salita?
+
+<p>Para kay <hi>Inocencio Dilat</hi> ay di wastó ang ganito...
+
+<p>At, para kay <hi>Itang Balbarin</hi> naman ay lalong di tumpak ang gayon.
+
+<p>¿Alin kaya ang dapat paniwalaan sa kanilang dalawa? ¡Kay laking suliranin!
+
+<p>At ... sa suliraning iyan ay para ko pong nakikinikinita sa dalawang bantog na manunulat na iyan, na darating ang isang pagkakataong maguunawaan din sila; pagtatapisin ang kapwa nila matwid sa pamamagitan n&gtilde; pagpipinkian n&gtilde; kanikanilang m&gtilde;a panitik sa laran&gtilde;an ng digmaan n&gtilde; literaturang tagalog.
+
+<p>N&gtilde;uni&apos;t samantalang tayo po&apos;y nagiintay at upang ako&apos;y makatupad sa inyong napithaya ay wala po akong ibang gagawing batayan sa <hi>epilogong</hi> inyong hinihin&gtilde;i kundi, ang sinabi n&gtilde; kataastaasang Pan&gtilde;ulong Wilson, na, anya&apos;y: <hi>justicia y nada mas justicia</hi>.
+
+<pb id=pb125 n=125><p>Sa makatwid ay wala kayong sukat maintay sa akin, maran&gtilde;al na Bbg. Cortes, kundi ang dalawang bagay: purihin ang dapat purihin, at, punahin ang dapat punahin.
+
+<milestone unit=tb>
+
+<p>¡Kurokuro!
+
+<p>Ang aklat mo pong ito, Bbg. Cortes, ay isang aklat na tan&gtilde;i sa may layong mag-alis n&gtilde; kulaba sa pangmalas n&gtilde; m&gtilde;a han&gtilde;al, magakay sa lalong may bulag na pagkukuro, nakapagtuturo pa rin sa ibang kadalagahan, diyan sa m&gtilde;a dalagang dahil sa kinang n&gtilde; salapi n&gtilde; sa kanila&apos;y mamintuho, ay nalilikhang sapilitan ang pag-ibig at di inaantay ang kusang tibok n&gtilde; kanilang puso.
+
+<p>Sa loob n&gtilde;a n&gtilde; AGAWAN N&Gtilde; DAN&Gtilde;AL ay parang namamalas ko pa <corr sic=hangga>hanggang</corr> n&gtilde;ayon ang animo&apos;y <corr sic=mga>m&gtilde;a</corr> larawang buhay na nagsisigalaw: ang magandang Dolores; ang mapalad na si Artemio; ang mapagsisting si kapitana Martina; ang antukin at matatakuting si kapitang Andoy; ang mabuting tao, n&gtilde;uni&apos;t masamang kristianong si Simon; ang matapat at walang kasingbuting katoto, ang may diwang Tasio, sa Noli ni Rizal, na si Pastor; ang mapagpansin na si Labadre; at ... ang nakatatawang pagkahuli ni kapitana Martina sa isang batang sisilipsilip n&gtilde; nag-aagahan na si Beteng, yaong si Beteng na walang <pb id=pb126 n=126>tan&gtilde;ing ipinan&gtilde;ahas mula&apos;t mula pa kundi ang kanyang kayamanan, ang kanyang pilak, sa pan&gtilde;in&gtilde;ibig sa mayuming si Dolores, na siyang gumanbala n&gtilde; kanyang isip, diwa&apos;t pagkatao.
+
+<p>Ang nakakapanaghiling kapalaran n&gtilde; artistang si Artemio, si Artemiong kapangpan&gtilde;an, ang wika n&gtilde;a ni Beteng, yaong si Beteng na hindi makapaglakbay sa lupang pan&gtilde;ako, kundi may kasama; hindi makapitas n&gtilde; ibinabawal na bun&gtilde;a n&gtilde; <hi>mansanas</hi> kung walang hagdanang matutungtun&gtilde;an, ay maging mabisa sanang <hi>tampal</hi> at matinding <hi>hagupit</hi> sa ilang m&gtilde;a lalaking kung walang tulay ay di makapan&gtilde;ibig sa isang himala n&gtilde; ganda, sa isang <hi>Venus</hi>.
+
+<p>Si Dolores, ang kapatid na bunsong ito, ni Maria Clara, sa <hi>Noli Me Tangere</hi>, ni Meni, sa <hi>Banaag at Sikat</hi><corr>,</corr> ni Celia, sa <hi>Florante at Laura</hi>, at ni Ligaya sa <hi>¡Kristong Magdaraya!</hi> ay pinaglupaypay ninyo ang matigas na puso sa darang n&gtilde; maalab na pag ibig; pikitmatang pinatalaktak ninyo sa kaharian ni Kupido at pinahintulutan din ninyong magpamalas sa masinsing tabing n&gtilde; pagkukunwari sa kanyang <corr sic="hinahan&gtilde;aan">hinahan&gtilde;aang</corr> binata, sa umagaw n&gtilde; kanyang pananahimik: kay Artemio.
+
+<p>At talagang ganyan n&gtilde;a po ang dapat ninyong gawin, maran&gtilde;al na binibini, upang magkaroon n&gtilde; <hi>naturalidad</hi> ang isang pangyayari na, hindi gaya n&gtilde; iba nating <pb id=pb127 n=127>man&gtilde;an&gtilde;atha na sa pagnanasang huwag masinagan n&gtilde; bahagya mang gaspang ang isa sa m&gtilde;a kumakatawan n&gtilde; kanilang aklat, na sapagka&apos;t <corr sic=binigyang>binigyan</corr> na nila sa una n&gtilde; m&gtilde;a <hi>caracter</hi> na mahinhin, mayumi ay pakapipilitin patain ó inisin ang itinitibok n&gtilde; puso.
+
+<p>At upang patotohanan kong minsan pa sa inyo, na talagang hindi kamalakmalak na mangyari ang inyong ginawa na sa kahinhinan at kayumián ni Dolores ay paibabawin ninyo ang kagaspan&gtilde;ang nililikha n&gtilde; pag ibig ay ipahintulot ninyong sipiin ko rito ang matwid n&gtilde; ating Balagtas sa kalakhan at kadakilaan n&gtilde; ating tinutukoy:
+
+
+<lg>
+    <l>Oh! pagsintang labis ng kapangyarihan
+    <l>sampung magaama&apos;y iyong nasasaklaw,
+    <l>pag ikaw ang nasok sa puso nino man
+    <l>hahamaking lahat, masunod ka lamang.
+</lg>
+
+
+<p>¿Ano ang nangyari kay Beteng?
+
+<p>Humigit kumulang na sinasabi sa aklat ninyong ito, na siya, si Beteng ay wala n&gtilde; sinikap sa gabi&apos;t araw ó sa lahat n&gtilde; sandali, kundi ang ikalulukso n&gtilde; dan&gtilde;al n&gtilde; umagaw sa kanyang lan&gtilde;it, sa kanyang paraluman. At, di n&gtilde;a inaksaya ni Beteng ang mahabang panahon at karakarakang isinagawa. Inanyayahan isang araw ang dalawa niyang kaibigan, si Simon at si Pastor at isinangguni ang kanyang maruming nais; datapwa&apos;t anong tiwaling pagtitiyap at sa <pb id=pb128 n=128>isip at diwa nitong huli, kay Pastor ay itinanim ninyo, ang damdaming Delfín, ang pusong Felipe sa &ldquo;Banaag at Sikat&rdquo; n&gtilde; makatang Lope, na sa harap n&gtilde; matatalim na upasala at marun&gtilde;is na adhika ni Beteng, ay di ninyo pinapagtagal ang puso ni Pastor, pinapanalag ninyo sa m&gtilde;a ulos at taga n&gtilde; m&gtilde;a kaaway na lihim n&gtilde; kanyang kaibigan.
+
+<p>At sunodsunod ninyong isinabibig ni Pastor ang ganitong pan&gtilde;un&gtilde;usap, sa tulong n&gtilde; kanyang dilang walang pan&gtilde;iming magsabi n&gtilde; katotohanan:
+
+<p>&ldquo;M&gtilde;a kaibigan, huwag ninyong hamakin ang kanyang lahi. Kapangpan&gtilde;an man at tagalog ay iisa ang uri, at ang sumira n&gtilde; pag-iisang iyan, ay yaon ang taksil na dapat pan&gtilde;ilagan. Ang taong pumapatay n&gtilde; pag-dadamayan n&gtilde; pilipino ay yaon ang kalaban n&gtilde; bayan. Ang kaluluwang nagtatanim n&gtilde; pag-iirin&gtilde;an ay siyang uod na sumisira n&gtilde; laya at pag-asa n&gtilde; lahat&rdquo;.
+
+<p>¡Anong ningning n&gtilde; pagkukuro ni Pastor!
+
+<p>At... nakaramdam n&gtilde; kirot ang dalawang pinagsabihan...
+
+<p>&ldquo;Hindi m&gtilde;a kaibigan&mdash;ang ganti ni Pastor&mdash;kailan ma&apos;y di ko magagawa ang sumugat sa kapatid. N&gtilde;uni&apos;t, oo; makikipaglaban ako sa kanino mang <corr sic=magbibinhi>nagbibinhi</corr> n&gtilde; pag-iirin&gtilde;an. Ang buhay ko&apos;y aking itinataya lubha pa&apos;t ang pag-iirin&gtilde;an <pb id=pb129 n=129>ay ipupunla dahil lamang sa inggit sa isang lalaking kinakandong n&gtilde; palad...&rdquo;
+
+<p>¿<corr sic=Ilang>Ilan</corr> kaya sa m&gtilde;a kababayan natin, Bbg. Cortes, ang makapagtataya n&gtilde; buhay sa pagtatanggol n&gtilde; matwid n&gtilde; isang tao?
+
+<p>¡Kay dakila n&gtilde; inyong paghahaka!
+
+<p>Matapos magpaalaala ang baliw na si Beteng kay Pastor, na ito&apos;y nasa ibang bahay, ay para ko pang nakikinikinitang nakan&gtilde;iti at hantad ang noong sumagot:
+
+<p>&ldquo;Sa bahay na pinaghaharian n&gtilde; dilim ay doon ko dinadala ang ilaw&rdquo;.
+
+<p>Pagkatayogtayog po n&gtilde; kurokuro ninyong ito, Bbg. Cortes, <corr sic=nasa>na sa</corr> pamamagitan n&gtilde; kaunting salita lamang ay halos niyayanig ninyo ang budhi n&gtilde; mapagdunongdunun&gtilde;ang m&gtilde;a han&gtilde;al.
+
+<p>Ang dalawang katalo ni Pastor ay lalo ninyong pinagpuyos ang kapootan.
+
+<p>Ipinagtabuyan si Pastor, n&gtilde;uni&apos;t pan&gtilde;iti ring sinabi:
+
+<p>&ldquo;Dapat ninyo akong itaboy; dapat ninyo akong turang ulol: sapagka&apos;t, ang gurong nagtuturo ay talagang kalaban n&gtilde; m&gtilde;a musmus na tinuturuan.&rdquo;
+
+<p>Sa harap n&gtilde; ganyang maigting na pagwawariwari ni Pastor, ay tahasang masasabi ko Bbg. Cortes na ang inyong baguhang panitik ay karapatdapat maisapiling n&gtilde; lalong m&gtilde;a tanyag at dakilang m&gtilde;a manunulat natin, sapagka&apos;t <pb id=pb130 n=130>minsan pa ninyong ipinakilala ang mataos ninyong paggalang at pagmamahal sa wastong matwid.
+
+<p>Si Pastor ay nilakipan ninyo n&gtilde; kislap n&gtilde; sosialismo n&gtilde; m&gtilde;a banal na aral ni Tolstoy, <corr sic=Jaires>Jaurès</corr> at iba pa, na, siya ninyong nais matutuhan n&gtilde; ating m&gtilde;a kababayan.
+
+<p>Kusa kong iniwan at babayaan na, maran&gtilde;al na binibini, ang nakaiinggit na lambin&gtilde;an n&gtilde; dalawang pusong bihag n&gtilde; pagibig: si Dolores at si Artemio. Hindi ko na po paguukulan n&gtilde; kurokuro ang kadalisayan n&gtilde; puso ni Dolores na hindi maalam masilaw sa kinang n&gtilde; salapi at sa hibo n&gtilde; kisig. Kusa pong di ko na gagalawin o paguukulan pa n&gtilde; m&gtilde;a wariwari ang kasiglahan n&gtilde; handa sa kaarawan ni Dolores, maging ang kasanayan ninyang tumugtog n&gtilde; alpa; maging ang kalunoslunos na hinangganan n&gtilde; masayang handaan sa bahay n&gtilde; ating dalaga; ang di ninyo paglimot sa paglalarawan n&gtilde; mga kagandahan n&gtilde; m&gtilde;a <hi>bituin</hi> n&gtilde; &ldquo;<hi>Kami Naman</hi>&rdquo; na dumalo sa naturang kasayahan, palibhasa&apos;y ang lahat n&gtilde; iyan ay inaasahan kong sapat nang makapagudyok sa lahat n&gtilde; makababasa n&gtilde; aklat na ito, upang putun&gtilde;an kayo n&gtilde; walang katapusang pagpupuri.
+
+<p>At, ¿kung alinalin ang aking isasakarurukan n&gtilde; lalong kapurihan?
+
+<p>Wala pong iba Bb. Cortes kundi ang kinawilihan <corr sic="kong n&gtilde;a">ko n&gtilde;ang</corr> paghahaka ni Pastor, <pb id=pb131 n=131>na busog na busog n&gtilde; pagibig sa kanyang m&gtilde;a kababayan, at ... ang m&gtilde;a pan&gtilde;un&gtilde;usap n&gtilde; baliw na si Beteng n&gtilde; siya&apos;y napipiit na.
+
+<p>Sa ikaapat na kabanata, sa pangkat na naglalarawan n&gtilde; boong pagsisigasig ni Pastor, sa pagdamay sa kanyang kaibigang Artemio at sa harap n&gtilde; m&gtilde;a manunugtog na ipagpaparan&gtilde;al ni Beteng ay natunghayan ko na naman, matapos ang ilang paliwanag ang lalong dakilang kurokuro ni Pastor:
+
+<p>&ldquo;Narinig na ninyo&mdash;ang saad ni Pastor na linawin natin: hindi raw dapat bigyan n&gtilde; tungkulin ang isang dapo. Katwiran, n&gtilde;uni&apos;t ¿bakit nila natitiis ang m&gtilde;a dapong naghahari sa ating bayan? at ¿dapo ba si Artemio? ¿Ano kung kapangpan&gtilde;an siya? ¿Hindi ba pilipino rin? ¿Maaari bang magsarili ang tagalog na ang kapangpan&gtilde;an ay hindi? ¡Napakarupok na pagkukuro! Ang masasabi ko&apos;y nakikilala ang dapong kapatid din nila, datapwa&apos;t hindi nila <corr sic=nakikita>nakikilala</corr> ang tunay na dapong dito&apos;y tumawid. <corr>[...] </corr>N&gtilde;ayon at kalahi ay halos sakmalin. N&gtilde;uni&apos;t kung maputi kahi&apos;t na lumapastan&gtilde;an, ay n&gtilde;inin&gtilde;itian din. Sinusurot, dinuduro at pinamumukhaan ang kabalat subali&apos;t ang dayo ay saka lamang mamura kung nakatalikod&rdquo;.
+
+<p>Kay sakit mo pong susugat Bbg. Cortes. N&gtilde;uni&apos;t inaakala kong kailan&gtilde;an n&gtilde;ang ang m&gtilde;a bulok at uod na makasisira sa <pb id=pb132 n=132>mabulas na pagkakaisa ay isa isang lasunin. ¡Patain!
+
+<p>¡Magbinhi nawa ang inyong magandang adhika!
+
+<p>Sa gitna n&gtilde; pagtataka n&gtilde; hindi mabilang na m&gtilde;a manggagawa sa bahay palimbagan n&gtilde; pamahalaan na nakuwarentenas dahil sa sakit na di umano&apos;y <hi>dipterya</hi>, sanhi sa pakakapag-abuloy sa lahat, kasapi at di man n&gtilde; malusog na Samahang <hi>Kami Naman</hi> ay para ko pang naririn&gtilde;ig magpahangga n&gtilde;ayon ang matalinghagang m&gtilde;a pan&gtilde;un&gtilde;usap n&gtilde; isang ulol na sagana sa m&gtilde;a katotohanan.
+
+<p>At sa wakas n&gtilde; kanyang maniningning na sinabi, sa huli n&gtilde; kanyang m&gtilde;a pan&gtilde;arap sa sinasapit n&gtilde; ating <corr sic=bayang>bayan</corr>, at pagkakaagwat n&gtilde; kapalaran n&gtilde; mayaman sa mahirap, n&gtilde; pagkakalayo n&gtilde; mahirap sa mayaman, ay di ko malirip magpahangga n&gtilde;ayon po, Bbg. Cortés, kung bakit naisipisipan n&gtilde; ulol na si Beteng ang maglawit n&gtilde; isang panyo at bago sinabi n&gtilde; makita niyang pinapaspas na n&gtilde; han&gtilde;in:
+
+<p>&ldquo;¡Hayan ang watawat n&gtilde; pagsuko! ¡Hayan ang sagisag n&gtilde; pananahimik! Batiin ninyo at igalang. Mahalin ninyo at ibigin. Kung iyan ang ating ilaladlad sa gitna n&gtilde; digmaan ay unahan tayo n&gtilde; paghawak. Datapwa&apos;t kung pula, tanda n&gtilde; paglaban, ay magtuturuturuan tayo. ¡Magdarayang tapang!&rdquo;
+
+<pb id=pb133 n=133><p>Subali&apos;t sino kaya ang pinatatamaan n&gtilde; ulol na si Beteng?
+
+<p>Kundi ako namamali, ay walang iba kundi ang ibang m&gtilde;a kababayan nating matatapang sa bibig n&gtilde;uni&apos;t wala sa gawa.
+
+<p>¡Napakasasakit na pan&gtilde;un&gtilde;usap!
+
+<p>Ang aklat mo pong ito, Bbg. Cortés, ay inaasahan kong sa kahalagahan n&gtilde; layunin ay magiging isang bagong tipan na ikapagbabago n&gtilde; likong kaugalian n&gtilde; marami. M&gtilde;a pansin:
+
+<p>Bbg. Fausta Cortés: Itulot mo po naman n&gtilde;ayon na ilahad ko ang aking m&gtilde;a puna.
+
+<p>Tulad sa akin n&gtilde; sinabi, na hahalunkatin ko&apos;t ibubunyag ang dapat purihin at ukol punahin, n&gtilde;ayon ay magtatapat ako sa aking pan&gtilde;un&gtilde;usap.
+
+<p>At, magsimula tayo.
+
+<p>Pagkarinig ko n&gtilde; pamagat n&gtilde; aklat na ito na AGAWAN N&Gtilde; DAN&Gtilde;AL, ay kumilos na sa aking guniguni ang larawan n&gtilde; pag-aagawan sa katungkulan n&gtilde; ilang kapatid nating araw-araw ay nagbaban&gtilde;ay. Inakala ko na&apos;t hinulaan na yaong pag tutunggali n&gtilde; m&gtilde;a taong gumugulo sa ating bayan ay siya ninyong pinuna. Ang isip ko&apos;y humula n&gtilde; dalawang pangyayari, at boong boo ang aking pananalig na hindi sasala sa alin man sa dalawa kong akala, ang inilahad ninyo. Kung hindi ang nakahihiyang pag-aagawan sa karan&gtilde;alan n&gtilde; ating m&gtilde;a <hi>politico</hi> <pb id=pb134 n=134>ay walang salang ang ligalig sa m&gtilde;a halalan ang inyong tinuligsa. Ganyan ang boo kong sapantaha at marahil ay siya namang sasapantahain n&gtilde; iba. Datapuwa&apos;t ¡kay laking pakakamali! ¡Agawan pala n&gtilde; dalawang puso sa isang pain n&gtilde; pag-ibig! Hindi ko po sinasabing malayo ang pamagat sa laman. Hindi po, sa pagka&apos;t nalalaman kong may m&gtilde;a taong iba ang pan&gtilde;alan sa asal. Lamang ay ipinagtatapat kong sumala ang aking hula.
+
+<p>Sa lahat n&gtilde; dahon n&gtilde; AGAWAN N&Gtilde; DAN&Gtilde;AL ay pawang makabagong pananagalog ang aking napuná. Sa kabaguhan ay mayroong m&gtilde;a talatang nagkapilipilipit ang pagkasalaysay. Aywan ko lamang kung sinadyáng pinaikot n&gtilde; masiglang panulat ninyó, Bbg. Cortes.
+
+<p>¿Kung alin alin? Na itó po:
+
+<p>&ldquo;Ang <corr sic=magandang>maayos na</corr> tabas n&gtilde; mukha ay napapatun&gtilde;an n&gtilde; maiitím na buhók&rdquo;.
+
+<p>Paano po kaya ang bikas n&gtilde; mukháng yaón? ¡Napapatun&gtilde;an n&gtilde; maiitím na buhok! ¡Ina ko, kakilakilabot! Marahil ay sumusunong n&gtilde; maiitim na buhók at di napapatun&gtilde;an. (Maalaala ko pala.) Hindi rin masasabing sumusunong at lalo nang hindi napapatun&gtilde;an; sapagka&apos;t lalabas na si Dolores ay panot, paano&apos;y sunong o nakapatong lamang pala ang buhok...
+
+<p>Iba naman:
+
+<p>&ldquo;..... sinungkit ..... ang mantekilya.....&rdquo;
+
+<pb id=pb135 n=135><p>¿Sinungkit? ¿Baka po kinahig? At kung ang <hi>sinungkit</hi> dito ay hindi mali, ay huwag naman kayong tumawa na sabihin kong &ldquo;n&gtilde;inalot ang tubig.&rdquo;
+
+<p>Isa pa:
+
+<p>&ldquo;Tumayo sa mesa.....&rdquo;
+
+<p>¿Tumayo sa mesa? ¿Saan tumayo: sa ibabaw po ba n&gtilde; mesa? ¡Sus! ¿Si Dolores, ang mayuming dalaga, ang kaluluwa n&gtilde; kasaysayang ito, ang tatayo sa mesa? Hindi mangyayari. Bakit noon ay kasalukuyan pa namang sila&apos;y nag aagahan. Baka mayroon pang lalong tumpak na masasabi ang Bbg. Cortes, ay siya sana nilang ginamit.
+
+<p>Ganito at iba pang gaya nito ang sinasabi kong m&gtilde;a nagpandanggong pananagalog na makabago.
+
+<milestone unit=tb rend=asterism>
+
+<p>Pagtutuos:
+
+<p>Anhin ko man pong punahin ang m&gtilde;a katan&gtilde;ían n&gtilde; dakilang panulat ninyo, binibining Cortes, ay lagi ring nananaig sa aking diwa at isipan ang m&gtilde;a banal na layuning tinutun&gtilde;o n&gtilde; inyong akda. Ang m&gtilde;a pansin na aking pinuna ay nagiging parang guhit na itim lamang sa isang malapad, matibay, marilag at napakapinong habi na niyári n&gtilde; inyong bago n&gtilde;uni&apos;t magiting na panitik. Anopa&apos;t nakapagdadagdag lamang n&gtilde; kainaman ang man&gtilde;ilan&gtilde;ilan ninyong bagong ayos n&gtilde; pananalaysay, sa mahalagang aklat.
+
+<pb id=pb136 n=136><p>At upang patotohanan ay napapakagat-labi ako sa katalinuhan ninyo na makapagsabi n&gtilde;:
+
+<p>&ldquo;.....ang mahihirap ay magkakapatid na lahat. Kung paanong ang mahirap ay walang bayan, ay gayon din na walang lipi. Bayan niya ang Sangsinukob at lipi niya ang Sangkatauhan.....&rdquo;
+
+<p>Sa inyong matataas na isipang iyan ay kabilang ako sa m&gtilde;a humahan&gtilde;a at hahan&gtilde;a sa inyong panulat.
+
+<p>At talagang marunong kayo sapagka&apos;t marunong kayong magpahesus sa inyong aklat. Niwakasan ninyo sa taimtim at kalugodlugod na pagmamahal ni Dolores kay Artemio. Sinabi pa ninyong:
+
+<p>&ldquo;¡Kay tamís n&gtilde; kamatayan kung gayón ang pagmamahal n&gtilde; mauulila!...&rdquo;
+
+<p>Akó man po, Bbg. Cortes, ay makapagsasabi rin at talagang nais ko na rin ang mamatay kung may isang Dolores na tatan&gtilde;is sa aking pagyaón....
+
+
+<p rend="class(signed)"><hi rend=sc>Honorato H. de Lara.</hi>
+<lb><hi>Taga &ldquo;Ilog-Beata.&rdquo;</hi>
+
+
+
+
+<pb id=pb137>
+<div1 id=kasaysayan rend="toc-head(Kasaysayan ng &ldquo;Kami Naman&rdquo;)">
+
+
+<p rend="align(center) font-size(large)">KASAYSAYAN
+<lb>NG
+<lb>&ldquo;KAMI NAMAN&rdquo;
+
+
+
+<pb id=pb138>
+<div1 id=titlepage2 type=TitlePage>
+
+
+<p><figure id=titlepage2-image rend="image(images/titlepage2.png)">
+<figDesc>Original Title Page.</figDesc>
+</figure>
+
+
+
+<!-- New titlepage -->
+
+
+<p rend="align(center)">AKLATAN ÑG &ldquo;KAMI NAMAN&rdquo;
+
+<p rend="align(center) font-size(xx-large)">BAKAS ÑG SAMAHAN
+
+<p rend="align(center)">Ó ANG UNANG
+<lb>BAHAGI ÑG KASAYSAYAN ÑG
+
+
+<p rend="align(center) font-size(xx-large)">&ldquo;KAMI NAMAN&rdquo;
+
+<p rend="align(center)">(SAMAHAN ÑG MAHIHIRAP)
+
+<p rend="align(center)">SAPUL SA PAGKATATAG HANGGANG SA WAKAS ÑG PAMAMAHALA NI G. A. DE LOS REYES
+
+
+<p rend="align(center)">SINULAT NI
+
+<p rend="align(center) font-size(x-large)">Bb. GORGONIA DE LEON
+
+
+<p rend="align(center)">IKA APAT NA AKLAT ÑG AKLATAN ÑG
+
+<!-- [Illustration] -->
+
+<p rend="align(center)">KAMI NAMAN
+<lb>LUPON NG MGA MANUNULAT
+
+
+<p rend="align(center)">(1915)
+
+<milestone unit=tb>
+
+<p rend="align(center)">AKLATAN ÑG &ldquo;KAMI NAMAN&rdquo; 1045, DAANG ANAK <corr sic="NG">ÑG</corr> BAYAN (Dating &ldquo;CREMATORIO&rdquo;), PAKO, MAYNILA, K. P.
+
+
+
+
+<pb id=pb139>
+<div1 id=paunawa type=Advertisement>
+<head>PAUNAWA</head>
+
+
+<p>Ang aklat na ito ay nilimbag sa dalawang ayos: nilimbag na kalakip n&gtilde; &ldquo;Agawan n&gtilde; Dan&gtilde;al&rdquo; at nilimbag na may sariling balat ó takip. Sino mang magnais na magkaroon ay makabibili sa m&gtilde;a bilihan n&gtilde; aklat dito sa Maynila, sa halagang isang peseta (&Peso;0.20). Ang m&gtilde;a na sa lalawigan ay makapagbibilin sa Aklatan n&gtilde; &ldquo;Kami Naman&rdquo; sa halagang kahati (&Peso;0.25)<corr>.</corr> Ipalilimbag din ang pan&gtilde;alawang bahagi at magtataglay n&gtilde; m&gtilde;a larawan; gaya n&gtilde; larawan ni G. Apolonio Umping, G. Paulino Centeno, at iba pang may halaga sa &ldquo;Kami Naman&rdquo;.
+
+
+<pb id=pb140><p><figure id=dizon>
+<head>G. Francisco V. Dizon</head>
+
+<p>Ang nagtatag n&gtilde; &ldquo;Kami Naman&rdquo; at nagíng unang Pan&gtilde;ulo n&gtilde; Samahang ito.
+
+<p>(Tunghayan ang dahong ika 3)
+</figure>
+
+
+
+<pb id=pb141 n=3>
+<div1 id=bakas>
+<head>BAKAS ÑG SAMAHAN</head>
+
+<p rend="align(center)">O ANG UNANG BAHAGI ÑG KASAYSAYAN ÑG
+
+<p rend="align(center)">&ldquo;KAMI NAMAN&rdquo;
+
+<p rend="align(center)">(SAMAHAN ÑG MAHIHIRAP)
+
+<p rend="align(center)">SAPUL SA PAGKATATAG HANGGANG SA WAKAS ÑG PAÑGUÑGULO NI G. ANGEL DE LOS REYES.
+
+<p rend="align(center)"><hi>Sinulat ni Bb. Gorgonia de Leon.</hi>
+
+
+<p>Noon ay ika 25 n&gtilde; Agosto n&gtilde; 1912. Sa umagang yaon ay isang panahong tagulan ang nagisnan n&gtilde; m&gtilde;a taga Pako. Ang liwanag n&gtilde; ilaw n&gtilde; sangdaigdig ay di mang makagitaw sa makapal na ulap sa pan&gtilde;onorin. Nabigo ang m&gtilde;a ibong sa tuwing umaga&apos;y nagpupuri sa bagong liwayway. Walang nasisiyahan sa m&gtilde;a sandaling yaon kung hindi ang m&gtilde;a bulaklak na nagpapakasawa sa ulang hindi tumitila. Noon nasiyahan ang kanilang uhaw. ¿Ilan kayang puso&apos;t kalulwa ang sumusumpa noon sa panahon dahil sa pagkapinsala n&gtilde; kanilang tipan?
+
+<p>Datapwa&apos;t nagmasun&gtilde;it man noon ang panahon, ay may isang binatang nagtatanghal n&gtilde; kanyang kagitin&gtilde;an. Siya ay si G. Francisco V. Dizon, kawal n&gtilde; bagong kabihasnan. Siya ang lalong nagsikap na magsabog n&gtilde; liwanag n&gtilde; araw n&gtilde; sigla n&gtilde; kabataan sa nayon <corr sic=ng>n&gtilde;</corr> Sapote sa Pako. Ang ulan ay di niya ikinabalino, <pb id=pb142 n=4>bagkus sa pamamagitan n&gtilde; isang payong ay isa isang sinusundo ang kanyang m&gtilde;a kaibigan upang magtulongtulong sa pagbalangkas n&gtilde; isang Samahan. Ano pa&apos;t walang alinlan&gtilde;ang dapat sabihin na utang sa kanya ang kilusang yaon n&gtilde; kabataan.
+
+<p>Sa isang tahanan sa nayon n&gtilde; Sapote, Pako, Maynila, ay doon nagkatipon ang ilang magkakapanalig. At sa pan&gtilde;un&gtilde;ulo n&gtilde;a ni G. Dizon, ay sumipot sa silong n&gtilde; lan&gtilde;it n&gtilde; Pilipinas ang isang bigkis n&gtilde; kabataang pilipino. Sa mungkahi ni G. Luciano Suarez ay bininyagan n&gtilde; &ldquo;Kabataang Sikat&rdquo;. At, palibhasa&apos;y pawang tinitibukan n&gtilde; isang pusong uhaw sa dunong at aliw, ang m&gtilde;a nagkakatipong yaon, ay «magpalakas at magpatalino» ang pinagsaligan n&gtilde; pagkabuo n&gtilde; Samahan. Aralan ang m&gtilde;a pinagkaitan n&gtilde; ilaw n&gtilde; dunong at aliwin ang m&gtilde;a ulila sa ligaya, iyan ang tan&gtilde;ing layon. At sa gayon ay nayari ang balak ni G. Dizon. Dapat alalahaning kinabukasan n&gtilde; araw na yaon, ay siyang ika 26 n&gtilde; Agosto, araw na napakaningning sa dahon n&gtilde; kasaysayan n&gtilde; Pilipinas, sapagka&apos;t siyang araw n&gtilde; unang pagsigaw n&gtilde; kalayaan n&gtilde; bayang api n&gtilde; kapwa bayan.
+
+
+<p><figure id=jacinto>
+<head>G. Amado Jacinto.</head>
+
+<p>Naging Pan&gtilde;ulo n&gtilde; Samahang &ldquo;Mapagsikap&rdquo; sa Malabon, Rizal
+
+<p>(Tunghayan ang dahong ika 19)
+</figure>
+
+
+<p>Nang sumunód na Linggo, unang araw n&gtilde; Septiyembre, ay nagpulong na muli ang m&gtilde;a nagsisigasig sa pagban&gtilde;on n&gtilde; &ldquo;Kabataang Sikat&rdquo;. Sa mungkahi ni G. <pb id=pb144 n=5>Angel de los Reyes, ay binago ang pamagat at pinalitán n&gtilde; &ldquo;Kami Naman&rdquo;. &ldquo;Kami Naman&rdquo; ang ipinamagat, sapagka&apos;t sa ibabaw n&gtilde; kalansay n&gtilde; m&gtilde;a samahang nabuwag na, ang ibig sabihin ay &ldquo;<hi>Kami naman</hi> ang magtutuloy n&gtilde; layong itaguyod ang buhay n&gtilde; mahihirap sa tugatog n&gtilde; dan&gtilde;al&rdquo;....
+
+<p>Katulad din n&gtilde; ibang m&gtilde;a Samahan at Kapisanan ay inabot n&gtilde; sakit na <hi>nin&gtilde;as-kugon</hi> ang &ldquo;Kami Naman&rdquo;. Salamat sa ilang matatalinong manggagamot at ang sakit ay naihanap din n&gtilde; lunas. Baga man ang &ldquo;Kami Naman&rdquo; noon ay para n&gtilde; bangkay na malamig, dahil sa pagpapabaya n&gtilde; ilan, ay muling sumigla. At noong ika 19 n&gtilde; Oktubre n&gtilde; taong 1912 rin, ay nagbitiw n&gtilde; tungkulin si G. Francisco V. Dizon at si G. Angel de los Reyes ang napahalili, na naging Pan&gtilde;ulo n&gtilde; Samahan.
+
+<p>Ang bagong pan&gtilde;asiwaan ay nagpahayag noon din ng bagong palakad at binago na pati <corr sic="n&gtilde;">ang</corr> layon n&gtilde; &ldquo;Kami Naman&rdquo;. Boong puso namang pinagtibay n&gtilde; lahat at sinalubong n&gtilde; magiliw na palakpakan.
+
+<p>Ang mapanglaw na daing n&gtilde; mahirap, ang malungkot na taghoy n&gtilde; api, ang malumbay na hibik n&gtilde; mahina, iyan, iyan ang nagbukas n&gtilde; bagong isipan sa puso at diwa n&gtilde; bagong Pan&gtilde;ulo. Binago n&gtilde;a ang dating saligan n&gtilde; Samahan. Ang layong <hi>magliwaliw</hi> at <hi>magpatalino</hi> ay dinagdagan n&gtilde; <hi>pagdadamayan</hi>. Sa <pb id=pb145 n=6>gayon, ay hindi pawang kabataan lamang ang yumakap sa &ldquo;Kami Naman&rdquo;, kung hindi sampu n&gtilde; may m&gtilde;a gulang na ay nakitulong.
+
+<p>&ldquo;Buhayin ang naghihingn&gtilde;along pagkakapatiran&rdquo; ang naging saligan na n&gtilde; &ldquo;Kami Naman&rdquo;. At ang naging pananalig ay &ldquo;Ang hirap ay bun&gtilde;a n&gtilde; kapabayaan, at na sa tiyagá ang pagtatagumpay&rdquo;.
+
+<p>Kapalaran mandin ang siyang sumubaybay sa bagong pan&gtilde;asiwaan at n&gtilde; sumunod na Sabado n&gtilde; pagkahalal sa kanila ay nagtanyag na n&gtilde; kanilang di karaniwang lakas at magagawa. Sa bahay paaralan sa daang Dart, Pako, ay ginanap ang pagtatanghal n&gtilde; Samahan. Sa lamayang yaon ay may apat na raang tao ang dumaló. Ilang matatalino at litaw na mananalumpati ang nagpaningning sa pagdiriwang. (Ang buong tala n&gtilde; kasayahang yaon ay matutunghayan sa pan&gtilde;alawang aklat n&gtilde; Aklatang &ldquo;Kami Naman&rdquo; na <hi>Tuntunin n&gtilde; Pulong</hi>.)
+
+
+
+<figure id=tolentino>
+<head>G. Aurelio Tolentino</head>
+
+<p>Bantog na mandudula, matalinong manunulat at matapang na mamamahayag. Sa laran&gtilde;an n&gtilde; pananagalog ay kinikilalang isa sa m&gtilde;a may mataas na uri at may tan&gtilde;ing pananalaysay. Siya ang kumatha n&gtilde; dulang &ldquo;Bagong Kristo&rdquo; na nagtamo n&gtilde; isang gantingpalang panulat na ginto. Siya rin ang lumikha n&gtilde; bantog na dulang &ldquo;Kahapon, N&gtilde;ayon at Bukas&rdquo;; dahil sa kagitin&gtilde;an n&gtilde; dulang ito ay piniit siya n&gtilde; Pamahalaang Amerikano. Siya ang sumasagot kung ano ang unang aklat n&gtilde; Aklatan n&gtilde; &ldquo;Kami Naman&rdquo;.
+
+<p>(Tunghayan ang dahong ika 19)
+</figure>
+
+
+<p>Dahil sa bagyong nanalanta sa Sebú noong Oktubre n&gtilde; 1912, ang &ldquo;Kami Naman&rdquo; ay nagsimula n&gtilde; pakikisama sa bayan. Binahaybahay na tinawagan ang maawaing pusó n&gtilde; pilipino sa Sapote, at lumikom n&gtilde; isang halagang iniabuloy sa m&gtilde;a nasawi. At dahil sa pagkamatay n&gtilde; ilang angkan n&gtilde; m&gtilde;a kanayon na kapwa anak-dalita, ay dumulog na naman ang &ldquo;Kami Naman&rdquo; sa bahaybahay upang <pb id=pb147 n=7>abuluyan ang kapatid na dinatnan n&gtilde; palad. Dapat talastasing ang m&gtilde;a unang inabuluyan n&gtilde; &ldquo;Kami Naman&rdquo; ay m&gtilde;a taong ni ayaw man lamang makiyakap sa Samahang ito.
+
+<p>Sa ikapapaanyo n&gtilde; damayan ay bumalangkas n&gtilde; m&gtilde;a batas na susundin n&gtilde; magkakapatid; at mula n&gtilde; unang araw n&gtilde; Disyembre n&gtilde; 1912 ay nagsimula sa pag-iral. Marami rin ang m&gtilde;a namatay at namatayang m&gtilde;a kapatid. Sa malinis at maselan na pan&gtilde;an&gtilde;asiwa n&gtilde; In&gtilde;atyamang si G. Dario Malonzo, lahat ay pawang tumanggap n&gtilde; abuloy na nararapat. Walang nabinbin sa kanyang karapatan, bagkus ang lahat ay pawang nagtamo n&gtilde; nauukol sa kanila sa lalong madaling panahon.
+
+<p>Dumatal ang ika 30 n&gtilde; Disyembre n&gtilde; 1912, araw na ipinan&gtilde;in&gtilde;ilin n&gtilde; lahat n&gtilde; pilipino. Ang &ldquo;Kami Naman&rdquo; at ang nayong Sapote ay nagtuwang sa pagbubunyi sa lalong dakilang taga Silan&gtilde;an. Nagdaos n&gtilde; isang dulang hayag, nagkaroon n&gtilde; tugtugan, nagilaw ang boong nayon at nagtayo n&gtilde; m&gtilde;a arko. Ang lalong kapunapuna ay ang pagiisa n&gtilde; nayon na pawang parol n&gtilde; &ldquo;Kami Naman&rdquo; ang ginamit. At natapos sa ganap na kasyahang loob n&gtilde; lahat. Ang salaping lumabis sa pagdiriwang ay inihandog sa &ldquo;Kami Naman&rdquo; n&gtilde; kapulun&gtilde;an n&gtilde; nayon, na parang ganting pala sa maayos na pan&gtilde;an&gtilde;asiwa sa pagdiriwang.
+
+<pb id=pb148 n=8><p>Sumunod na ibinunsod n&gtilde; Samahan ay ang balak ni G. Marcelino Dizon na lumikom n&gtilde; isang kusang ambagan upang ibili n&gtilde; kasangkapang pang-apula n&gtilde; sunog. Nakatagpo ang balak na ito n&gtilde; m&gtilde;a balakid at binaka n&gtilde; ilang di nasisiyahan. Gayon man ay pinan&gtilde;atawanan din n&gtilde; Samahan at nakabili rin n&gtilde; m&gtilde;a palakol at timba na magagamit karakaraka sa isang simula n&gtilde; sunog. Hanggang n&gtilde;ayon ay nakatanghal at nakahanda ang m&gtilde;a kasangkapang ito sa nayong Sapote.
+
+<p>Ang munisipyo n&gtilde; Maynila ay siya namang hinarap n&gtilde; &ldquo;Kami Naman&rdquo;. Sunodsunod na daing at kahilin&gtilde;an ang iniharap upang ang nayong kinatatayuan n&gtilde; Samahan ay ipaayos. Pinilit na maglagay man lamang n&gtilde; gripo, sapagka&apos;t noon ay nagkakahalaga n&gtilde; anim ó limang sentimos ang bawa&apos;t dalawang timba n&gtilde; inumin sa pook na yaon. Bihirang linggo ang walang panawagan sa pitak n&gtilde; pahayagan sa Maynila. At humangga sa paglalagay n&gtilde;a n&gtilde; gripo at pagtatakda n&gtilde; pamahalaan n&gtilde; apat na libong piso sa ikaaayos n&gtilde; nayon. Ito ang lalong malaking tagumpay na tinamo n&gtilde; &ldquo;Kami Naman&rdquo;.
+
+<p>Upang iligtas sa sakit ang m&gtilde;a kanayon dahil sa malabis na paglulusak sa pook n&gtilde; Sapote, ang &ldquo;Kami Naman&rdquo; ay nagtayo n&gtilde; m&gtilde;a tulayang kawayan sa tulong n&gtilde; nayon.
+
+
+<pb id=pb149><p><figure id=lara>
+<head>G. Honorato H. de Lara</head>
+
+<p>(Tunghayan ang dahong ika 21)
+</figure>
+
+
+<pb id=pb150 n=9><p>Nang hakutin n&gtilde; m&gtilde;a sanitaryo ang m&gtilde;a kawani sa Limbagan n&gtilde; Pamahalaan at kulun&gtilde;in sa Pagamutang San Lasaro, dahil sa mikrobyo n&gtilde; dipterya, ang &ldquo;Kami Naman&rdquo; ay siyang tan&gtilde;i at kusang umabuloy sa m&gtilde;a napinsalaang yaon. Wala ni isang kasapi sa &ldquo;Kami Naman&rdquo; na napalahok doon, datapwa&apos;t ginawa ang pagdamay sa paniniwalang magkakapatid na lahat ang mahirap. At ito&apos;y tinugon n&gtilde; di gagaanong pasalamat n&gtilde; m&gtilde;a dinamayan. Noon ay Marzo n&gtilde; 1913.
+
+<p>Sa gayong m&gtilde;a ipinakisama n&gtilde; &ldquo;Kami Naman&rdquo; sa bayan ay marahang sumusun&gtilde;aw ang kanyang kabantugan. At lalo pang nabantog siya pagkatapos ipagbunyi ang ika isang taong buhay n&gtilde; Samahan. Paano&apos;y dalawang araw na ginawa ang kasayahan: ika 13 at ika 14 n&gtilde; Septiyembre n&gtilde; 1913. Nagbukas n&gtilde; timpalak ng m&gtilde;a dula at gilasan n&gtilde; artista, na siyang kaunaunahang timpalak na may ganitong uri na idinaos sa sangkapuluang Pilipinas. Nagdaos pa n&gtilde; isang misang alaala sa lahat n&gtilde; m&gtilde;a kasaping nan&gtilde;amatay sa ilalim n&gtilde; watawat n&gtilde; &ldquo;Kami Naman&rdquo;. Nagkaroon n&gtilde; binyag at kumpil at maghapong m&gtilde;a palaro. Ang nabantog na banda n&gtilde; Meralko ay siyang tumugtog. At tinapos ang kasayahan sa isang magiliw na salosalong kapatid. Alinsunod sa m&gtilde;a pahayagan dito sa Maynila ay mahigit na apat na libong <pb id=pb151 n=10>tao ang dumalo sa m&gtilde;a pagdiriwang na yaon. Dapat namang magkatotoo, pagka&apos;t may m&gtilde;a nagtayo pa n&gtilde; m&gtilde;a tindahan at lahat halos n&gtilde; tahanan sa Sapote ay may kanikanyang handa. Ano pa&apos;t ang pagdiriwang n&gtilde; &ldquo;Kami Naman&rdquo; ay naging parang pista n&gtilde; nayon. Sapul na noon ang &ldquo;Kami Naman&rdquo; ay nabantog na n&gtilde; gayon na lamang at ang lalong nakatawag sa diwa n&gtilde; marami ay ang m&gtilde;a kartelong nagsabit sa trambiya na nagbansag n&gtilde; kasiglahang ipamamalas n&gtilde; &ldquo;Kami Naman&rdquo;.
+
+<p>Ang isa pa sa m&gtilde;a pagdiriwang n&gtilde; Samahang ito na hinan&gtilde;aan din n&gtilde; madla ay ang pagtatanghal n&gtilde; m&gtilde;a &ldquo;Bituin&rdquo; n&gtilde; &ldquo;Kami Naman&rdquo;. Ginanap noong ika 21 n&gtilde; Disyembre n&gtilde; 1913, sa Dulaang Angel sa Singalong. Mahigit sa tatlong libong tao ang nanood. At noon ay minsan pang itinampok ang mayamang uri n&gtilde; m&gtilde;a babaing pilipina.
+
+
+<figure id=cruz>
+<head>G. Rosendo S. Cruz</head>
+
+<p>Kumatha n&gtilde; &ldquo;Tuntunin n&gtilde; Pulong&rdquo; na ikalawang aklat n&gtilde; Aklatan n&gtilde; &ldquo;Kami Naman&rdquo;
+
+<p>(Tunghayan ang dakong ika 19)
+</figure>
+
+
+<p>Sa m&gtilde;a pamamahayag n&gtilde; bayan ang &ldquo;Kami Naman&rdquo; ay palaging nakikilahok; n&gtilde;uni&apos;t pakikilahok na di sa gayongayon na lamang, kung hindi pakikilahok <corr sic=nakapunapuna>na kapunapuna</corr>; yaong nakapagpaparin&gtilde;al at umaani n&gtilde; papuri. Kung walang karrosa ang &ldquo;Kami Naman&rdquo; ay nakalulan naman sa sasakyan ang kanyang m&gtilde;a kinatawan. Datapwa&apos;t hindi sa iisang sasakyan lamang kung hindi sa pito o labing apat kaya. At sa loob n&gtilde; dalawang taon ay labing dalawang ganting pala ang <pb id=pb153 n=11>tinamo n&gtilde; &ldquo;Kami Naman&rdquo;. ¿Ano pang sigla ang hahanapin? ¿Ano pang kilos ang magagawa? Wala na. Hanggan diyan na lamang talaga ang isang samahan.
+
+<p>Kasabay ang pagsisigasig na magtamo n&gtilde; lalo at lalong karan&gtilde;alan, ang &ldquo;Kami Naman&rdquo; ay nagpapakatatag sa kanyang tayo. Inakala n&gtilde; Pangulong De los Reyes na ang pagkakaibaiba n&gtilde; hilig n&gtilde; m&gtilde;a kasapi ay dapat tapatan n&gtilde; kanikanyang ikasisiyang loob. Dahil dito ay binahagi niya ang &ldquo;Kami Naman&rdquo; sa iba&apos;t ibang Lupon na may kanikanyang uri, layon, pananalapi, at m&gtilde;a kaanib.
+
+<p>Ang unang Lupon ay ang Damayan. Magabuloy sa namatay o namatayang kasapi ang layon. Lupon sa Kalakal ang pan&gtilde;alawa at nagsimula n&gtilde; pagkilos noong Pebrero n&gtilde; 1913. Disyembre n&gtilde; 1913 itinatag ang Lupon n&gtilde; m&gtilde;a Bituin na binubuo n&gtilde; pawang mapanghalinang binibini. Sila ay m&gtilde;a kasaping pangdan&gtilde;al sa &ldquo;Kami Naman&rdquo;. Disyembre ring yaon n&gtilde; itatag ang Lupon sa Pagpapalakas. Bago sumipot ang masikap at masiglang Lupon n&gtilde; m&gtilde;a Manunulat.
+
+<p>Lahat n&gtilde; lupon na ito ay nagtanghal n&gtilde; kanikanyang lakas at magagawa. Bawa&apos;t isa&apos;y naghandog n&gtilde; matatayog na papuri sa boong Samahan. At sa lubos na paghan&gtilde;a n&gtilde; isang kasapi sa &ldquo;Ilog Beata&rdquo; sa kakisigan n&gtilde; &ldquo;Kami Naman&rdquo; ay tinula niya ang kasunod:
+
+
+
+<figure id=torres>
+<head>G. Ramon S. Torres</head>
+
+<p>Kalihim Tagapahayag n&gtilde; Samahan n&gtilde; m&gtilde;a mananagalog na &ldquo;Ilog Beata&rdquo; at tumula n&gtilde; tulang &ldquo;Kami Naman&rdquo;
+
+<p>(Tunghayan ang dahong ika 12)
+</figure>
+
+
+
+<pb id=pb154 n=12>
+<div1 id=kaminaman>
+<head>&ldquo;KAMI NAMAN&rdquo;</head>
+
+
+<lg><lg>
+    <l>Bayang inaapi, ako&apos;y nananalig
+    <l>na ang bawa&apos;t sikat ng araw sa lan&gtilde;it,
+    <l>taglay ang tinig mong malungkot na tinig.
+    <l>At iya&apos;y hindi ko matalos kung bakit
+    <l>ikaw&apos;y lumuluha, ikaw&apos;y tumatan&gtilde;is
+    <l>gayong may lakas ka&apos;t may Bayaning Bisig.
+</lg>
+
+<lg>
+    <l>Subali&apos;t hintay ka<corr sic=":">;</corr> aking ibubuhay
+    <l>ang isang alagad na dapat asahan.
+    <l>Lumin&gtilde;on ka roon, sa dakong Timugan
+    <l>at mamamalas mong na nawawagayway
+    <l>ang isang Bandilang kapitapitagan
+    <l>ng kilala&apos;t bantog na ang KAMI NAMAN.
+</lg>
+
+<lg>
+    <l>Yao&apos;y Kapisanang sagana sa lahat,
+    <l>sagana sa dunong, sagana sa lakas
+    <l>at hindi marunong matakot sa tawag
+    <l>ng kanyang kalabang mayaman sa gilas,
+    <l>pagka&apos;t alam niya&apos;t kanyang natatatap
+    <l>na ang Mundong ito&apos;y Mundo n&gtilde; pan&gtilde;arap.
+</lg>
+
+<lg>
+    <l>Isang Kapisanang ang bawa&apos;t kasapi
+    <l>ay may siglang taglay na kahilihili:
+    <l>isang Kapisanang ang hakbang ay laging
+    <l>tun&gtilde;o sa pagsulong, tun&gtilde;o sa lwalhati:
+    <l>sapagka&apos;t ang kanyang darakilang Mithi&apos;y
+    <l>itanggol ang api: matwid ay maghari.
+</lg>
+
+<lg>
+    <l>Yao&apos;y binubuu ng dukha&apos;t mayaman
+    <l>ng mangmang at paham, bata at may gulang,
+    <l>sapagka&apos;t ang kanyang isang patakaran
+    <l>na salig sa loob noong Kapisanan,
+    <l>ang dukha&apos;y iban&gtilde;on, ang aba&apos;y tulun&gtilde;an,
+    <l>wala ni mataas; pawang pantaypantay.
+</lg>
+
+<pb id=pb156 n=13><lg>
+    <l>At, ito&apos;y tulain n&gtilde; m&gtilde;a makata,
+    <l>dakila sa lalong Samahang dakila,
+    <l>maningning sa lalong maningning na tala;
+    <l>at sapagka&apos;t ito&apos;y butihing diwata,
+    <l>ako, ikaw, sila, ang lahat na&apos;y pawa
+    <l>namang gumigiliw at nagsisihan&gtilde;a.
+</lg>
+
+<lg>
+    <l>Kay <hi>Francisco Dizon</hi> dapat kilalanin
+    <l>ang pagkakatatag n&gtilde; napakagiting
+    <l>na Samahang yaong may tan&gtilde;ing layunin:
+    <l>siya ang pumukaw, siya ang gumising
+    <l>sa nan&gtilde;atutulog na mga damdaming
+    <l>na nan&gtilde;alalan&gtilde;o sa pagkakahimbing.
+</lg>
+
+<lg>
+    <l><hi>Angel de los Reyes</hi>: iyan ang pamagat
+    <l>ng kanyang pan&gtilde;ulo nang ito&apos;y matanyag;
+    <l><hi>Rosendo S. Cruz:</hi> isa ring masikap;
+    <l>Yaman na ang Bayan sa gitna ng gubat
+    <l>ay hindi nagtamo ng magandang palad
+    <l>kung kaya nangyaring yao&apos;y itinatag.
+</lg>
+
+<lg>
+    <l>Hindi ba&apos;t ang taong likha ni Bathala
+    <l>ay taglay sa kanyang pagsipot sa lupa
+    <l>ang mga Tuntuni&apos;t Batas ng Paglaya?
+    <l>Kung ito&apos;y totoo: ¿bakit lumuluha
+    <l>tayong naririto? Pan&gtilde;arap n&gtilde;a yata
+    <l>lamang ang umasa&apos;t maghintay sa wala.
+</lg>
+
+<lg>
+    <l>Hindi lamang yoon para sa lalaki
+    <l>kung hindi laan din sa mga babai:
+    <l>naron si <hi>Pascuala Pintor</hi> na may iwing
+    <l>n&gtilde;iti na ang bawa&apos;t n&gtilde;iti ay pagkasi;
+    <l>naron si <hi>Conchita</hi>; at isa pang saksi,
+    <l>si <hi>Anitang</hi> laging dinidilidili.
+</lg>
+
+<lg>
+    <l>Nan&gtilde;agsapisapi ang mga binata,
+    <l>ang kadalagaha&apos;y humalo sa haka
+    <l>na ang Lan&gtilde;it nati&apos;y itanghal, ipala,
+    <l>sapagka&apos;t ang ating darakilang nasa&apos;y
+    <l>iban&gtilde;on ang bayan nating lumuluha&apos;t
+    <l>humarap sa lalong malakas sa lupa.
+</lg>
+
+<pb id=pb157 n=14><lg>
+    <l>Oo nga at tunay na dito&apos;y nagkalat
+    <l>ang mga Samaha&apos;t Kapisanang tanyag
+    <l>subali&apos;t tulutang aking maisaad
+    <l>na ang KAMI NAMAN Samahang mahirap,
+    <l>sa matuling agos ng luha ng palad,
+    <l>ay ito ang siyang darampi, huhugas.
+</lg></lg>
+
+
+<p rend="class(signed)"><hi rend=sc>Ramon S. Torres</hi>
+<lb><hi>Taga &ldquo;Ilog-Beata&rdquo;.</hi>
+
+
+<p>Tundo, Maynila, K. P.
+
+<milestone unit=tb>
+
+<p>Sa likod n&gtilde; m&gtilde;a papuring ito sa &ldquo;Kami Naman&rdquo; ay mayroon namang m&gtilde;a naiinis sa di maalamang sanhi. Aywan kung anong suliranin ang nagbubuyo at ang m&gtilde;a ito ay nagpapakaimbi sa pagwawasak n&gtilde; Samahan. Kinakalaban ang sariling damdamin, niyuyurakan ang sariling dan&gtilde;al, at binubulag ang sariling panin&gtilde;in. Hindi pa man ipinan&gtilde;an&gtilde;anak ang &ldquo;Kami Naman&rdquo; ay binanta n&gtilde; lasunin. Sa kanila ang lahat n&gtilde; kilos n&gtilde; &ldquo;Kami <corr sic=Namsn>Naman</corr>&rdquo; ay pawang hindi matwid. Salamat sa pusong matimpi n&gtilde; Pan&gtilde;ulong De los Reyes at di man siya natukso. Salamat din sa kalamigang loob n&gtilde; m&gtilde;a kasapi at di man sila nabalino. Talagang gayon: ang tao habang natatanyag ay lalong dumadami ang kaaway. At ang Samahan upang mabuhay kung minsa&apos;y dapat magkaroon n&gtilde; m&gtilde;a kalaban.
+
+
+<figure id=calderon>
+<head>G. Sofronio G. Calderon</head>
+
+<p>Guro ng Wikang Tagalog sa Young Men&apos;s Christian Association at isa sa m&gtilde;a humahan&gtilde;a sa &ldquo;Kami Naman&rdquo;
+
+<p>(Tunghayan ang dahong ika 17)
+</figure>
+
+
+<p>Kung paanong sa kasaysayan n&gtilde; Pilipinas ay may isang <hi>siglo oscuro</hi> o isang daang taong madilim, ang &ldquo;Kami Naman&rdquo; <pb id=pb159 n=15>ay nagkaroon din. Dahil sa katapan&gtilde;an n&gtilde; isang kalulwa at dahil sa pagkatupad n&gtilde; wikang ang pagtitiwala&apos;y nakamamatay, ay nagkaroon n&gtilde; isang maalin&gtilde;awn&gtilde;aw na usapin ang m&gtilde;a nagtataguyod n&gtilde; Samahan. Dapat malamang ang usapin ay sa ilang tao lamang at di n&gtilde; boong Samahan. Ang Pan&gtilde;ulo at ang In&gtilde;atyaman ay kapuwa inupasalaang umano&apos;y m&gtilde;a magnanakaw. Hinubaran n&gtilde; puri at tinanghal na m&gtilde;a magdaraya. Hindi na kinilala ang pagkatao n&gtilde; m&gtilde;a nagbintang at pinagbibintan&gtilde;an. Hindi na siniyasat ang kasaysayan n&gtilde; isa&apos;t isa. ¡Kay taas na ganting pala sa nagpapakamatay sa pagtataguyod n&gtilde; isang Samahan! Sa gayo&apos;y umawit n&gtilde; tagumpay ang m&gtilde;a sumasamantala sa sigalot. Ang pagkatagpo nila n&gtilde; babaing lumabag sa kanyang kahinhinan ay siyang nagpatibay sa paguusig na ito. N&gtilde;uni&apos;t sa pitak n&gtilde; m&gtilde;a pahayagan ay tahasang inilahad ni G. De los Reyes, ang boong nangyari. At sa likod n&gtilde; sigalot na ito ang m&gtilde;a umusig din ang nagpapahayag na batid nilang walang salaping nawawala. Ano pa&apos;t paghihiganti o pagkainis lamang ang kanilang ginawa. Matapat na awa ang dapat iyukol sa namamatay sa pagtupad sa kanyang pananalig....
+
+<p>Ipalagay n&gtilde; ang Pan&gtilde;ulong De los Reyes at ang In&gtilde;atyamang Malonzo, ay nagkasala; bulagin na natin ang ating dan&gtilde;al at bin&gtilde;ihin na natin ang ating <pb id=pb160 n=16>damdamin; aminin n&gtilde; sila&apos;y nagkamali: ¿ano n&gtilde;ayon? ¿Anong kapinsalaan mayroon sa Samahan? ¿Ang G. De los Reyes ba at ang G. Malonzo ang &ldquo;Kami Naman&rdquo;? ¿Sila bang dalawa ang bumubuo n&gtilde; Samahan? ¡Hindi! ¡Hindi! At ang sumamba sa gayon ay walang pagsampataya sa kanyang dan&gtilde;al....
+
+<p>Upang pabulaanan pa ang kumalat na balita, na ang &ldquo;Kami Naman&rdquo; ay naligalig, ay na ito naman ang bahagi n&gtilde; ilang salaysay ni G. De los Reyes:
+
+
+    <q rend=block><p>&ldquo;....Sa isang Samahang na walang tumitiwalag ni itinitiwalag na kaanib, ang Samahang iyan ay buo, matatag, at buhay. Iyan ay pinaghaharian ng kapayapaan at sapupo ng lalong matamis, dalisay, at matimyas na pagkakapatiran....&rdquo;</q>
+
+
+<p>Palibhasa&apos;y lubos ang pagtitiwala n&gtilde; m&gtilde;a kaanib sa &ldquo;Kami Naman&rdquo; sa kanilang Pan&gtilde;ulo at In&gtilde;atyaman ang Samahan ay di mang naligalig sa sigalot na nangyari sa m&gtilde;a nagtataguyod n&gtilde; Samahan. Bagkus lalong nagibayo ang sikap at sigla. At upang lalong mapaayos ang Damayan ay itinigil n&gtilde; may dalawang buwan. Ang Damayan lamang ang itinigil dahil sa pagbibitiw n&gtilde; tungkulin ni G. De los Reyes. Pagkatapos ayusin ay naghahalili n&gtilde; Pamahalaan n&gtilde; Samahan. Ano pa&apos;t malaking kabulaanan ang ipinamamansag n&gtilde; iba na nalansag na raw ang &ldquo;Kami Naman&rdquo;. Hindi, hindi nalalansag. Hayan at kumilos n&gtilde; boong <pb id=pb162 n=17>sigla at boong ningning. Gaya rin n&gtilde; dati ay nakatayo pa ang kanyang m&gtilde;a haligi.
+
+
+<figure id=cortes>
+<head>Bb. Fausta Cortes</head>
+
+<p>Pan&gtilde;ulo n&gtilde; Lupon n&gtilde; m&gtilde;a Manunulat at siyang kumatha n&gtilde; &ldquo;Agawan n&gtilde; Dan&gtilde;al&rdquo; na ikatlong aklat n&gtilde; Aklatan n&gtilde; &ldquo;Kami Naman&rdquo;
+
+<p>(Tunghayan ang dahong ika 21)
+</figure>
+
+
+<p>Sa kabantugan n&gtilde; &ldquo;Kami Naman&rdquo; ay malaki ang naitutulong n&gtilde; Lupon n&gtilde; m&gtilde;a Manunulat. Nagbukas ito n&gtilde; isang aklatan sa kapakinaban&gtilde;an n&gtilde; lahat. Kasapi at hindi sa &ldquo;Kami Naman&rdquo; ay binibigyan n&gtilde; laya. Doon ay sarisaring pahayagan at iba&apos;t ibang aklat ang nagaantabay sa kahi&apos;t kanino.
+
+<p>Bukod sa pagsisikap n&gtilde; Lupon n&gtilde; m&gtilde;a Manunulat n&gtilde; &ldquo;Kami Naman&rdquo; na makapagpalabas n&gtilde; m&gtilde;a akda, ay naguukol din n&gtilde; panahon sa paglilinang n&gtilde; wikang tagalog. Ang katotohana&apos;y napalaban na sila sa tanyag na <hi>Aklatang Barusog</hi>. Ang m&gtilde;a taga &ldquo;Kami Naman&rdquo; ay ayaw gumalang sa pagpatay n&gtilde; N sa piling n&gtilde; &Gtilde;. Ano pa&apos;t hindi sila kaayon sa <hi>modang</hi> ang ANG ay isulat n&gtilde; A&Gtilde; (pinatay ang N). Ang m&gtilde;a taga <hi>Aklatang Barusog</hi> ay nagtanggol naman sa kabilang panig.
+
+<p>Sa m&gtilde;a ikinilos na ito n&gtilde; Lupon n&gtilde; m&gtilde;a Manunulat n&gtilde; &ldquo;Kami Naman&rdquo; ay kinilala ni G. Sofronio G. Calderon ang kanilang pagsusumakit. At na ito ang isa niyang lathala na tumutukoy sa:
+
+
+    <q rend=block><text><body><div1>
+    <head>KAPAKANAN ÑG WIKANG TAGALOG</head>
+
+    <p>Ito n&gtilde;ang wikang Tagalog, itong wika nina Solima&apos;t Lakandula, nila Balagtas at Pilapil, nila Rizal na n&gtilde;ayo&apos;y kasalukuyang pinagmamasakitan <pb id=pb163 n=18>ng <hi>Aklatang <corr sic=KAMI-NAMAN>KAMI NAMAN</corr>,</hi> ay hindi lihim, at sa katunayan ay nariyan ang lagda ng mga bantog na mananalaysay na kumilala ng kasakdalan ng wikang ito, palibhasa&apos;y ang wikang Tagalog ay isang wikang may sariling likas, may sariling ganda, may sariling yaman at isang wikang maipagbabadiya ng tanang saloobin at damdaming sumasapuso&apos;t ísip ng tao; anopa&apos;t sa katagang sabi, itong wikang Tagalog na ating kinamulatan, nilakhan at pinaka kaluluwa ng ating bayan ay may dakilang kapakanan ayon sa pagkakaakma&apos;t pagkakabalangkas sa isang paraang tumpak at kagilagilalas.
+
+    <p rend="class(signed)"><hi rend=sc>Sofronio G. Calderón.</hi>
+    </body></text></q>
+
+
+<p>Dahil sa talino n&gtilde; isa sa m&gtilde;a &ldquo;Bituin&rdquo; n&gtilde; &ldquo;Kami Naman&rdquo; ang Lupon n&gtilde; m&gtilde;a Manunulat ay nagkamit n&gtilde; karan&gtilde;alang sa &ldquo;Kami Naman&rdquo; nanggaling ang ikatlo sa m&gtilde;a babaing pilipina na kumatha n&gtilde; kasaysayan. Iyan ay si Bb. Pascuala Pintor na sumulat n&gtilde; nobelang &ldquo;Tagumpay n&gtilde; Api&rdquo;, na siyang unang aklat na pinalabas n&gtilde; Lupon n&gtilde; m&gtilde;a Manunulat. Kung ¿ano ang &ldquo;Tagumpay n&gtilde; Api&rdquo;? ang isang liham ni G. Aurelio Tolentino ang dapat sumagot:
+
+
+    <q rend=block><p>&ldquo;<hi rend=sc>Bb. Pascuala Pintor.</hi>
+
+    <p>&ldquo;Mahal na binibini:
+
+    <p>&ldquo;Tinanggap ko po at pinasasalamatan ang mahalagang handog ninyo sa akin, isang salin ng inyong matalinong nobelang &ldquo;Tagumpay ng Apí&rdquo;.
+
+    <p>&ldquo;Kulang ang lahat ng papuring kaya kong sabihin, upang tumbasan ang hiwagang sarap ng aklat na nabanggit. Bukod sa talagang may <pb id=pb164 n=19>kalugodlugod na ganda sa pagkakahanay ng mga salitang bihis ng kanyang mayayamang isipan, ay naghahandog pa sa damdamin ng ulirang buhay na gaya ng kay Teban, aralan gaya ng kay Titay at katarungang gaya ng kay Mameng at kay Leon.
+
+    <p>&ldquo;Palibhasa&apos;y marami na ang mga nobelang Tagalog; dahil sa mga mahahalaga rin naman ay maitutulad sa isang kuwintas na gintong sinasagisag ng bagong buhay. Ang &ldquo;Tagumpay ng Apí&rdquo;, ngayong mapakituhog sa kuwintas na iyan, ay naging pinakamaluningning na «relicariong» tinampakan ng makikinang na batong diamante, at may mahal na laman sa loob, ang buhay na larawan ng kabaitang nagtagumpay sa dagok ng kapaslangang binigti ng katarungan ng sariling damdamin.
+
+    <p>&ldquo;Naghihintay pagutusan ang talisuyo nilang si
+
+
+    <p rend="class(signed)"><hi rend=sc>&ldquo;Aurelio Tolentino</hi>.
+
+    <p>&ldquo;Maynila, ika 30 ng Junio ng 1914.&rdquo;</q>
+
+
+<p>Sumunod na pinalabas n&gtilde; m&gtilde;a manunulat n&gtilde; &ldquo;Kami Naman&rdquo; ang aklat ni G. Rosendo S. Cruz. &ldquo;Tuntunin n&gtilde; Pulong&rdquo; ang pamagat at gaya rin n&gtilde; &ldquo;Tagumpay n&gtilde; Api&rdquo; ay nagtamo n&gtilde; m&gtilde;a bati at papuri. Isa na rito ang kalatas n&gtilde; isang taga Malabon, Rizal, na si G. Amado Jacinto. Aniya&apos;y
+
+
+    <q rend=block><p rend="class(addressline)">&ldquo;Malabon, Rizal, S. P.
+    <lb>&ldquo;Ika 30 ng Okt., 1914.
+
+    <p rend="class(salute)">&ldquo;G. Rosendo S. Cruz.
+
+    <p>&ldquo;Mahal na kaibigan: Tinanggap ko ang isang salin ng iyong mahalaga at munting aklat na ang pamagat ay &ldquo;Tuntunin ng Pulong&rdquo;, at ako&apos;y nagpapasalamat ng marami.
+
+    <p>&ldquo;Rosendo, ang iyong aklat, sa ganang sarili ko, ay dapat mong ipagkapuri. ¿At bakit? Sapagka&apos;t <pb id=pb165 n=20>sa aklat mong itong maliit at mura lamang <corr sic=iay>ay</corr> mayroon kang isang dakilang bagay na matuturo. At ito&apos;y ang pagpapakilala mo sa iba, na ang kahalagahan ng isang katha&apos;y wala sa kapal at sa laki, kundi nasa <hi>uri</hi> at saka sa <hi>layon</hi>: <hi>uring</hi> siyang bilang pinakapagaari ng isang aklat, at <hi>layon</hi> namang siyang tunay na ariariang kinapapalamnan ng dañgal ng isang kumatha.
+
+    <p>&ldquo;Ang <hi>uring</hi> tinutukoy ko rito ñgayon ay hindi ang tungkol sa kalinisan o karumham ng <hi>literatura</hi>, kundi ang kung <hi>nakapagtuturo</hi> o <hi>hindi nakapagtuturo</hi>; at ang sa layon nama&apos;y kung <hi>mabuti</hi> o <hi>híndi</hi>, samakatuwid ay kung ang <hi>pakinabañgan</hi> o makinabang lamang.
+
+    <p>&ldquo;Kapag ang isang aklat ñga&apos;y may uring nakapagtuturo at may mabuting layon, para sa akin ay sukat na, upang kalugdan kong basahin at hanggang sa purihin pa pati ng kumatha.
+
+    <p>&ldquo;¡At lalo pa marahil, kung ang kumathang iya&apos;y isang kaibigang katulad mo! ¿Hindi ba?
+
+    <p>&ldquo;Tungkol sa pagbabasa ng mga aklat ay aking maipagtatapat sa iyong ako ñga&apos;y mayroon ng kakaibang panglasa kay sa dati, at ang sabi ko&apos;y ganito, sapagka&apos;t hindi na ako nalulugod ñgayon sa mga Felipe Trigo at Eduardo Zamacois, diyan sa mga mapaglarawan at mapaglikha ng mga kuwadrong nakapagpapagalaw ng laman at nakapagpapakalam ng balat, na sa mahinang loob ay sapat makapagdulot ng <corr sic=isag>isang</corr> masidhing pagkakilití; kundi doon na unti-unting nawiwili ang aking loob sa mga Heberto Spencer at Samanuel Smiles, sa mga Noé Porter at Tomas Stanley.
+
+    <p>&ldquo;At dahil sa ganitong pagbabago ng aking hilig, ay huwag ilalaki ng iyong loob na ipalagay at sabihing kong ang aklat mo&apos;y lalo pang kapuri-puri kay sa di iisa&apos;t dadalawang naghahalaga riyan ng 40 at 50 <hi>sentimos</hi>, sa pagka&apos;t ang iyo&apos;y nakatutulong <corr sic=sapagtitipid>sa pagtitipid</corr> ng panahon ng mga samahan kung sila&apos;y may pinagpupuluñgan, samantalang ang mga yao&apos;y pawang <pb id=pb166 n=21>mga <hi>awit</hi> ding mistula ng nakalipas na panahon natin, <hi>iba</hi> ñga lamang ang <hi>pañgalan</hi>, <hi>anyo</hi> at <hi>bihis</hi>; dapuwa&apos;y sing-isa ring walang nagagawa kundi ang magparami ng mga pañgahas, pilyo, at palalo.
+
+    <p>&ldquo;Iyan ang mga sanhi, kung kaya&apos;t baga man may kulang at di mo binuó ang &ldquo;Tuntunin ng Pulong&rdquo; na iyong sinulat, ay hinahandugan <corr sic=ding>din</corr> kita ng isang maligayang bati, na kasabay ng pakikikamay ko&apos;y tanggapin mo rito sa tapat<corr sic=.>,</corr> at natatalaga mong kaibigan.
+
+
+    <p rend="class(signed)">(May lagda.) &ldquo;<hi rend=sc>Amado Jacinto.</hi>&rdquo;</q>
+
+
+<p>Ang ikatlong aklat na ipinalimbag ay ang &ldquo;Agawan n&gtilde; Dan&gtilde;al&rdquo; na akda naman ni Bb. Fausta Cortes. Ang nagpanukala&apos;t nagtatag n&gtilde; m&gtilde;a balitang &ldquo;Ilaw at Panitik&rdquo;, &ldquo;Aklatang Barusog&rdquo; (m&gtilde;a Samahan n&gtilde; m&gtilde;a manunulat na tagalog) at &ldquo;Hijos del Siglo&rdquo; na si G. Honorato H. de Lara ay siyang nagpakilala sa madla kung ano ang &ldquo;Agawan n&gtilde; Dan&gtilde;al&rdquo;.
+
+<p>Isang <hi>liga</hi> n&gtilde; <hi>indoor base ball</hi> ang itinanyag naman n&gtilde; Lupon sa Pagpapalakas. Ang <hi>bituing</hi> Concepcion Magallanes ay siyang naghagis n&gtilde; unang pukol n&gtilde; bola. Limang <hi>team</hi> ang lumaro at ito&apos;y ang &ldquo;Marte&rdquo;, &ldquo;Katubusan&rdquo;, &ldquo;Sinag Kapuluan&rdquo;, &ldquo;Makabayan&rdquo;, at &ldquo;Kami Naman&rdquo;. Ang &ldquo;Marte&rdquo; ang nagtamo n&gtilde; tan&gtilde;ing gantingpala.
+
+<p>Ang Lupon n&gtilde; m&gtilde;a Bituin ay kalabisan n&gtilde; sabihin pa kung ano ang nagawa at ginagawa. Sukat ang ipagtapat na utang sa m&gtilde;a &ldquo;bituing&rdquo; ito, ang lahat n&gtilde; ikinilos n&gtilde; &ldquo;Kami Naman&rdquo;. <pb id=pb167 n=22>Paano&apos;y sila ang buhay at kalulwa n&gtilde; Samahan.
+
+<p>Patuloy sa magiliw na pagdadamayan ang Lupon sa Damayan.
+
+<p>N&gtilde;uni&apos;t <corr sic="n&gtilde;">ang</corr> Lupon sa Kalakal ay napahimbing. Ang Lupon na ito lamang ang nagmintis. Gayon ma&apos;y nakapagtayo rin n&gtilde; tindahan noong Febrero n&gtilde; 1913, baga man nabuhay n&gtilde; may anim na buwan lamang.
+
+<p>Sa m&gtilde;a kasiglahang ito n&gtilde; m&gtilde;a lupon n&gtilde; &ldquo;Kami Naman&rdquo; ang Samahan ay palaging nakapagwawasiwas n&gtilde; watawat n&gtilde; tagumpay sa lahat n&gtilde; kanyang balak. At man sa tuwing bago siyang panukala, ang m&gtilde;a pahayagan ay nan&gtilde;agsabing «Bagong maningning na dahon na naman ang mapaparagdag sa hinahan&gtilde;aang kasaysayan n&gtilde; &ldquo;Kami Naman&rdquo;.»
+
+<p>At dapat namang dakilain ang &ldquo;Kami Naman&rdquo;, palibhasa&apos;y isang samahang nakikipagkapatiran sa lahat, sampu sa m&gtilde;a nagpapakaimbi sa pagpatay sa kanya. Kung totoo mang may m&gtilde;a kamaliang nagawa ay totoo rin namang lalong marami ang tumpak na pinan&gtilde;atawanan.
+
+<p>Diyan natapos ang dalawang taong pamamahala ni G. Angel de los Reyes na nagwagi sa tatlong halalang sunod-sunod sa pagka Pan&gtilde;ulo n&gtilde; Samahan.
+
+<p>¡¡¡Panahon ang humatol sa magiging kapalaran n&gtilde; m&gtilde;a samahang katulad n&gtilde; &ldquo;Kami Naman&rdquo;!!!
+
+
+<trailer rend="align(center)">HANGGA</trailer>
+
+
+</div1>
+
+
+<divGen type=toc id=toc>
+
+<divGen type=Colophon>
+
+
+</back>
+</text>
+</TEI.2>
